@@ -222,29 +222,29 @@ dezembro de 1994, e promulgado pelo Decreto n^[o]{.underline}^ 1.355, de
 
 **2. Base Legal do Siscoserv**
 
-[[Lei n^o^]{.underline} [12.546, de 14 de dezembro de 2011, artigos 24 a
+[[Lei nº]{.underline} [12.546, de 14 de dezembro de 2011, artigos 24 a
 27.]{.underline}](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12546.htm)
 
-[[Decreto n^o^]{.underline} [7.708, de 02 de abril de
+[[Decreto nº]{.underline} [7.708, de 02 de abril de
 2012.]{.underline}](http://www.planalto.gov.br/CCIVIL_03/_Ato2011-2014/2012/Decreto/D7708.htm)
 
 [[Portaria MDIC
-n^o^](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4)
+nº](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4)
 113, de 17 de maio de 2012, com suas alterações
 posteriores.]{.underline}
 
 [[Instrução Normativa RFB
-n^o^](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=40&data=29/06/2012)
+nº](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=40&data=29/06/2012)
 1.277, de 28 de junho de 2012, com suas alterações
 posteriores.]{.underline}
 
 [[Portaria Conjunta RFB/SCS
-n^o^](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012)
+nº](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012)
 1.908, de 19 de julho de 2012, com suas alterações
 posteriores.]{.underline}
 
 [[Portaria Conjunta RFB/SCS
-n^o^](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=16/05/2016&jornal=1&pagina=21&totalArquivos=152)
+nº](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=16/05/2016&jornal=1&pagina=21&totalArquivos=152)
 768, de 13 de maio de 2016.]{.underline}
 
 A prestação de informação no Siscoserv observa as normas complementares
@@ -698,7 +698,7 @@ Patrimônio]{.underline}](#3tm4grq) (RVS) e o Registro de Faturamento
 que tem por base a Nomenclatura Brasileira de Serviços, Intangíveis e
 Outras Operações que Produzam Variações no Patrimônio -- NBS, conforme
 previsto no § 5^[º]{.underline}^ do art. 6^[º]{.underline}^ da
-[[Portaria Conjunta RFB/SCS n^o^]{.underline} [1.908, de 19 de julho de
+[[Portaria Conjunta RFB/SCS nº]{.underline} [1.908, de 19 de julho de
 2012]{.underline}](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012).
 
 **8. Modos de Prestação de Serviços -- Módulo Venda**
@@ -836,7 +836,7 @@ Intangíveis e Outras Operações que Produzam Variações no Patrimônio
 (NBS)]{.underline}](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13)
 e pelas respectivas [[Notas Explicativas
 (NEBS)]{.underline}](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13),
-aprovadas pelo [[Decreto n^o^]{.underline} [7.708, de 2 de abril de
+aprovadas pelo [[Decreto nº]{.underline} [7.708, de 2 de abril de
 2012]{.underline}](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7708.htm),
 e suas alterações posteriores.
 
@@ -1095,7 +1095,7 @@ Venda:**
 +-----------------------------------+-----------------------------------+
 | **Mecanismos de Apoio/Fomento**   | **Medida Legal**                  |
 +===================================+===================================+
-| **ACC - Adiantamento sobre        | [[Decreto n^o^]{.underline}       |
+| **ACC - Adiantamento sobre        | [[Decreto nº]{.underline}       |
 | Contrato de Câmbio -- Redução a   | [6.306, de 14 de dezembro de      |
 | Zero do IR e do IOF. **           | 2007, art.                        |
 |                                   | 8º]{.underline}](http://www.plana |
@@ -1114,7 +1114,7 @@ Venda:**
 |                                   | l=1&pagina=143&totalArquivos=232) |
 +-----------------------------------+-----------------------------------+
 | **ACE -- Adiantamento sobre       | [[Decreto                         |
-| Cambiais Entregues - Redução a    | n^o^](http://www.planalto.gov.br/ |
+| Cambiais Entregues - Redução a    | nº](http://www.planalto.gov.br/ |
 | Zero do IR e do IOF. **           | ccivil_03/_Ato2007-2010/2007/Decr |
 |                                   | eto/D6306.htm)                    |
 | Antecipação parcial ou total em   | 6.306, de 14 de dezembro de 2007, |
@@ -1125,7 +1125,7 @@ Venda:**
 | entrega futura. O ACE é concedido | 68]{.underline}](http://www.bcb.g |
 | **após** a prestação de serviço a | ov.br/?CAMBIOREGULA)              |
 | residente ou domiciliado no       |                                   |
-| exterior e geralmente sucede uma  | [[Portaria MDIC n^o^]{.underline} |
+| exterior e geralmente sucede uma  | [[Portaria MDIC nº]{.underline} |
 | operação prévia de ACC.           | [210, de 31 de agosto de          |
 |                                   | 2012]{.underline}](http://pesquis |
 |                                   | a.in.gov.br/imprensa/jsp/visualiz |
@@ -1162,7 +1162,7 @@ Venda:**
 | Garantia prestada pela União nas  | nalto.gov.br/ccivil_03/LEIS/L6704 |
 | operações de Seguro de Crédito à  | .htm)                             |
 | Exportação (SCE), que objetiva    |                                   |
-| segurar as exportações            | [[Lei n^o^]{.underline} [9.818,   |
+| segurar as exportações            | [[Lei nº]{.underline} [9.818,   |
 | brasileiras contra os riscos      | de 23 de agosto de                |
 | comerciais, políticos e           | 1999]{.underline}](http://www.pla |
 | extraordinários que possam afetar | nalto.gov.br/ccivil_03/leis/L9818 |
@@ -1174,26 +1174,26 @@ Venda:**
 |                                   | pt/Institucional/BNDES_Transparen |
 |                                   | te/Fundos/Fge/).                  |
 +-----------------------------------+-----------------------------------+
-| **PROEX - EQUALIZAÇÃO **          | [[Lei n^o^]{.underline} [10.184,  |
+| **PROEX - EQUALIZAÇÃO **          | [[Lei nº]{.underline} [10.184,  |
 |                                   | de 12 de fevereiro de             |
 | Cobertura de parte dos encargos   | 2001]{.underline}](http://www.pla |
 | financeiros incidentes, de forma  | nalto.gov.br/ccivil_03/Leis/LEIS_ |
 | a tornar as taxas de juros        | 2001/L10184.htm)                  |
 | equivalentes às praticadas        |                                   |
-| internacionalmente.               | [[Portaria MDIC n^o^]{.underline} |
+| internacionalmente.               | [[Portaria MDIC nº]{.underline} |
 |                                   | [208, de 20 de outubro de         |
 |                                   | 2010]{.underline}](http://www.mdi |
 |                                   | c.gov.br/arquivos/dwnl_1287751168 |
 |                                   | .pdf)                             |
 +-----------------------------------+-----------------------------------+
-| **PROEX - Financiamento **        | [[Lei n^o^]{.underline} [10.184,  |
+| **PROEX - Financiamento **        | [[Lei nº]{.underline} [10.184,  |
 |                                   | de 12 de fevereiro de             |
 | Financiamento direto ao           | 2001]{.underline}](http://www.pla |
 | exportador brasileiro ou          | nalto.gov.br/ccivil_03/Leis/LEIS_ |
 | importador, com recursos          | 2001/L10184.htm)                  |
 | financeiros obtidos junto ao      |                                   |
 | Tesouro Nacional, para conceder   | [[Portaria MDIC                   |
-| às exportações brasileiras        | n^o^](http://www.desenvolvimento. |
+| às exportações brasileiras        | nº](http://www.desenvolvimento. |
 | condições equivalentes às do      | gov.br/arquivos/dwnl_1307111964.p |
 | mercado internacional.            | df)                               |
 |                                   | 208, de 20 de outubro de 2010\    |
@@ -1220,7 +1220,7 @@ Venda:**
 | credit* (financiamento direto ao  |                                   |
 | importador).                      |                                   |
 +-----------------------------------+-----------------------------------+
-| **FGE - Fundo de Garantia à       | [[Lei n^o^]{.underline} [9.818,   |
+| **FGE - Fundo de Garantia à       | [[Lei nº]{.underline} [9.818,   |
 | Exportação **                     | de 23 de agosto de                |
 |                                   | 1999]{.underline}](http://www.pla |
 | Garantia prestada pela União nas  | nalto.gov.br/ccivil_03/leis/L9818 |
@@ -1235,25 +1235,25 @@ Venda:**
 | operações de crédito à            |                                   |
 | exportação.                       |                                   |
 +-----------------------------------+-----------------------------------+
-| **PROEX - EQUALIZAÇÃO **          | [[Lei n^o^]{.underline} [10.184,  |
+| **PROEX - EQUALIZAÇÃO **          | [[Lei nº]{.underline} [10.184,  |
 |                                   | de 12 de fevereiro de             |
 | Cobertura de parte dos encargos   | 2001]{.underline}](http://www.pla |
 | financeiros incidentes, de forma  | nalto.gov.br/ccivil_03/Leis/LEIS_ |
 | a tornar as taxas de juros        | 2001/L10184.htm)                  |
 | equivalentes às praticadas        |                                   |
-| internacionalmente.               | [[Portaria MDIC n^o^]{.underline} |
+| internacionalmente.               | [[Portaria MDIC nº]{.underline} |
 |                                   | [208, de 20 de outubro de         |
 |                                   | 2010]{.underline}](http://www.mdi |
 |                                   | c.gov.br/arquivos/dwnl_1287751168 |
 |                                   | .pdf)                             |
 +-----------------------------------+-----------------------------------+
-| **PROEX - Financiamento **        | [[Lei n^o^]{.underline} [10.184,  |
+| **PROEX - Financiamento **        | [[Lei nº]{.underline} [10.184,  |
 |                                   | de 12 de fevereiro de             |
 | Financiamento direto ao           | 2001]{.underline}](http://www.pla |
 | exportador brasileiro ou          | nalto.gov.br/ccivil_03/Leis/LEIS_ |
 | importador, com recursos          | 2001/L10184.htm)                  |
 | financeiros obtidos junto ao      |                                   |
-| Tesouro Nacional, para conceder   | [[Portaria MDIC n^o^]{.underline} |
+| Tesouro Nacional, para conceder   | [[Portaria MDIC nº]{.underline} |
 | às exportações brasileiras        | [208, de 20 de outubro de         |
 | condições equivalentes às do      | 2010]{.underline}](http://www.des |
 | mercado internacional.            | envolvimento.gov.br/arquivos/dwnl |
@@ -1558,7 +1558,7 @@ domiciliada no Brasil (RPC).
 **Valor Mantido no Exterior:** refere-se aos recursos em moeda
 estrangeira, relativos aos recebimentos de serviços, intangíveis ou
 [[outras operações que produzam variaçõe]{.underline}](#3tm4grq)s no
-patrimônio, mantidos no exterior, nos termos da [[Lei n^o^]{.underline}
+patrimônio, mantidos no exterior, nos termos da [[Lei nº]{.underline}
 [11.371/2006]{.underline}](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11371.htm)
 e [[Instrução Normativa no 726]{.underline}, de 28 de fevereiro de
 2007](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=15670).
