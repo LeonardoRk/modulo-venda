@@ -249,7 +249,7 @@ nº](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=16/05/2016&
 A prestação de informação no Siscoserv observa as normas complementares
 estabelecidas neste Manual.
 
-**3. Módulos Venda e Aquisição do Siscoserv**
+ **3. Módulos Venda e Aquisição do Siscoserv**
 
 O Siscoserv conta com dois Módulos: **Venda e Aquisição**.
 
@@ -271,7 +271,7 @@ Para maiores informações sobre o Modulo Aquisição acesse:
 
 [[http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-2]{.underline}](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-2)
 
-**4. Registros no Módulo Venda**
+ **4. Registros no Módulo Venda**
 
 No Módulo Venda do Siscoserv estão previstos os seguintes registros:
 
@@ -688,7 +688,7 @@ especulativo de lucro, desde que não realizem operações em valor
 superior a US\$ 30.000,00 (trinta mil dólares dos Estados Unidos da
 América), ou o equivalente em outra moeda, no mês.
 
-**7. Cronograma de registro das informações **
+ **7. Cronograma de registro das informações **
 
 O Registro de Venda de Serviços, [[Intangíveis](#haapch)]{.underline} e
 [[Outras Operações que Produzam Variações no
@@ -1569,7 +1569,7 @@ height="11.84375in"}
 
 **Operacionalização do Sistema**
 
-**1. Acesso ao Siscoserv**
+ **1. Acesso ao Siscoserv**
 
 O acesso ao Siscoserv está disponível no Centro Virtual de Atendimento
 ao Contribuinte (e-CAC) da RFB na internet no endereço:
@@ -1983,7 +1983,7 @@ em Salvar.
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image150.jpg){width="7.260416666666667in"
 height="1.270138888888889in"}
 
-**2. Procedimentos relativos ao registro no Módulo Venda**
+ **2. Procedimentos relativos ao registro no Módulo Venda**
 
 Para entrar no Módulo Venda do Siscoserv, o usuário deve acessar o sítio
 [[www.siscoserv.mdic.gov.br]{.underline}](http://www.siscoserv.mdic.gov.br)
@@ -3430,7 +3430,7 @@ em futuros preenchimentos, que assumirão a última opção marcada.
 A decisão pode ser revista pelo usuário, clicando em **Atendimento à
 legislação** no *menu* lateral esquerdo na tela de **Resumo**.
 
-**1. Dados da Presença Comercial no Exterior**
+ **1. Dados da Presença Comercial no Exterior**
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image41.png){width="6.875in" height="3.5in"}
 
@@ -3491,7 +3491,7 @@ No caso de filial e sucursal, o campo não é disponibilizado.
 Acione **Avançar** para validar os dados e seguir para a próxima tela
 **Dados do Negócio**.
 
-**2. Dados do Negócio**
+ **2. Dados do Negócio**
 
 Em dados do negócio, são incluídas informações relativas à venda de
 serviços, transferência de [[intangíveis]{.underline}](#haapch) e
@@ -3794,7 +3794,7 @@ height="0.2604166666666667in"}, à direita do RPC a ser consultado.
 Após selecionar o RPC que deseja consultar, o Sistema apresenta a tela
 **Resumo do RPC**, que inclui todos os dados do RPC.
 
-**3. Transmissão em Lote**
+ **3. Transmissão em Lote**
 
 A transmissão em lote foi implementada para atender os residentes e
 domiciliados no Brasil que realizam um grande número de transações de
@@ -4237,7 +4237,7 @@ estabelecidos para os registros.
 
 []{#_4jpj0b3 .anchor}
 
-**4. Relatório Gerencial**
+ **4. Relatório Gerencial**
 
 A funcionalidade **Relatório Gerencial** visa a atender uma solicitação
 dos usuários do Siscoserv com vistas a gerar um relatório sobre todas as
@@ -4751,7 +4751,7 @@ height="4.821527777777778in"}
 > C~BR~: RAS pelo serviço de transporte tendo T~EX~ como vendedor e RAS
 > pelo serviço de desconsolidação, tendo D~EX~ como vendedor.
 >
-**2. Seguros**
+ **2. Seguros**
 
 **Cenário 2.1. Contratação de seguro com intermediação de corretora**
 
@@ -4826,7 +4826,7 @@ height="5.1625in"}
 >
 > []{#_4gjguf0 .anchor}
 
-**3. Remessa Expressa**
+ **3. Remessa Expressa**
 
 O serviço de remessa expressa (courier) apresenta, de forma genérica,
 dois possíveis cenários.
@@ -4899,7 +4899,7 @@ legislação pertinente ao Siscoserv e neste Manual.
 
 []{#_3utoxif .anchor}
 
-**4. Expatriados**
+ **4. Expatriados**
 
 A movimentação temporária de pessoas físicas para prestação de serviços
 enseja o registro no Siscoserv, sempre que cumpridos os pilares
