@@ -53,7 +53,7 @@ Venda**](#_2f3j2rp)
 Operações que Produzam Variações no Patrimônio (NBS)**
 ](#_1tdr5v4)
 
-[**10Mecanismos de apoio / fomento ao Comércio Exterior de Serviços e
+[**10. Mecanismos de apoio / fomento ao Comércio Exterior de Serviços e
 Intangíveis** ](#_4ddeoix)
 
 [10.1 - Mecanismos de Apoio / Fomento (Enquadramento) no RVS do Módulo
