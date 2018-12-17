@@ -2,60 +2,59 @@
 
 ## Sumário
 
-[**Capítulo 1 3**](#_30j0zll)
+[**Capítulo 1**](#_30j0zll)
 
-[**Informações gerais e normativas sobre o Siscoserv 3**](#_1fob9te)
+[**Informações gerais e normativas sobre o Siscoserv**](#_1fob9te)
 
-[**1. Introdução** **4**](#_1o97atn)
+[**1. Introdução**](#_1o97atn)
 
-[**2. Base Legal do Siscoserv** **4**](#_488uthg)
+[**2. Base Legal do Siscoserv**](#_488uthg)
 
-[**3. Módulos Venda e Aquisição do Siscoserv** **4**](#_2ne53p9)
+[**3. Módulos Venda e Aquisição do Siscoserv**](#_2ne53p9)
 
-[**4. Registros no Módulo Venda** **5**](#_12jfdx2)
+[**4. Registros no Módulo Venda**](#_12jfdx2)
 
 [4.1. Registro de Venda de Serviços, Intangíveis e Outras Operações que
-Produzam Variações no Patrimônio (RVS) 5](#_3mj2wkv)
+Produzam Variações no Patrimônio (RVS)](#_3mj2wkv)
 
-[4.1.1. Prazo para o RVS 6](#_21od6so)
+[4.1.1. Prazo para o RVS](#_21od6so)
 
-[4.2. Registro de Faturamento (RF) 6](#_gtnh0h)
+[4.2. Registro de Faturamento (RF)](#_gtnh0h)
 
-[4.2.1. Prazos para o RF 7](#_30tazoa)
+[4.2.1. Prazos para o RF](#_30tazoa)
 
-[4.3. Situações especiais de registro 7](#_1fyl9w3)
+[4.3. Situações especiais de registro](#_1fyl9w3)
 
-[4.3.1. Operação com data de conclusão indeterminada: 7](#_147n2zr)
+[4.3.1. Operação com data de conclusão indeterminada:](#_147n2zr)
 
-[4.3.2. Operação iniciada sem que o valor esteja definido: 8](#_3o7alnk)
+[4.3.2. Operação iniciada sem que o valor esteja definido:](#_3o7alnk)
 
 [4.3.3. Operação com pessoas físicas residentes no exterior mediante
-consumo no Brasil: 8](#_23ckvvd)
+consumo no Brasil:](#_23ckvvd)
 
 [4.3.4. Serviços de transporte de passageiros a pessoas físicas
-residentes no exterior 8](#_32hioqz)
+residentes no exterior](#_32hioqz)
 
-[4.4. Registro de Presença Comercial no Exterior (RPC) 9](#_1hmsyys)
+[4.4. Registro de Presença Comercial no Exterior (RPC)](#_1hmsyys)
 
-[4.4.1. Prazo para o RPC 9](#_2grqrue)
+[4.4.1. Prazo para o RPC](#_2grqrue)
 
-[**5. Quem deve efetuar registro no Siscoserv -- Módulo Venda**
-**10**](#_3zy8sjw)
+[**5. Quem deve efetuar registro no Siscoserv -- Módulo Venda**](#_3zy8sjw)
 
 [**6. Quem está dispensado de efetuar registro no Siscoserv -- Módulo
-Venda** **12**](#_2f3j2rp)
+Venda**](#_2f3j2rp)
 
-[**7. Cronograma de registro das informações** **12**](#_u8tczi)
+[**7. Cronograma de registro das informações**](#_u8tczi)
 
 [**8. Modos de Prestação de Serviços -- Módulo Venda**
-**12**](#_3e8gvnb)
+](#_3e8gvnb)
 
 [**9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras
 Operações que Produzam Variações no Patrimônio (NBS)**
-**17**](#_1tdr5v4)
+](#_1tdr5v4)
 
 [**10Mecanismos de apoio / fomento ao Comércio Exterior de Serviços e
-Intangíveis** **21**](#_4ddeoix)
+Intangíveis** ](#_4ddeoix)
 
 [10.1 - Mecanismos de Apoio / Fomento (Enquadramento) no RVS do Módulo
 Venda: 21](#_2sioyqq)
@@ -63,15 +62,15 @@ Venda: 21](#_2sioyqq)
 [10.2 - Mecanismos de Apoio / Fomento (Enquadramento) no RPC do Módulo
 Venda: 23](#_17nz8yj)
 
-[**11. Informações e canais de atendimento** **23**](#_39kk8xu)
+[**11. Informações e canais de atendimento** ](#_39kk8xu)
 
-[**12. Glossário** **25**](#_1opuj5n)
+[**12. Glossário** ](#_1opuj5n)
 
 [**Capítulo 2 29**](#_meukdy)
 
 [**Operacionalização do Sistema 29**](#_meukdy)
 
-[**1. Acesso ao Siscoserv** **30**](#_3rnmrmc)
+[**1. Acesso ao Siscoserv** ](#_3rnmrmc)
 
 [1.1. Como acessar o Siscoserv 30](#_26sx1u5)
 
@@ -91,7 +90,7 @@ Física 35](#_1qoc8b1)
 38](#_3oy7u29)
 
 [**2. Procedimentos relativos ao registro no Módulo Venda**
-**41**](#_1l354xk)
+](#_1l354xk)
 
 [2.1. Inclusão do RVS 43](#_452snld)
 
@@ -121,7 +120,7 @@ Física 35](#_1qoc8b1)
 
 [2.3.4. Consulta ao RPC 101](#_4a7cimu)
 
-[**3. Transmissão em Lote** **102**](#_2pcmsun)
+[**3. Transmissão em Lote** ](#_2pcmsun)
 
 [3.1. Procedimentos para envio do arquivo de lote 106](#_n5rssn)
 
@@ -133,7 +132,7 @@ Física 35](#_1qoc8b1)
 
 [3.4. Cumprimento de Prazos na Transferência em Lote 116](#_3ohklq9)
 
-[**4. Relatório Gerencial** **116**](#_4jpj0b3)
+[**4. Relatório Gerencial** ](#_4jpj0b3)
 
 [4.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa
 Jurídica 116](#_2yutaiw)
@@ -144,13 +143,13 @@ Física 121](#_2d51dmb)
 [4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor
 122](#_3c9z6hx)
 
-[**Capítulo 3** **124**](#_1rf9gpq)
+[**Capítulo 3** ](#_1rf9gpq)
 
 [**Cenários Exemplificativos de Registro no Siscoserv**
-**124**](#_1rf9gpq)
+](#_1rf9gpq)
 
 [**1. Registro de Transporte Internacional de Cargas (Frete)**
-**125**](#_23muvy2)
+](#_23muvy2)
 
 [Cenário 1.1. Transporte internacional de cargas intermediado por agente
 de cargas. 125](#_is565v)
@@ -176,7 +175,7 @@ desconsolidação de cargas. 129](#_3g6yksp)
 [Exportação brasileira com a obrigação de transportar da empresa
 brasileira 129](#_1vc8v0i)
 
-[**2. Seguros** **130**](#_4fbwdob)
+[**2. Seguros** ](#_4fbwdob)
 
 [Cenário 2.1. Contratação de seguro com intermediação de corretora
 130](#_2uh6nw4)
@@ -184,7 +183,7 @@ brasileira 129](#_1vc8v0i)
 [Cenário 2.2. Contratação de seguro de estipulante domiciliada ou
 residente no Brasil 131](#_19mgy3x)
 
-[**3. Remessa Expressa** **132**](#_4gjguf0)
+[**3. Remessa Expressa** ](#_4gjguf0)
 
 [Cenário 3.1. Empresa brasileira exportadora (ou importadora) faturada
 por empresa estrangeira prestadora do serviço de remessa expressa
@@ -193,7 +192,7 @@ por empresa estrangeira prestadora do serviço de remessa expressa
 [Cenário 3.2. Empresa brasileira faturada pela filial residente ou
 domiciliada no Brasil de empresa estrangeira 132](#_1au1eum)
 
-[**4. Expatriados** **133**](#_3utoxif)
+[**4. Expatriados** ](#_3utoxif)
 
 [Cenário 1 134](#_29yz7q8)
 
