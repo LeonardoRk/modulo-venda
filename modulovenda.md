@@ -68,7 +68,7 @@ Venda:](#_17nz8yj)
 
 [**Capítulo 2**](#_meukdy)
 
-[**Operacionalização do Sistema 29**](#_meukdy)
+[**Operacionalização do Sistema **](#_meukdy)
 
 [**1. Acesso ao Siscoserv** ](#_3rnmrmc)
 
@@ -200,8 +200,7 @@ height="11.677083333333334in"}
 
 # **Capítulo 1**
 
-[]{#_1fob9te .anchor}**Informações gerais e normativas sobre o
-Siscoserv**
+# []{#_1fob9te .anchor}**Informações gerais e normativas sobre o Siscoserv
 
 **1. Introdução**
 
