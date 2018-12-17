@@ -1,12 +1,6 @@
-MANUAL
+# MANUAL MODULO VENDA 12ª. Edição
 
-MODULO
-
-VENDA
-
-12ª. Edição
-
-**Sumário**
+## Sumário
 
 [**Capítulo 1 3**](#_30j0zll)
 
@@ -209,7 +203,7 @@ domiciliada no Brasil de empresa estrangeira 132](#_1au1eum)
 ![](./myMediaFolder/media/image22.png){width="8.235416666666667in"
 height="11.677083333333334in"}
 
-**Capítulo 1**
+# **Capítulo 1**
 
 []{#_1fob9te .anchor}**Informações gerais e normativas sobre o
 Siscoserv**
