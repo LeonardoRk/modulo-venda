@@ -195,7 +195,7 @@ domiciliada no Brasil de empresa estrangeira](#_1au1eum)
 [Cenário 2](#_p49hy1)
 
 []{#_30j0zll .anchor}\
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image22.png){width="8.235416666666667in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png){width="8.235416666666667in"
 height="11.677083333333334in"}
 
 # **Capítulo 1**
@@ -335,7 +335,7 @@ O prazo para incluir o RVS é até o último dia útil do 3^[o]{.underline}^
 (terceiro) mês subsequente à [[data de início da prestação de
 serviço]{.underline}](#48pi1tg)[^3]
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image155.png){width="5.333333333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image155.png)
 height="2.2805555555555554in"}
 
 Até 31 de dezembro de 2013, o prazo para o RVS foi, excepcionalmente,
@@ -343,7 +343,7 @@ até o último dia útil do 6^[º]{.underline}^ (sexto) mês subsequente à
 data de início da prestação de serviço, da comercialização de intangível
 ou da realização de operação que produza variação no patrimônio.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image148.png){width="3.186111111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image148.png){width="3.186111111111111in"
 height="3.532638888888889in"}
 
 **4.2. Registro de Faturamento (RF)**
@@ -541,7 +541,7 @@ partir de 2014, em relação ao ano-calendário anterior, até o último dia
 meio de presença comercial no exterior relacionada à pessoa jurídica
 domiciliada no Brasil.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image149.png){width="4.240972222222222in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image149.png){width="4.240972222222222in"
 height="2.790277777777778in"}
 
 []{#_vx1227 .anchor}
@@ -732,7 +732,7 @@ Exemplos:
     > empresa domiciliada no Brasil a residentes no exterior.
 
 > ![Imagens
-> Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image154.jpg){width="4.629861111111111in"
+> Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image154.jpg){width="4.629861111111111in"
 > height="3.2555555555555555in"}
 
 **Modo 2 - Consumo no Brasil:** serviço prestado por residente ou
@@ -758,7 +758,7 @@ Exemplos:
 -   serviços de hospedagem prestados no Brasil a residente no exterior.
 
 > ![Imagens
-> Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image160.jpg){width="4.960416666666666in"
+> Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image160.jpg){width="4.960416666666666in"
 > height="3.5034722222222223in"}
 
 **Modo 3 - Presença comercial no exterior:** consiste na prestação de
@@ -779,7 +779,7 @@ Exemplos:
     > exterior.
 
 ![Imagens
-Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image172.jpg){width="5.0993055555555555in"
+Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image172.jpg){width="5.0993055555555555in"
 height="3.615972222222222in"}
 
 **Modo 4 -- Movimento temporário de pessoas físicas:** [[residentes no
@@ -800,7 +800,7 @@ Exemplos:
     > prestar consultoria jurídica.
 
 ![Imagens
-Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image156.jpg){width="5.354861111111111in"
+Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image156.jpg){width="5.354861111111111in"
 height="3.8319444444444444in"}
 
 Devem registrar [[operações]{.underline}](#upglbi) em Modo 4 no Módulo
@@ -943,7 +943,7 @@ A sistemática de classificação dos códigos da NBS obedece à seguinte
 estrutura:
 
 > ![Descrição: Descrição:
-> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image162.png){width="4.166666666666667in"
+> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image162.png){width="4.166666666666667in"
 > height="1.3645833333333333in"}
 
 Exemplo:
@@ -983,7 +983,7 @@ subitem como, por exemplo:
 
 O usuário pode informar diretamente o código, ou localizá-lo acionando a
 ferramenta de busca: ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image21.png){width="0.3645833333333333in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png){width="0.3645833333333333in"
 height="0.23958333333333334in"}, situada ao lado do campo **Código
 NBS**.
 
@@ -1024,7 +1024,7 @@ nível de detalhamento (nove dígitos).
 Para utilizar a ferramenta de busca:
 
 > 1-   no campo **Código NBS**, acionar botão ![Descrição: Descrição:
-> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image21.png){width="0.3645833333333333in"
+> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png){width="0.3645833333333333in"
 > height="0.23958333333333334in"};
 >
 > 2-   é aberta a janela **Seleção de Código NBS** para realização da
@@ -1038,14 +1038,14 @@ expandindo os níveis "Capítulo", "Posição", "Subposição", "Item" e
 "Subitem", conforme o caso. Uma vez identificado o código NBS,
 acionar**.**
 
-> ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image159.png){width="5.958333333333333in"
+> ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image159.png){width="5.958333333333333in"
 > height="3.3194444444444446in"}
 
 **Utilizar Pesquisa por Descrição:** no campo **Descrição**, informe
 termo que identifique o serviço, acione **Pesquisar**, selecione com um
 clique um dos códigos NBS localizados, acione **Confirmar.**
 
-> ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image161.png){width="6.055555555555555in"
+> ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image161.png){width="6.055555555555555in"
 > height="2.7916666666666665in"}
 
 Em caso de dúvidas sobre classificação da NBS, consulte as Regras de
@@ -1565,7 +1565,7 @@ e [[Instrução Normativa no 726]{.underline}, de 28 de fevereiro de
 
 []{#_meukdy .anchor}\
 **Capítulo
-2**![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image22.png){width="8.352777777777778in"
+2**![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png){width="8.352777777777778in"
 height="11.84375in"}
 
 **Operacionalização do Sistema**
@@ -1592,7 +1592,7 @@ por estabelecimento.
 
 **Figura:** Fluxo de acesso ao Siscoserv
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image120.png){width="3.520138888888889in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image120.png){width="3.520138888888889in"
 height="2.6381944444444443in"}
 
 []{#_zu0gcz .anchor}
@@ -1716,12 +1716,12 @@ direcionado diretamente para a ficha de Informações Cadastrais. Não será
 possível efetuar novo registro antes de preencher os dados
 solicitados.]{.underline}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image138.jpg){width="6.554166666666666in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image138.jpg){width="6.554166666666666in"
 height="2.571527777777778in"}
 
 Passo 2: Preenche o CNPJ da empresa e clica em avançar;
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image170.jpg){width="6.621527777777778in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image170.jpg){width="6.621527777777778in"
 height="1.8645833333333333in"}
 
 Passo 3: O Sistema apresenta uma tela para a inserção dos dados
@@ -1762,7 +1762,7 @@ campos obrigatórios:
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais
-Vendas3.1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image169.jpg){width="6.770833333333333in"
+Vendas3.1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image169.jpg){width="6.770833333333333in"
 height="5.3277777777777775in"}
 
 Existem outros Campos de preenchimento opcional:
@@ -1793,13 +1793,13 @@ Obrigatórios assim que um novo Registro for iniciado.
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais
-Vendas3.2.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image171.jpg){width="7.272916666666666in"
+Vendas3.2.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image171.jpg){width="7.272916666666666in"
 height="5.722916666666666in"}
 
 Passo 4: Após o preenchimento das informações, o Usuário/Responsável
 clica em Salvar.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image166.jpg){width="7.2652777777777775in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image166.jpg){width="7.2652777777777775in"
 height="1.2291666666666667in"}
 
 []{#_1qoc8b1 .anchor}
@@ -1817,7 +1817,7 @@ solicitados.]{.underline}
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais
-Vendas1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image138.jpg){width="7.268055555555556in"
+Vendas1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image138.jpg){width="7.268055555555556in"
 height="2.854861111111111in"}
 
 Passo 2: Preenche o CPF da Pessoa Física que está representando e clica
@@ -1825,7 +1825,7 @@ em avançar;
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais
-Vendas4.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image137.jpg){width="7.272916666666666in"
+Vendas4.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image137.jpg){width="7.272916666666666in"
 height="1.9784722222222222in"}
 
 Passo 3: O Sistema apresenta uma tela para a inserção dos dados
@@ -1855,7 +1855,7 @@ campos obrigatórios:
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais
-Vendas5.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image151.jpg){width="7.2652777777777775in"
+Vendas5.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image151.jpg){width="7.2652777777777775in"
 height="4.56875in"}
 
 Existem outros Campos de preenchimento opcional. São campos de
@@ -1887,13 +1887,13 @@ Obrigatórios assim que um novo Registro for iniciado.
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais
-Vendas5.1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image145.jpg){width="7.272916666666666in"
+Vendas5.1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image145.jpg){width="7.272916666666666in"
 height="4.530555555555556in"}
 
 Passo 4: Após a atualização das informações, o Usuário/Responsável clica
 em Salvar.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image146.jpg){width="7.268055555555556in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image146.jpg){width="7.268055555555556in"
 height="1.2854166666666667in"}
 
 []{#_3oy7u29 .anchor}
@@ -1911,13 +1911,13 @@ solicitados.]{.underline}
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais
-Vendas1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image138.jpg){width="7.268055555555556in"
+Vendas1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image138.jpg){width="7.268055555555556in"
 height="2.779861111111111in"}
 
 Passo 2: Seleciona a Opção "O usuário é o próprio Vendedor" e clica em
 Avançar;
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image165.jpg){width="7.210416666666666in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image165.jpg){width="7.210416666666666in"
 height="1.8965277777777778in"}
 
 Passo 3: O Sistema apresenta uma tela para a inserção dos Dados
@@ -1944,7 +1944,7 @@ campos obrigatórios:
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais
-Vendas7.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image158.jpg){width="7.2659722222222225in"
+Vendas7.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image158.jpg){width="7.2659722222222225in"
 height="3.3826388888888888in"}
 
 Existem outros campos de preenchimento opcional:
@@ -1975,13 +1975,13 @@ Obrigatórios assim que um novo Registro for iniciado.
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais
-Vendas7.2.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image163.jpg){width="7.268055555555556in"
+Vendas7.2.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image163.jpg){width="7.268055555555556in"
 height="3.411111111111111in"}
 
 Passo 4: Após a atualização das informações, o Usuário/Responsável clica
 em Salvar.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image150.jpg){width="7.260416666666667in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image150.jpg){width="7.260416666666667in"
 height="1.270138888888889in"}
 
 **2. Procedimentos relativos ao registro no Módulo Venda**
@@ -1994,7 +1994,7 @@ certificado digital que autoriza o acesso ao Sistema, selecionar
 **Siscoserv - Módulo Venda** no campo **Escolha um dos serviços
 disponíveis: Sistema.**
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image19.png){width="6.870138888888889in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image19.png){width="6.870138888888889in"
 height="2.83125in"}
 
 Nota: As telas podem apresentar configurações diferentes, dependendo do
@@ -2051,13 +2051,13 @@ transmissão em lote.
 Para incluir um Registro de Venda de Serviços (RVS) é preciso acessar o
 *menu* **RVS** e em seguida a opção **Incluir**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image25.png){width="6.854861111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image25.png){width="6.854861111111111in"
 height="3.529166666666667in"}
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com
 informação advinda de seu Certificado Digital.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image20.png){width="6.863194444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image20.png){width="6.863194444444445in"
 height="2.4472222222222224in"}
 
 No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de
@@ -2073,7 +2073,7 @@ ou **Aproveitar Dados de RVS Incluído**.
 Na opção **Criar Novo RVS**, os campos a serem preenchidos estarão em
 branco. Para usar essa opção, selecione **Criar Novo RVS** e acione o
 botão ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image24.png){width="0.3541666666666667in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}
 
 Cada RVS destina-se a apenas um contrato de prestação de serviços[^12].
@@ -2094,32 +2094,32 @@ Sistema apresentará as seguintes opções:
 a)  **Informar o Número do RVS:** selecionada esta opção, preencha o
     > campo com número de RVS do qual se deseja aproveitar os dados e
     > acione o botão ![Descrição: Descrição:
-    > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image24.png){width="0.3541666666666667in"
+    > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png){width="0.3541666666666667in"
     > height="0.2604166666666667in"}.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image23.png){width="6.870138888888889in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image23.png){width="6.870138888888889in"
 height="2.425in"}
 
 b)  **Exibir Lista dos RVS Incluídos:** selecionada esta opção, acione o
     > botão ![Descrição: Descrição:
-    > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image21.png){width="0.3645833333333333in"
+    > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png){width="0.3645833333333333in"
     > height="0.23958333333333334in"}. O Sistema exibe lista de RVS
     > incluídos, do mais recente para o mais antigo. Acione o botão
     > ![Descrição: Descrição:
-    > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image24.png){width="0.3541666666666667in"
+    > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png){width="0.3541666666666667in"
     > height="0.2604166666666667in"}, à direita do RVS desejado.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image26.png){width="6.843055555555556in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image26.png){width="6.843055555555556in"
 height="2.863888888888889in"}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image28.png){width="6.873611111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image28.png){width="6.873611111111111in"
 height="4.372916666666667in"}
 
 **Opção de Atendimento à Legislação**
 
 Em seguida, o Siscoserv apresenta a seguinte tela:
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image13.png){width="6.870138888888889in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image13.png){width="6.870138888888889in"
 height="2.1145833333333335in"}
 
 O usuário deve indicar que as informações objeto de registro serão
@@ -2151,7 +2151,7 @@ realizada com pessoa física, pessoa jurídica ou [[ente
 despersonalizado]{.underline}](#2250f4o)
 [[residente]{.underline}](#1tuee74) ou domiciliado no Brasil.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image15.png){width="6.871527777777778in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image15.png){width="6.871527777777778in"
 height="2.9652777777777777in"}
 
 **Nome do Adquirente** -- Preencha o nome da pessoa física ou o nome
@@ -2176,20 +2176,20 @@ Caso não seja informado o **NIF**, deve-se selecionar uma das opções de
 **Motivo do não preenchimento**: **Dispensado do NIF** ou **País não
 exige NIF**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image16.png){width="6.881944444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image16.png){width="6.881944444444445in"
 height="3.486111111111111in"}
 
 Deve-se indicar se o adquirente é pessoa vinculada ao vendedor nos
 termos do [[art. 23 da Lei 9.430 de dezembro de
 1996]{.underline}](http://www.planalto.gov.br/ccivil_03/LEIS/L9430.htm#art23).
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image5.png){width="6.881944444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image5.png){width="6.881944444444445in"
 height="3.486111111111111in"}
 
 Caso o adquirente seja pessoa vinculada ao vendedor, selecione o tipo de
 vinculação.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image17.png){width="6.881944444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image17.png){width="6.881944444444445in"
 height="3.7055555555555557in"}
 
 Acione **Avançar** para validar os dados e seguir para a próxima tela
@@ -2297,10 +2297,10 @@ Durante o preenchimento do registro, caso haja mais de uma
 alterar a moeda, deve-se concluir a inclusão da operação e na próxima
 tela alterar a moeda na primeira operação registrada naquele RVS,
 acionando o botão ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image14.png){width="0.3541666666666667in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image14.png){width="0.3541666666666667in"
 height="0.23958333333333334in"}.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image4.png){width="6.8694444444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image4.png){width="6.8694444444444445in"
 height="2.954861111111111in"}
 
 A alteração da **Moeda** na primeira operação do registro altera a moeda
@@ -2309,7 +2309,7 @@ essa alteração não promove a conversão automática do valor em função da
 moeda alterada. Se for o caso, o usuário deve converter o valor de cada
 operação em função da nova moeda do registro.
 
-![manual8ed\_enq01\_venda](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image30.png){width="6.852777777777778in"
+![manual8ed\_enq01\_venda](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image30.png){width="6.852777777777778in"
 height="4.179166666666666in"}
 
 [**Modo de Prestação:**](#_11bux6d)
@@ -2384,30 +2384,30 @@ mecanismo de apoio/fomento ao comércio exterior nos termos do art. 26 da
 Lei 12.546/2011?". O Sistema abrirá uma nova tela para inclusão do(s)
 mecanismo(s) de apoio.
 
-> ![manual8ed\_enq02\_venda](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image12.png){width="6.488194444444445in"
+> ![manual8ed\_enq02\_venda](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image12.png){width="6.488194444444445in"
 > height="1.7284722222222222in"}
 
 Selecione o [[Mecanismo](#4kgg8ps) de apoio/fomento]{.underline}
 desejado, no campo Enquadramento, e acione o botão ![Descrição:
 Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image3.png){width="0.32222222222222224in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image3.png){width="0.32222222222222224in"
 height="0.20833333333333334in"} para adicioná-lo ao RVS.
 
 No caso de mecanismo vinculado a Registro de Operação de Crédito, tais
 como BNDES-EXIM e PROEX, preencher campo **Número do RC** com o
 respectivo número e acionar o botão ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image10.png){width="0.31319444444444444in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png){width="0.31319444444444444in"
 height="0.20833333333333334in"} para adicioná-lo ao RVS. Caso contrário,
 clique diretamente em ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image10.png){width="0.31319444444444444in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png){width="0.31319444444444444in"
 height="0.20833333333333334in"}.
 
-> ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image46.jpg){width="6.382638888888889in"
+> ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image46.jpg){width="6.382638888888889in"
 > height="2.1145833333333335in"}
 
 Caso deseje excluir um enquadramento selecionado, o usuário deve acionar
 o botão ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image6.png){width="0.3333333333333333in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png){width="0.3333333333333333in"
 height="0.21875in"}.
 
 Para maiores informações acerca da lista de enquadramentos disponíveis
@@ -2419,7 +2419,7 @@ para seleção no Módulo Venda, veja o [[item 10.1 do capítulo
 Deve ser indicado se a operação está vinculada à [[movimentação
 temporária de bens]{.underline}](#1gf8i83).
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image44.png){width="6.881944444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image44.png){width="6.881944444444445in"
 height="5.348611111111111in"}
 
 Se a operação estiver vinculada à movimentação temporária de bens,
@@ -2431,12 +2431,12 @@ realizado no Siscomex.]{.underline}
 
 Para incluir mais de um número de DI ou de DU-E (ou RE), clique no ícone
 ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image10.png){width="0.31319444444444444in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png){width="0.31319444444444444in"
 height="0.20833333333333334in"}.
 
 Para excluir número de DI ou de DU-E (ou RE), clique no ícone
 ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image6.png){width="0.3333333333333333in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png){width="0.3333333333333333in"
 height="0.21875in"} à direita do número registrado.
 
 [Inclusão de Operação no RVS]{.underline}
@@ -2448,7 +2448,7 @@ País / País de Destino**, **Código da Moeda / Descrição da Moeda**,
 acionar o botão **Adicionar [[Operação]{.underline}](#upglbi)** para
 inclusão da operação no RVS.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image45.png){width="6.873611111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image45.png){width="6.873611111111111in"
 height="3.3381944444444445in"}
 
 Caso deseje incluir outra operação no mesmo RVS, clique em **Adicionar
@@ -2456,12 +2456,12 @@ Operação.**
 
 Caso deseje alterar uma operação adicionada ao RVS, acione o botão
 ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image14.png){width="0.3541666666666667in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image14.png){width="0.3541666666666667in"
 height="0.23958333333333334in"}.
 
 Caso deseje excluir uma operação adicionada ao RVS, acione o botão
 ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image6.png){width="0.3333333333333333in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png){width="0.3333333333333333in"
 height="0.21875in"}. A exclusão de uma operação só é possível antes da
 confirmação da inclusão do RVS.
 
@@ -2497,7 +2497,7 @@ Produzam Variações no Patrimônio (RVS)]{.underline}](#_3gnlt4p)
 
 Acione **Avançar** para seguir para o próximo passo.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image36.png){width="6.86875in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image36.png){width="6.86875in"
 height="2.26875in"}
 
 **Resumo do RVS**
@@ -2505,10 +2505,10 @@ height="2.26875in"}
 A tela **Resumo do RVS** traz as informações preenchidas pelo usuário
 para incluir o RVS.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image37.png){width="6.868055555555555in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image37.png){width="6.868055555555555in"
 height="4.040972222222222in"}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image40.jpg){width="6.881944444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image40.jpg){width="6.881944444444445in"
 height="5.209027777777778in"}
 
 Os dados devem ser conferidos antes da inclusão do RVS.
@@ -2524,7 +2524,7 @@ Para que o RVS seja gerado, é preciso acionar o botão **Incluir**.
 O Sistema retornará mensagem de confirmação da inclusão dos dados no
 Siscoserv e apresentará o número de identificação do RVS.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image32.png){width="6.86875in" height="1.2in"}
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image32.png){width="6.86875in" height="1.2in"}
 
 Após a disponibilização do Número de Confirmação da inclusão do RVS, o
 registro está efetuado.
@@ -2573,7 +2573,7 @@ poderão ser alterados por meio da função **Retificar Aditivo ao RVS**.
 Para incluir um Aditivo ao RVS, é preciso acessar o *menu* **Aditivo** e
 em seguida a opção **Incluir**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image48.png){width="6.872916666666667in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image48.png){width="6.872916666666667in"
 height="2.66875in"}
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com
@@ -2586,7 +2586,7 @@ deve marcar a opção que indica essa situação. Para atuar como
 representante legal de outra pessoa, física ou jurídica, o usuário deve
 possuir [[procuração eletrônica]{.underline}](#1s66p4f) do representado.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image29.png){width="6.8590277777777775in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image29.png){width="6.8590277777777775in"
 height="3.1638888888888888in"}
 
 Para incluir um aditivo a um registro, o usuário tem como opções:
@@ -2595,25 +2595,25 @@ Para incluir um aditivo a um registro, o usuário tem como opções:
 Selecionada a opção **Informar o Número do RVS,** preencha o campo com
 número de RVS que se deseja aditar e acione o botão ![Descrição:
 Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image8.png){width="0.3541666666666667in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image78.png){width="6.852083333333334in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image78.png){width="6.852083333333334in"
 height="2.470138888888889in"}
 
 Selecionada a opção **Exibir Lista de RVS Incluídos,** acione o botão
 ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image68.png){width="0.3645833333333333in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png){width="0.3645833333333333in"
 height="0.23958333333333334in"}. O Sistema exibe lista de RVS incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image24.png){width="0.3541666666666667in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}, à direita do RVS desejado.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image33.png){width="6.877777777777778in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image33.png){width="6.877777777777778in"
 height="2.53125in"}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image31.png){width="6.877083333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image31.png){width="6.877083333333333in"
 height="3.6944444444444446in"}
 
 Após selecionar o RVS que deseja aditar, siga os passos descritos a
@@ -2629,7 +2629,7 @@ Após conferir os dados na tela **Resumo do RVS**, acione o botão
 O Sistema retornará mensagem de confirmação da inclusão dos dados no
 Siscoserv e apresentará número do aditivo ao RVS.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image72.png){width="6.874305555555556in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image72.png){width="6.874305555555556in"
 height="1.2770833333333333in"}
 
 **Após a inclusão de um Aditivo ao RVS não é possível o seu
@@ -2640,7 +2640,7 @@ de lote não podem ser editados (retificados, aditados, etc.)
 manualmente. Caso o usuário tente editar o registro manualmente, o
 Sistema apresentará a seguinte tela:
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image86.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png){width="6.889583333333333in"
 height="3.0104166666666665in"}
 
 []{#_4cmhg48 .anchor}
@@ -2658,7 +2658,7 @@ utilize a função [ [Inclusão de Aditivo](#_4c5u7s8) ao RVS.
 Para retificar um RVS é preciso acessar o *menu* **RVS** e em seguida
 **Retificar**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image93.png){width="6.875694444444444in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image93.png){width="6.875694444444444in"
 height="2.827777777777778in"}
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com
@@ -2677,25 +2677,25 @@ RVS** ou **Exibir Lista de RVS Incluídos**.
 Selecionada a opção **Informar o Número do RVS,** preencha o campo com o
 número de RVS que se deseja retificar e acione o botão ![Descrição:
 Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image8.png){width="0.3541666666666667in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image77.png){width="6.824305555555555in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image77.png){width="6.824305555555555in"
 height="2.5909722222222222in"}
 
 Selecionada a opção **Exibir Lista de RVS Incluídos,** acione o botão
 ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image68.png){width="0.3645833333333333in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png){width="0.3645833333333333in"
 height="0.23958333333333334in"}. O Sistema exibe lista de RVS incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image24.png){width="0.3541666666666667in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}, à direita do RVS desejado.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image79.png){width="6.838888888888889in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image79.png){width="6.838888888888889in"
 height="2.2083333333333335in"}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image67.png){width="6.835416666666666in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image67.png){width="6.835416666666666in"
 height="3.3305555555555557in"}
 
 Após selecionar o RVS que deseja retificar, siga os passos descritos no
@@ -2706,7 +2706,7 @@ Após conferir os dados retificados na tela **Resumo do RVS**, acione o
 botão **Incluir** para retificar o RVS. O Sistema retornará mensagem de
 confirmação de retificação dos dados no Siscoserv.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image71.png){width="6.840972222222222in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image71.png){width="6.840972222222222in"
 height="1.2430555555555556in"}
 
 Os RVS podem ter todos os campos retificados antes da inclusão de
@@ -2772,7 +2772,7 @@ de lote não podem ser editados (retificados, aditados, etc.)
 manualmente. Caso o usuário tente editar o registro manualmente, o
 Sistema apresentará a seguinte tela:
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image86.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png){width="6.889583333333333in"
 height="3.0416666666666665in"}
 
 Não pode ser incluída nova operação por meio de retificação. Para
@@ -2786,7 +2786,7 @@ O aditivo ao RVS não pode ser cancelado, cabendo apenas retificações.
 Para retificar um aditivo ao RVS é preciso acessar o *menu* **Aditivo**
 e em seguida **Retificar**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image55.png){width="6.835416666666666in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image55.png){width="6.835416666666666in"
 height="2.270138888888889in"}
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com
@@ -2805,26 +2805,26 @@ o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
 Selecionada a opção **Informar o Número do RVS,** preencha o campo com o
 número de RVS que se deseja retificar. Informe o número do aditivo que
 se deseja retificar e acione o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image8.png){width="0.3541666666666667in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image63.png){width="6.8597222222222225in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image63.png){width="6.8597222222222225in"
 height="2.783333333333333in"}
 
 Selecionada a opção **Exibir Lista de RVS Incluídos,** informe o número
 do aditivo que se deseja retificar e acione o botão ![Descrição:
 Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image68.png){width="0.3645833333333333in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png){width="0.3645833333333333in"
 height="0.23958333333333334in"}. O Sistema exibe lista de RVS incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image24.png){width="0.3541666666666667in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}, à direita do RVS desejado.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image61.png){width="6.876388888888889in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image61.png){width="6.876388888888889in"
 height="2.2527777777777778in"}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image64.png){width="6.877777777777778in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image64.png){width="6.877777777777778in"
 height="3.792361111111111in"}
 
 Após selecionar o RVS cujo aditivo se deseja retificar, o Sistema mostra
@@ -2832,17 +2832,17 @@ a tela **[[Dados do Negócio]{.underline}](#2981zbj)** do RVS
 selecionado, indicando as [[operações]{.underline}](#upglbi) cadastradas
 no registro original e todos os termos aditivos. Há dois tipos de
 ícones: Visualizar -
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image50.png){width="0.3333333333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image50.png){width="0.3333333333333333in"
 height="0.21875in"} e Alterar -
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image58.png){width="0.3333333333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image58.png){width="0.3333333333333333in"
 height="0.21875in"}. O ícone para alterar aparece apenas ao lado do
 aditivo que se deseja retificar, informado na tela anterior.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image53.png){width="6.85in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image53.png){width="6.85in"
 height="4.688888888888889in"}
 
 Ao clicar no ícone
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image58.png){width="0.3333333333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image58.png){width="0.3333333333333333in"
 height="0.21875in"} o Sistema mostra a tela [**[Dados do
 Negócio]{.underline}**](#2981zbj) do aditivo que se deseja retificar. O
 usuário deve efetuar o preenchimento, seguindo os passos descritos no
@@ -2853,7 +2853,7 @@ Após conferir os dados retificados na tela **Resumo do RVS**, acione o
 botão **Incluir** para retificar o aditivo ao RVS. O Sistema retornará
 mensagem de confirmação de retificação do aditivo.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image90.png){width="6.867361111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image90.png){width="6.867361111111111in"
 height="1.26875in"}
 
 Os aditivos ao RVS podem ter todos os campos retificados antes da
@@ -2917,7 +2917,7 @@ de lote não podem ser editados (retificados, aditados, etc.)
 manualmente. Caso o usuário tente editar o registro manualmente, o
 Sistema apresentará a seguinte tela:
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image86.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png){width="6.889583333333333in"
 height="3.0416666666666665in"}
 
 **2.1.4. Consulta ao RVS ou ao Aditivo ao RVS**
@@ -2927,13 +2927,13 @@ Esta função permite efetuar consulta a dados dos RVS no Sistema.
 Para consultar um RVS é preciso acessar o *menu* **RVS** e em seguida
 **Consultar**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image104.png){width="6.865277777777778in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image104.png){width="6.865277777777778in"
 height="2.339583333333333in"}
 
 Para consultar um aditivo ao RVS é preciso acessar o *menu* **Aditivo**
 e em seguida **Consultar**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image98.png){width="6.8694444444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image98.png){width="6.8694444444444445in"
 height="2.3645833333333335in"}
 
 Ao clicar o botão **Consultar**, o campo CPF do usuário é preenchido
@@ -2953,35 +2953,35 @@ Para consultar um RVS ou um Aditivo ao RVS, o usuário tem como opções:
 Selecionada a opção **Informar o Número do RVS,** preencha o campo com o
 número do RVS que se deseja consultar e acione o botão ![Descrição:
 Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image8.png){width="0.3541666666666667in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image125.png){width="6.874305555555556in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image125.png){width="6.874305555555556in"
 height="2.546527777777778in"}
 
 Selecionada a opção **Exibir Lista de RVS Incluídos,** acione o botão
 ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image68.png){width="0.3645833333333333in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png){width="0.3645833333333333in"
 height="0.23958333333333334in"}. O Sistema exibe lista de RVS incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image24.png){width="0.3541666666666667in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}, à direita do RVS desejado.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image124.png){width="6.878472222222222in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image124.png){width="6.878472222222222in"
 height="2.5729166666666665in"}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image127.png){width="6.873611111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image127.png){width="6.873611111111111in"
 height="3.801388888888889in"}
 
 Após selecionar o RVS que deseja consultar, o Sistema apresenta a tela
 **Resumo do RVS** a seguir, que inclui todos os dados do RVS e dos seus
 aditivos, se for o caso.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image136.jpg){width="6.879861111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image136.jpg){width="6.879861111111111in"
 height="4.289583333333334in"}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image40.jpg){width="6.881944444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image40.jpg){width="6.881944444444445in"
 height="5.209027777777778in"}
 
 > []{#_3im3ia3 .anchor}
@@ -2991,7 +2991,7 @@ height="5.209027777777778in"}
 A partir do **Módulo Venda**, no *menu* **RF**, há 3 funções:
 **Incluir**, **Cancelar** e **Consultar**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image115.png){width="6.888194444444444in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image115.png){width="6.888194444444444in"
 height="2.328472222222222in"}
 
 Para incluir um RF é preciso acessar o *menu* **RF** e em seguida a
@@ -3004,32 +3004,32 @@ Em seguida, o Sistema disponibiliza duas opções para registro do
 faturamento: **Informar o Número do RVS** ou **Pesquisar pelo CPF/CNPJ
 do Vendedor**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image114.png){width="6.834027777777778in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image114.png){width="6.834027777777778in"
 height="2.0208333333333335in"}
 
 Selecionada a opção **Informar o Número do RVS,** preencha o campo com o
 número do RVS que se deseja incluir o RF e acione o botão ![Descrição:
 Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image8.png){width="0.3541666666666667in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image112.png){width="7.020138888888889in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image112.png){width="7.020138888888889in"
 height="3.5305555555555554in"}
 
 Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o
 CPF/CNPJ do Vendedor, ainda que seja o mesmo CPF do usuário, acione o
 botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image68.png){width="0.3645833333333333in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png){width="0.3645833333333333in"
 height="0.23958333333333334in"} para ser disponibilizada a relação de
 todos os RVS previamente incluídos. Na lista de RVS exibida, acione o
 botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image8.png){width="0.3541666666666667in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}. O Sistema abrirá a tela
 **[[Operações]{.underline}](#upglbi) a Faturar**, sendo possível
 visualizar o **Valor da Operação** e **Saldo a Faturar** para cada
 operação, referente ao RVS selecionado**.**
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image84.png){width="6.834027777777778in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image84.png){width="6.834027777777778in"
 height="4.5375in"}
 
 > **[[Operações]{.underline}](#upglbi) a Faturar**
@@ -3039,7 +3039,7 @@ height="4.5375in"}
 >
 > a\) selecionar a operação a ser faturada, acionando o botão ![Descrição:
 > Descrição:
-> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image8.png){width="0.3541666666666667in"
+> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
 > height="0.2604166666666667in"}**;**
 >
 > b\) na tela seguinte **Incluir Dados do RF**, verificar o **Valor da
@@ -3054,23 +3054,23 @@ height="4.5375in"}
 > **Adicionar Dado**. Caso haja outra operação a faturar no mesmo RVS, com
 > a mesma data e referente à mesma nota fiscal de serviço ou documento
 > equivalente, acionar o botão ![Descrição: Descrição:
-> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image8.png){width="0.3541666666666667in"
+> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
 > height="0.2604166666666667in"} ao lado da operação desejada para incluir
 > novos dados;
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image87.png){width="6.877083333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image87.png){width="6.877083333333333in"
 height="3.6972222222222224in"}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image83.png){width="6.8694444444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image83.png){width="6.8694444444444445in"
 height="4.8902777777777775in"}
 
 > e\) antes da inclusão do RF, caso seja detectado erro de preenchimento,
 > clicar no ícone ![Descrição: Descrição:
-> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image8.png){width="0.3541666666666667in"
+> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
 > height="0.2604166666666667in"} à direita para corrigi-lo, procedendo
 > conforme descrito acima. Para excluí-lo, clicar no ícone ![Descrição:
 > Descrição:
-> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image6.png){width="0.3333333333333333in"
+> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png){width="0.3333333333333333in"
 > height="0.21875in"} à esquerda do campo;
 >
 > f\) inserir o **Número da NF de Serviço ou do Documento Equivalente** e
@@ -3094,7 +3094,7 @@ No quadro **Selecione a Operação a Faturar** serão apresentados o
 
 Quando a operação estiver totalmente faturada, o ícone ![Descrição:
 Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image8.png){width="0.3541666666666667in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
 height="0.2604166666666667in"} à direita, no quadro **Selecione a
 Operação a Faturar**, deixa de aparecer**.**
 
@@ -3108,13 +3108,13 @@ Na inclusão do RF, o Sistema calcula e exibe o **Valor Total do RF**.
 >
 > 2 - clicar no botão **Incluir**, para finalizar o registro.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image59.jpg){width="6.8805555555555555in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image59.jpg){width="6.8805555555555555in"
 height="5.539583333333334in"}
 
 O Sistema confirmará o recebimento dos dados e gerará um número próprio
 para o RF.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image99.png){width="6.894444444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image99.png){width="6.894444444444445in"
 height="1.3756944444444446in"}
 
 **2.2.1. Retificação do RF**
@@ -3124,7 +3124,7 @@ Esta função permite ao usuário retificar um RF.
 Para retificar um RF é preciso acessar o *menu* **RF** e em seguida
 **Retificar**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image92.png){width="6.888888888888889in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image92.png){width="6.888888888888889in"
 height="3.026388888888889in"}
 
 Ao selecionar o comando **Retificar**, o campo **CPF do Usuário** é
@@ -3135,37 +3135,37 @@ Em seguida, o Sistema disponibiliza duas opções para retificação do RF:
 **Pesquisar pelo Número do RVS** ou **Pesquisar pelo CPF/CNPJ do
 Vendedor**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image94.png){width="6.881944444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image94.png){width="6.881944444444445in"
 height="3.013888888888889in"}
 
 Selecionada a opção **Pesquisar pelo Número do RVS,** preencha o campo
 com o número do RVS cujo RF se deseja retificar e acione o botão
 ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image68.png){width="0.3645833333333333in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png){width="0.3645833333333333in"
 height="0.23958333333333334in"}. Clique no botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image8.png){width="0.3541666666666667in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
 height="0.2604166666666667in"} à direita do RF a ser retificado.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image100.png){width="6.881944444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image100.png){width="6.881944444444445in"
 height="3.013888888888889in"}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image91.png){width="6.881944444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image91.png){width="6.881944444444445in"
 height="3.013888888888889in"}
 
 Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o
 CPF/CNPJ do vendedor, ainda que seja o mesmo CPF do usuário. Acione o
 botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image68.png){width="0.3645833333333333in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png){width="0.3645833333333333in"
 height="0.23958333333333334in"} para ser disponibilizada a relação de
 todos os RF previamente incluídos. Na lista de RF exibida, acione o
 botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image8.png){width="0.3541666666666667in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
 height="0.2604166666666667in"} à direita do RF a ser retificado.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image66.png){width="6.881944444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image66.png){width="6.881944444444445in"
 height="3.013888888888889in"}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image76.png){width="6.881944444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image76.png){width="6.881944444444445in"
 height="3.013888888888889in"}
 
 Após selecionar o RF que se deseja retificar, o Sistema mostra a tela
@@ -3180,40 +3180,40 @@ Nessa tela, o usuário poderá:
 > 2 - retificar uma ou mais operações, clicando no botão **Retificar
 > Esta Operação.**
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image73.png){width="6.886805555555555in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image73.png){width="6.886805555555555in"
 height="7.177777777777778in"}
 
 Caso o usuário deseje retificar somente o **Número da NF de Serviço ou
 Documento Equivalente**, basta editar o número no campo correspondente
 e, em seguida, clicar no botão **Confirmar Retificação**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image56.png){width="6.8805555555555555in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image56.png){width="6.8805555555555555in"
 height="7.152083333333334in"}
 
 Caso deseje retificar os dados do RF em uma operação, clique no botão
 **Retificar Esta Operação**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image57.png){width="6.886805555555555in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image57.png){width="6.886805555555555in"
 height="7.177777777777778in"}
 
 Em seguida o Sistema apresenta a tela de **Retificar dados** **do RF** e
 o usuário pode alterar a Data, o Valor Faturado e o Valor Faturado
 Mantido no Exterior.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image60.png){width="6.860416666666667in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image60.png){width="6.860416666666667in"
 height="2.7493055555555554in"}
 
 Para confirmar a alteração dos dados, clique no botão **Retificar
 Dados** e, na tela seguinte, clique em **Confirmar Retificação**. Caso
 contrário, clique em **Cancelar**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image62.png){width="6.8694444444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image62.png){width="6.8694444444444445in"
 height="6.036111111111111in"}
 
 Após o usuário clicar em **Confirmar Retificação**, o Sistema confirmará
 a retificação dos dados do RF.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image52.png){width="6.881944444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image52.png){width="6.881944444444445in"
 height="1.3104166666666666in"}
 
 []{#_2wwbldi .anchor}
@@ -3232,7 +3232,7 @@ RVS**.**
 Para cancelar um RF é preciso acessar o *menu* **RF** e em seguida
 **Cancelar**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image51.png){width="6.885416666666667in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image51.png){width="6.885416666666667in"
 height="2.5347222222222223in"}
 
 Ao selecionar o comando **Cancelar**, o campo **CPF do Usuário** é
@@ -3243,54 +3243,54 @@ Em seguida, o Sistema disponibiliza duas opções para cancelamento do RF:
 **Pesquisar pelo Número do RVS** ou **Pesquisar pelo CPF/CNPJ do
 Vendedor**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image54.png){width="6.904861111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image54.png){width="6.904861111111111in"
 height="1.9506944444444445in"}
 
 Selecionada a opção **Pesquisar pelo Número do RVS,** preencha o campo
 com o número do RVS cujo RF se deseja cancelar e acione o botão
 ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image68.png){width="0.3645833333333333in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png){width="0.3645833333333333in"
 height="0.23958333333333334in"}. Clique no ícone
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image6.png){width="0.3548611111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png){width="0.3548611111111111in"
 height="0.21875in"} à direita do respectivo **Número do RF** a ser
 cancelado. Confirme o cancelamento do RF clicando no botão **OK** na
 caixa de mensagem.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image81.png){width="7.045138888888889in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image81.png){width="7.045138888888889in"
 height="2.8222222222222224in"}
 
 Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o
 CPF/CNPJ do vendedor, ainda que seja o mesmo CPF do usuário. Acione o
 botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image68.png){width="0.3645833333333333in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png){width="0.3645833333333333in"
 height="0.23958333333333334in"} para ser disponibilizada a relação de
 todos os RF previamente incluídos. Na lista de RF exibida, acione o
-botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image6.png){width="0.3548611111111111in"
+botão ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png){width="0.3548611111111111in"
 height="0.21875in"}. *C*onfirme o cancelamento do RF clicando no botão
 OK na caixa de mensagem.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image70.png){width="6.922916666666667in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image70.png){width="6.922916666666667in"
 height="2.0416666666666665in"}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image74.png){width="6.933333333333334in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image74.png){width="6.933333333333334in"
 height="2.8756944444444446in"}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image75.png){width="6.899305555555555in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image75.png){width="6.899305555555555in"
 height="3.0631944444444446in"}
 
 Em seguida o Sistema apresenta a tela de **Confirmação de Cancelamento**
 do RF:
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image65.png){width="6.899305555555555in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image65.png){width="6.899305555555555in"
 height="1.125in"}
 
 Caso o usuário acesse novamente o *menu* **RF \> Cancelar**, observará a
 **Data de Cancelamento** ao lado da **Data de Inclusão** e o
 desaparecimento do ícone ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image6.png){width="0.3333333333333333in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png){width="0.3333333333333333in"
 height="0.21875in"} para o RF cancelado.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image43.png){width="6.883333333333334in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image43.png){width="6.883333333333334in"
 height="3.122916666666667in"}
 
 **2.2.3. Consulta ao RF**
@@ -3300,7 +3300,7 @@ Esta função permite efetuar consulta a dados dos RFs no Sistema.
 Para consultar um RF é preciso acessar o *menu* **RF** e em seguida
 **Consultar**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image42.png){width="6.886805555555555in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image42.png){width="6.886805555555555in"
 height="2.263888888888889in"}
 
 Ao clicar o botão **Consultar**, o campo CPF do usuário é preenchido
@@ -3311,42 +3311,42 @@ Em seguida, o Sistema disponibiliza duas opções para consultar RF:
 **Pesquisar pelo Número do RVS** ou **Pesquisar pelo CPF/CNPJ do
 Vendedor**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image38.png){width="6.897916666666666in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image38.png){width="6.897916666666666in"
 height="1.770138888888889in"}
 
 Se o usuário selecionar a opção **Pesquisar pelo Número do RVS,** deve
 preencher o campo com o número do RVS cujo RF se deseja consultar e
 acione o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image68.png){width="0.3645833333333333in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png){width="0.3645833333333333in"
 height="0.23958333333333334in"}. Clique no ícone ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image8.png){width="0.3541666666666667in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
 height="0.2604166666666667in"} à direita do respectivo **Número do RF**
 a ser consultado. Em seguida é exibida a tela **Resumo do RF**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image35.png){width="6.878472222222222in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image35.png){width="6.878472222222222in"
 height="3.201388888888889in"}
 
 Se o usuário selecionar a opção **Pesquisar pelo CPF/CNPJ do Vendedor**,
 deve preencher o CPF/CNPJ do vendedor, ainda que seja o mesmo CPF do
 usuário. Acione o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image68.png){width="0.3236111111111111in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png){width="0.3236111111111111in"
 height="0.20833333333333334in"} para ser disponibilizada a relação de
 todos os RF previamente incluídos.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image34.png){width="6.874305555555556in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image34.png){width="6.874305555555556in"
 height="1.757638888888889in"}
 
 Clique no ícone ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image8.png){width="0.3541666666666667in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
 height="0.2604166666666667in"} à direita do respectivo **Número do RF**
 a ser consultado.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image27.png){width="6.8805555555555555in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image27.png){width="6.8805555555555555in"
 height="2.93125in"}
 
 Em seguida, é exibida a tela **Resumo do RF**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image59.jpg){width="6.8805555555555555in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image59.jpg){width="6.8805555555555555in"
 height="5.539583333333334in"}
 
 []{#_qbtyoq .anchor}
@@ -3359,7 +3359,7 @@ Para incluir um **Registro de Presença Comercial no Exterior (RPC)** é
 preciso acessar o *menu* operações e escolher a opção **RPC** e em
 seguida a opção **Incluir**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image11.png){width="6.89375in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image11.png){width="6.89375in"
 height="3.1395833333333334in"}
 
 O campo CPF do Usuário é preenchido automaticamente pelo Sistema com
@@ -3374,20 +3374,20 @@ eletrônica]{.underline}](#1s66p4f) da pessoa jurídica representada.
 Para iniciar a inclusão do registro, há duas opções: **Criar Novo RPC**
 ou **Aproveitar Dados de RPC Incluído**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image47.png){width="6.847222222222222in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image47.png){width="6.847222222222222in"
 height="2.6805555555555554in"}
 
 Na opção **Criar Novo RPC**, os campos a serem preenchidos estarão em
 branco. Para usar essa opção, selecione **Criar Novo RPC** e acione o
 botão ![Descrição: Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image24.png){width="0.3541666666666667in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}.
 
 Na opção **Aproveitar Dados de RPC Incluído** o Sistema permite a
 seleção de um RPC existente, cujos dados serão recuperados para a
 inclusão de um novo RPC.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image49.png){width="6.861111111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image49.png){width="6.861111111111111in"
 height="4.708333333333333in"}
 
 Para usar essa opção, selecione Aproveitar Dados de RPC Incluído. O
@@ -3396,16 +3396,16 @@ Sistema apresenta as seguintes opções:
 a\) **Informar o Número do RPC:** selecionada esta opção, preencha o
 campo com número de RPC do qual se deseja aproveitar os dados e acione o
 botão ![Descrição: Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image24.png){width="0.3541666666666667in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}.
 
 **b) Exibir Lista dos RPC Incluídos:** selecionada esta opção, acione o
 botão ![Descrição: Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image21.png){width="0.3645833333333333in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png){width="0.3645833333333333in"
 height="0.23958333333333334in"}.O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image24.png){width="0.3541666666666667in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}, à direita do RPC desejado.
 
 **Opção de Atendimento à Legislação**
@@ -3433,7 +3433,7 @@ legislação** no *menu* lateral esquerdo na tela de **Resumo**.
 
 **1. Dados da Presença Comercial no Exterior**
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image41.png){width="6.875in" height="3.5in"}
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image41.png){width="6.875in" height="3.5in"}
 
 **Dados da Presença Comercial no Exterior**
 
@@ -3501,7 +3501,7 @@ patrimônio]{.underline}](#3tm4grq) pela presença comercial relacionada à
 pessoa jurídica domiciliada no Brasil.
 
 ![Tela RPC
-11](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image39.png){width="6.933333333333334in"
+11](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image39.png){width="6.933333333333334in"
 height="4.009027777777778in"}
 
 **[Ano da apuração]{.underline}**
@@ -3573,7 +3573,7 @@ mecanismo sob sua gestão.
 A concessão ou o reconhecimento de cada mecanismo condiciona-se ao
 registro das operações no Siscoserv.
 
-![ENQUADRAMENTO02](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image9.png){width="6.084722222222222in"
+![ENQUADRAMENTO02](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image9.png){width="6.084722222222222in"
 height="2.6243055555555554in"}
 
 O Sistema abrirá uma nova tela para inclusão dos dados da(s)
@@ -3602,26 +3602,26 @@ disponíveis, veja o [[item 10.2 no capítulo 1]{.underline}](#_2w5ecyt).
 
 Selecione o mecanismo de apoio/fomento utilizado e clique em
 ![Descrição: Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image10.png){width="0.31319444444444444in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png){width="0.31319444444444444in"
 height="0.20833333333333334in"} para adicioná-lo ao RPC. Para adicionar
 outro mecanismo de apoio/fomento referente à mesma operação, selecione o
 mecanismo e clique em ![Descrição: Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image10.png){width="0.31319444444444444in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png){width="0.31319444444444444in"
 height="0.20833333333333334in"}. Esse procedimento deve ser repetido
 para cada mecanismo a ser adicionado em uma mesma operação.
 
 No caso de mecanismo vinculado a Registro de Operação de Crédito, tais
 como BNDES-EXIM e PROEX, preencha campo **Número do RC** com o
 respectivo número e acione o botão ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image10.png){width="0.31319444444444444in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png){width="0.31319444444444444in"
 height="0.20833333333333334in"} para adicioná-lo ao RPC. Caso contrário,
 deve-se clicar diretamente em ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image10.png){width="0.31319444444444444in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png){width="0.31319444444444444in"
 height="0.20833333333333334in"}.
 
 Para excluir um enquadramento selecionado, acione o botão ![Descrição:
 Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image6.png){width="0.3333333333333333in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png){width="0.3333333333333333in"
 height="0.21875in"}.
 
 Após incluir o(s) mecanismo(s) de apoio, clique em **Adicionar
@@ -3661,7 +3661,7 @@ facilitar eventuais retificações posteriores.
 Para retificar um RPC é preciso acessar o *menu* **RPC** e em seguida
 **Retificar**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image11.png){width="6.913888888888889in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image11.png){width="6.913888888888889in"
 height="3.151388888888889in"}
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com
@@ -3673,7 +3673,7 @@ sucursal e controlada no exterior. Para atuar como representante legal
 de pessoa jurídica, o usuário deve possuir [[procuração
 eletrônica]{.underline}](#1s66p4f) da pessoa jurídica representada.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image7.png){width="6.861111111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image7.png){width="6.861111111111111in"
 height="2.7222222222222223in"}
 
 Para retificar um RPC, o usuário tem como opções: **Informar o Número do
@@ -3682,16 +3682,16 @@ RPC** ou **Exibir Lista de RPC Incluídos**.
 Na opção **Informar o Número do RPC,** deve ser informado o número do
 RPC a ser retificado e acionado o botão ![Descrição: Descrição:
 Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image8.png){width="0.3541666666666667in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}.
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
 Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image68.png){width="0.3645833333333333in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png){width="0.3645833333333333in"
 height="0.23958333333333334in"}. O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image24.png){width="0.3541666666666667in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}, à direita do RPC a ser retificado.
 
 Selecionado o RPC a ser retificado, siga os passos descritos no tópico
@@ -3716,7 +3716,7 @@ b\) caso a presença comercial tenha sido informada em duplicidade.
 Para cancelar um RPC é preciso acessar o *menu* **RPC** e em seguida
 **Cancelar**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image11.png){width="6.903472222222222in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image11.png){width="6.903472222222222in"
 height="2.7375in"}
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com
@@ -3734,16 +3734,16 @@ RPC** ou **Exibir Lista de RPC Incluídos**.
 Na opção **Informar o Número do RPC,** deve ser informado o número do
 RPC a ser cancelado e acionado o botão ![Descrição: Descrição:
 Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image8.png){width="0.3541666666666667in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}.
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
 Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image68.png){width="0.3645833333333333in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png){width="0.3645833333333333in"
 height="0.23958333333333334in"}. O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image24.png){width="0.3541666666666667in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}, à direita do RPC a ser cancelado.
 
 Após selecionar o RPC que deseja cancelar, o Sistema apresenta a tela
@@ -3762,7 +3762,7 @@ Esta função permite efetuar consulta a dados dos RPC no Sistema.
 Para consultar um RPC é preciso acessar o *menu* **RPC** e em seguida
 **Consultar**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image11.png){width="6.903472222222222in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image11.png){width="6.903472222222222in"
 height="2.720833333333333in"}
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com
@@ -3780,16 +3780,16 @@ RPC** ou **Exibir Lista de RPC Incluídos**.
 Na opção **Informar o Número do RPC,** deve ser informado o número do
 RPC a ser consultado e acionado o botão ![Descrição: Descrição:
 Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image8.png){width="0.3541666666666667in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}.
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
 Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image68.png){width="0.3645833333333333in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png){width="0.3645833333333333in"
 height="0.23958333333333334in"}. O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image24.png){width="0.3541666666666667in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}, à direita do RPC a ser consultado.
 
 Após selecionar o RPC que deseja consultar, o Sistema apresenta a tela
@@ -3928,7 +3928,7 @@ aprovados e atribuirá aos arquivos de lote e de dados os
 
 Um arquivo de lote pode receber seis *status* diferentes:
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image18.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image18.png){width="6.889583333333333in"
 height="3.1458333333333335in"}
 
 1)  **EP** -- **Em Processamento**: o lote foi recebido pelo Sistema e
@@ -3939,7 +3939,7 @@ height="3.1458333333333335in"}
     > de acordo com suas regras de negócio.
 
 ![tela consulta lote
-EP](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image164.png){width="6.889583333333333in"
+EP](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image164.png){width="6.889583333333333in"
 height="2.375in"}
 
 2)  **PS** -- **Processado com Sucesso**: o lote foi recebido e
@@ -3948,7 +3948,7 @@ height="2.375in"}
     > *status* EP passam para o *status* PS. O Sistema apresenta o
     > número do RVS incluído, retificado, aditado, etc.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image152.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image152.png){width="6.889583333333333in"
 height="2.0722222222222224in"}
 
 3)  **PR** -- **Processado com Ressalva**: o lote foi recebido e
@@ -3958,7 +3958,7 @@ height="2.0722222222222224in"}
     > *status* NR ou FA, devido a erro de formato ou de regra de
     > negócio, respectivamente.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image139.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image139.png){width="6.889583333333333in"
 height="2.282638888888889in"}
 
 4)  **FA** -- **Falha**: o lote foi recebido e processado, porém todos
@@ -3968,13 +3968,13 @@ height="2.282638888888889in"}
     > os arquivos de dados deste lote que estavam com *status* EP passam
     > para o *status* FA.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image167.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image167.png){width="6.889583333333333in"
 height="2.272222222222222in"}
 
 5)  **NR** -- **Não Recebido**: todos os arquivos de dados enviados no
     > lote apresentaram erros de formato e *status* NR.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image144.png){width="6.892361111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image144.png){width="6.892361111111111in"
 height="2.011111111111111in"}
 
 6)  **EX** -- **Excluído**: o lote foi recebido pelo Sistema e pelo
@@ -3983,7 +3983,7 @@ height="2.011111111111111in"}
     > de dados que estavam com *status* EP passarão para o *status* EX.
 
 []{#_280hiku
-.anchor}![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image134.png){width="6.889583333333333in"
+.anchor}![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image134.png){width="6.889583333333333in"
 height="2.011111111111111in"}
 
 []{#_n5rssn .anchor}**3.1. Procedimentos para envio do arquivo de lote**
@@ -3992,14 +3992,14 @@ Para efetuar a transmissão em lote o usuário deve [[acessar o
 Siscoserv]{.underline}](#_25lcl3g) e clicar na aba **Transmissão em
 Lote**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image135.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image135.png){width="6.889583333333333in"
 height="3.0416666666666665in"}
 
 Em seguida, selecionar o tipo de informação que será prestada: **Incluir
 RVS, Retificar RVS, Incluir Aditivo, Retificar Aditivo, Incluir RF,
 Retificar RF ou Cancelar RF**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image142.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image142.png){width="6.889583333333333in"
 height="3.0416666666666665in"}
 
 Após selecionar uma das opções do *menu* **Transmissão em Lote**, o
@@ -4007,7 +4007,7 @@ Sistema apresentará a tela para que se informe o CPF/CNPJ do Vendedor ou
 se o usuário é o próprio vendedor. Na parte superior o sistema informa a
 opção selecionada.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image143.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image143.png){width="6.889583333333333in"
 height="1.948611111111111in"}
 
 **Opção de Atendimento à Legislação**
@@ -4021,35 +4021,35 @@ atendimento à legislação para os futuros RVS selecionando o campo
 exibida novamente em futuros preenchimentos, que assumirão a última
 opção selecionada.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image140.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image140.png){width="6.889583333333333in"
 height="2.1868055555555554in"}
 
 A decisão pode ser revista pelo usuário clicando em **Atendimento à
 Legislação** no *menu* lateral esquerdo quando for **Incluir RVS** ou
 **Retificar RVS**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image132.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image132.png){width="6.889583333333333in"
 height="1.6145833333333333in"}
 
 Após clicar em **Avançar** o sistema apresentará a seguinte tela:
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image128.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image128.png){width="6.889583333333333in"
 height="1.6145833333333333in"}
 
 O usuário, então, deve clicar em **Escolher arquivo**, localizar o
 arquivo de lote que deseja transmitir e clicar no botão ![Descrição:
 Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image101.png){width="0.3541666666666667in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image101.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image141.png){width="6.886111111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image141.png){width="6.886111111111111in"
 height="1.875in"}
 
 O sistema informará o número do protocolo de envio do lote e apresentará
 o detalhamento do lote ao enumerar todos os arquivos de dados que o
 compõem com seus respectivos *status*.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image122.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image122.png){width="6.889583333333333in"
 height="2.560416666666667in"}
 
 O campo **Nº do Protocolo** é composto por duas letras e um número
@@ -4079,17 +4079,17 @@ e de dados. A primeira regra a ser validada pelo Sistema refere-se ao
 nome dos arquivos. Caso sejam enviados arquivos cujos nomes não obedeçam
 a estas regras, o Sistema emitirá uma das seguintes mensagens.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image131.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image131.png){width="6.889583333333333in"
 height="2.0395833333333333in"}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image130.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image130.png){width="6.889583333333333in"
 height="2.0395833333333333in"}
 
 Em seguida, o formato do arquivo de lote é validado. Caso o arquivo
 enviado não tenha o formato esperado, a seguinte mensagem será
 apresentada.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image126.png){width="7.127777777777778in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image126.png){width="7.127777777777778in"
 height="1.9479166666666667in"}
 
 Após a transmissão bem sucedida do arquivo de lote, o Siscoserv valida o
@@ -4102,13 +4102,13 @@ aos arquivos de dados, ao deixar o cursor do *mouse* sobre a coluna
 **Status** e **Código Erro**, o Sistema exibirá o significado dos
 códigos apresentados:
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image129.png){width="6.620138888888889in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image129.png){width="6.620138888888889in"
 height="2.1034722222222224in"}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image168.png){width="6.674305555555556in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image168.png){width="6.674305555555556in"
 height="2.236111111111111in"}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image111.png){width="6.91875in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image111.png){width="6.91875in"
 height="2.214583333333333in"}
 
 Um arquivo de retorno contendo mais detalhes sobre os erros encontrados
@@ -4116,7 +4116,7 @@ pode ser gerado ao clicar o botão **Gerar Arquivo de Retorno**. O
 formato do arquivo de retorno está descrito nas [[Orientações
 Técnicas]{.underline}](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf).
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image109.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image109.png){width="6.889583333333333in"
 height="2.261111111111111in"}
 
 []{#_2lfnejv .anchor}
@@ -4126,42 +4126,42 @@ height="2.261111111111111in"}
 Para consultar o lote, o usuário deve clicar na aba **Transmissão em
 Lote** e em seguida selecionar o item de *menu* **Consultar Lote.**
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image105.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image105.png){width="6.889583333333333in"
 height="1.636111111111111in"}
 
 O Sistema apresentará a tela para que se informe o CPF/CNPJ do vendedor
 ou se o usuário é o próprio vendedor.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image108.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image108.png){width="6.889583333333333in"
 height="1.9069444444444446in"}
 
 Após identificar o vendedor, o usuário poderá consultar o lote pelo
 número de protocolo ou pela lista dos lotes enviados.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image103.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image103.png){width="6.889583333333333in"
 height="1.5506944444444444in"}
 
 Caso o usuário utilize a opção **Informar Nº do Protocolo**, após clicar
 o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image106.png){width="0.3645833333333333in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image106.png){width="0.3645833333333333in"
 height="0.23958333333333334in"}, o Sistema apresentará a tela com os
 dados do lote informado.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image107.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image107.png){width="6.889583333333333in"
 height="2.2618055555555556in"}
 
 Se o usuário selecionar a opção **Listar arquivos em lote enviados**, ao
 clicar o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image106.png){width="0.3645833333333333in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image106.png){width="0.3645833333333333in"
 height="0.23958333333333334in"}, o Sistema listará todos os lotes
 enviados em nome do CPF/CNPJ do vendedor. O usuário pode consultar um
 lote específico ao clicar o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image101.png){width="0.3541666666666667in"
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image101.png){width="0.3541666666666667in"
 height="0.2604166666666667in"}. Neste caso, a tela com os dados do lote
 será apresentada como se o usuário consultasse o lote pelo seu número de
 protocolo.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image157.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image157.png){width="6.889583333333333in"
 height="3.1458333333333335in"}
 
 Os registros inseridos, retificados ou aditivados a partir de um arquivo
@@ -4172,15 +4172,15 @@ encaminhado.
 Caso o usuário escolha consultar o lote diretamente na tela, deverá
 selecionar o número de registro apresentado.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image119.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image119.png){width="6.889583333333333in"
 height="2.2618055555555556in"}
 
 Os erros de formatação ou de regra de negócio indicados podem ser
 inspecionados ao se posicionar o cursor do mouse sobre o símbolo
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image121.png){width="0.4479166666666667in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image121.png){width="0.4479166666666667in"
 height="0.1875in"}.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image133.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image133.png){width="6.889583333333333in"
 height="1.854861111111111in"}
 
 []{#_10kxoro .anchor}
@@ -4198,7 +4198,7 @@ dependendo do tipo de registro incluído.
 O formato do arquivo de retorno está descrito nas [[Orientações
 Técnicas.]{.underline}](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf)
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image123.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image123.png){width="6.889583333333333in"
 height="2.2506944444444446in"}
 
 Cabe ressaltar ainda que os registros inseridos a partir de um arquivo
@@ -4206,7 +4206,7 @@ de lote não podem ser editados (retificados, aditados, etc.)
 manualmente. Caso o usuário tente editar o registro manualmente, o
 Sistema apresentará a seguinte tela:
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image86.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png){width="6.889583333333333in"
 height="3.0416666666666665in"}
 
 []{#_3kkl7fh .anchor}
@@ -4220,11 +4220,11 @@ Logo, a operação estará disponível apenas no mesmo dia do envio do lote.
 
 A partir da tela de listagem dos lotes enviados (veja [[Consultar
 Lote]{.underline}](#_2lfnejv)), ao clicar o botão
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image116.png){width="0.3548611111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image116.png){width="0.3548611111111111in"
 height="0.22847222222222222in"} ao lado do lote que se deseja excluir, o
 Sistema removerá definitivamente o lote da fila de processamento.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image110.png){width="6.889583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image110.png){width="6.889583333333333in"
 height="3.1458333333333335in"}
 
 **3.4. Cumprimento de Prazos na Transferência em Lote**
@@ -4272,7 +4272,7 @@ Relatório Gerencial;
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Relatorio
-Gerencial1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image85.jpg){width="5.90625in"
+Gerencial1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image85.jpg){width="5.90625in"
 height="2.6180555555555554in"}
 
 Passo 2: Usuário/ Responsável pelo Registro preenche o CNPJ da Pessoa
@@ -4280,7 +4280,7 @@ Jurídica Vendedora e clica em "Avançar";
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Relatorio
-Gerencial2.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image118.jpg){width="5.901388888888889in"
+Gerencial2.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image118.jpg){width="5.901388888888889in"
 height="2.595833333333333in"}
 
 Passo 3: Usuário/Responsável pelo Registro seleciona dentre as diversas
@@ -4313,15 +4313,15 @@ superior a 1 ano.
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\RElatorio
-Gerencial5.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image69.jpg){width="7.006944444444445in"
+Gerencial5.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image69.jpg){width="7.006944444444445in"
 height="3.082638888888889in"}
 
 \- Consulta disponível para **filial**:
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\RElatorio
-Gerencial5.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image69.jpg){width="7.006944444444445in"
-height="3.082638888888889in"}![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image69.jpg){width="1.0916666666666666in"
+Gerencial5.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image69.jpg){width="7.006944444444445in"
+height="3.082638888888889in"}![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image69.jpg){width="1.0916666666666666in"
 height="0.2in"}
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF
@@ -4332,7 +4332,7 @@ As seguintes informações são disponibilizadas na planilha E[]{#1e03kqp
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Planilha
-Excel1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image147.jpg){width="7.747222222222222in"
+Excel1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image147.jpg){width="7.747222222222222in"
 height="1.5611111111111111in"}
 
 -   Mês/ano
@@ -4408,7 +4408,7 @@ transmitidas por lote.*
 As seguintes informações são disponibilizadas na planilha E[]{#3xzr3ei
 .anchor}xcel dos **Relatórios Gerenciais relativos aos RF**:
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image82.png){width="7.4118055555555555in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image82.png){width="7.4118055555555555in"
 height="1.6347222222222222in"}
 
 -   Mês/ ano
@@ -4463,7 +4463,7 @@ Relatório Gerencial;
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Relatorio
-Gerencial1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image85.jpg){width="5.90625in"
+Gerencial1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image85.jpg){width="5.90625in"
 height="2.6180555555555554in"}
 
 Passo 2: Usuário/Responsável pelo Registro preenche o CPF da Pessoa
@@ -4471,7 +4471,7 @@ Física Vendedora e clica em "Avançar";
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Relatorio
-Gerencial3.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image88.jpg){width="5.909027777777778in"
+Gerencial3.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image88.jpg){width="5.909027777777778in"
 height="2.6in"}
 
 Passo 3: Usuário/ Responsável pelo Registro seleciona dentre as diversas
@@ -4492,7 +4492,7 @@ superior a 1 ano.
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Relatorio
-Gerencial6.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image117.jpg){width="5.902777777777778in"
+Gerencial6.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image117.jpg){width="5.902777777777778in"
 height="2.6069444444444443in"}
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF
@@ -4513,7 +4513,7 @@ vendedor, acessa o Siscoserv e clica em Relatório Gerencial;
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Relatorio
-Gerencial1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image85.jpg){width="5.90625in"
+Gerencial1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image85.jpg){width="5.90625in"
 height="2.6180555555555554in"}
 
 Passo 2: Usuário/Responsável pelo Registro seleciona a opção "O Usuário
@@ -4521,7 +4521,7 @@ Passo 2: Usuário/Responsável pelo Registro seleciona a opção "O Usuário
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Relatorio
-Gerencial4.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image89.jpg){width="5.904166666666667in"
+Gerencial4.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image89.jpg){width="5.904166666666667in"
 height="2.609722222222222in"}
 
 Passo 3: Usuário/Responsável pelo Registro seleciona dentre as diversas
@@ -4542,7 +4542,7 @@ superior a 1 ano.
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de
 Serviços\\Manual\\Imagens 11ª Edição\\Relatorio
-Gerencial7.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image80.jpg){width="5.9006944444444445in"
+Gerencial7.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image80.jpg){width="5.9006944444444445in"
 height="2.6152777777777776in"}
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF
@@ -4555,7 +4555,7 @@ CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e
 
 []{#_1rf9gpq .anchor}\
 **Capítulo
-3**![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image22.png){width="8.235416666666667in"
+3**![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png){width="8.235416666666667in"
 height="11.677083333333334in"}
 
 **Cenários Exemplificativos de Registro no Siscoserv**
@@ -4578,7 +4578,7 @@ agente de cargas.**
 **Exportação brasileira com a obrigação de transportar da empresa
 brasileira.**
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image113.jpg){width="6.471527777777778in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image113.jpg){width="6.471527777777778in"
 height="4.607638888888889in"}
 
 [Atores]{.underline}:
@@ -4629,7 +4629,7 @@ brasileira**
 
 ![C:\\Users\\luple\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Cenário
 1.2 -
-Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image153.png){width="6.598611111111111in"
+Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image153.png){width="6.598611111111111in"
 height="5.0881944444444445in"}
 
 [Atores]{.underline}:
@@ -4672,7 +4672,7 @@ desconsolidação de cargas.**
 **Importação brasileira com a obrigação de transportar da empresa
 estrangeira**
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image97.png){width="6.55625in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image97.png){width="6.55625in"
 height="4.917361111111111in"}
 
 [Atores]{.underline}:
@@ -4717,7 +4717,7 @@ brasileira**
 
 ![C:\\Users\\luple\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Cenário
 1.4 -
-Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image102.png){width="6.413888888888889in"
+Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image102.png){width="6.413888888888889in"
 height="4.821527777777778in"}
 
 [Atores]{.underline}:
@@ -4766,7 +4766,7 @@ Cor~BR~, as partes do contrato do seguro continuam a ser Emp~BR~ e
 Seg~EX~ e cabe a Emp~BR~, a contratante no Brasil, o registro no
 Siscoserv.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image95.jpg){width="6.5569444444444445in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image95.jpg){width="6.5569444444444445in"
 height="4.916666666666667in"}
 
 [Atores]{.underline}:
@@ -4802,7 +4802,7 @@ exterior, for contratada e paga por Est~BR~ em favor de Emp~BR~,
 residente ou domiciliada no Brasil, Est~BR~ é considerado o contratante
 e, consequentemente, o responsável pelo registro no Siscoserv
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/image96.jpg){width="6.884027777777778in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image96.jpg){width="6.884027777777778in"
 height="5.1625in"}
 
 [Atores]{.underline}:
