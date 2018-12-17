@@ -57,91 +57,89 @@ Operações que Produzam Variações no Patrimônio (NBS)**
 Intangíveis** ](#_4ddeoix)
 
 [10.1 - Mecanismos de Apoio / Fomento (Enquadramento) no RVS do Módulo
-Venda: 21](#_2sioyqq)
+Venda:](#_2sioyqq)
 
 [10.2 - Mecanismos de Apoio / Fomento (Enquadramento) no RPC do Módulo
-Venda: 23](#_17nz8yj)
+Venda:](#_17nz8yj)
 
 [**11. Informações e canais de atendimento** ](#_39kk8xu)
 
 [**12. Glossário** ](#_1opuj5n)
 
-[**Capítulo 2 29**](#_meukdy)
+[**Capítulo 2**](#_meukdy)
 
 [**Operacionalização do Sistema 29**](#_meukdy)
 
 [**1. Acesso ao Siscoserv** ](#_3rnmrmc)
 
-[1.1. Como acessar o Siscoserv 30](#_26sx1u5)
+[1.1. Como acessar o Siscoserv](#_26sx1u5)
 
-[1.2. O que é e como obter o Certificado Digital (e-CPF) 30](#_ly7c1y)
+[1.2. O que é e como obter o Certificado Digital (e-CPF)](#_ly7c1y)
 
-[1.3. O que é e como obter a Procuração Eletrônica 31](#_35xuupr)
+[1.3. O que é e como obter a Procuração Eletrônica](#_35xuupr)
 
-[1.5. Informações Cadastrais 31](#_4iylrwe)
+[1.5. Informações Cadastrais](#_4iylrwe)
 
 [1.5.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa
-Jurídica 32](#_2ce457m)
+Jurídica](#_2ce457m)
 
 [1.5.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa
-Física 35](#_1qoc8b1)
+Física](#_1qoc8b1)
 
-[1.5.3. Caso 3 -- Usuário/Responsável pelo Registro é o próprio Vendedor
-38](#_3oy7u29)
+[1.5.3. Caso 3 -- Usuário/Responsável pelo Registro é o próprio Vendedor](#_3oy7u29)
 
 [**2. Procedimentos relativos ao registro no Módulo Venda**
 ](#_1l354xk)
 
-[2.1. Inclusão do RVS 43](#_452snld)
+[2.1. Inclusão do RVS](#_452snld)
 
-[2.1.1 Inclusão de Aditivo ao RVS 58](#_2k82xt6)
+[2.1.1 Inclusão de Aditivo ao RVS](#_2k82xt6)
 
-[2.1.2. Retificação do RVS 61](#_zdd80z)
+[2.1.2. Retificação do RVS](#_zdd80z)
 
-[2.1.3. Retificação do Aditivo ao RVS 65](#_3jd0qos)
+[2.1.3. Retificação do Aditivo ao RVS](#_3jd0qos)
 
-[2.1.4. Consulta ao RVS ou ao Aditivo ao RVS 69](#_1yib0wl)
+[2.1.4. Consulta ao RVS ou ao Aditivo ao RVS](#_1yib0wl)
 
-[2.2 Inclusão do RF 74](#_4ihyjke)
+[2.2 Inclusão do RF](#_4ihyjke)
 
-[2.2.1. Retificação do RF 79](#_2xn8ts7)
+[2.2.1. Retificação do RF](#_2xn8ts7)
 
-[2.2.2. Cancelamento do RF 86](#_1csj400)
+[2.2.2. Cancelamento do RF](#_1csj400)
 
-[2.2.3. Consulta ao RF 89](#_3ws6mnt)
+[2.2.3. Consulta ao RF](#_3ws6mnt)
 
-[2.3. Registro de Presença Comercial no Exterior (RPC) 92](#_2bxgwvm)
+[2.3. Registro de Presença Comercial no Exterior (RPC)](#_2bxgwvm)
 
-[2.3.1. Inclusão do RPC 92](#_r2r73f)
+[2.3.1. Inclusão do RPC](#_r2r73f)
 
-[2.3.2. Retificação do RPC 99](#_3b2epr8)
+[2.3.2. Retificação do RPC](#_3b2epr8)
 
-[2.3.3. Cancelamento do RPC 100](#_1q7ozz1)
+[2.3.3. Cancelamento do RPC](#_1q7ozz1)
 
-[2.3.4. Consulta ao RPC 101](#_4a7cimu)
+[2.3.4. Consulta ao RPC](#_4a7cimu)
 
 [**3. Transmissão em Lote** ](#_2pcmsun)
 
-[3.1. Procedimentos para envio do arquivo de lote 106](#_n5rssn)
+[3.1. Procedimentos para envio do arquivo de lote](#_n5rssn)
 
-[3.2. Consultar Lote 112](#_14hx32g)
+[3.2. Consultar Lote](#_14hx32g)
 
-[3.2.1. Arquivo de Retorno do Lote 114](#_10kxoro)
+[3.2.1. Arquivo de Retorno do Lote](#_10kxoro)
 
-[3.3. Excluir Lote 115](#_3kkl7fh)
+[3.3. Excluir Lote](#_3kkl7fh)
 
-[3.4. Cumprimento de Prazos na Transferência em Lote 116](#_3ohklq9)
+[3.4. Cumprimento de Prazos na Transferência em Lote](#_3ohklq9)
 
 [**4. Relatório Gerencial** ](#_4jpj0b3)
 
 [4.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa
-Jurídica 116](#_2yutaiw)
+Jurídica](#_2yutaiw)
 
 [4.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa
-Física 121](#_2d51dmb)
+Física](#_2d51dmb)
 
-[4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor
-122](#_3c9z6hx)
+[4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor](#_3c9z6hx)
 
 [**Capítulo 3** ](#_1rf9gpq)
 
@@ -152,51 +150,49 @@ Física 121](#_2d51dmb)
 ](#_23muvy2)
 
 [Cenário 1.1. Transporte internacional de cargas intermediado por agente
-de cargas. 125](#_is565v)
+de cargas.](#_is565v)
 
 [Exportação brasileira com a obrigação de transportar da empresa
-brasileira. 125](#_32rsoto)
+brasileira.](#_32rsoto)
 
 [Cenário 1.2. Transporte internacional de cargas intermediado por agente
-de cargas. 126](#_1hx2z1h)
+de cargas.](#_1hx2z1h)
 
 [Importação brasileira com a obrigação de transportar da empresa
-brasileira 126](#_41wqhpa)
+brasileira](#_41wqhpa)
 
 [Cenário 1.3. Transporte internacional de cargas com consolidação e
-desconsolidação de cargas. 128](#_2h20rx3)
+desconsolidação de cargas.](#_2h20rx3)
 
 [Importação brasileira com a obrigação de transportar da empresa
-estrangeira 128](#_w7b24w)
+estrangeira](#_w7b24w)
 
 [Cenário 1.4. Transporte internacional de cargas com consolidação e
-desconsolidação de cargas. 129](#_3g6yksp)
+desconsolidação de cargas.](#_3g6yksp)
 
 [Exportação brasileira com a obrigação de transportar da empresa
-brasileira 129](#_1vc8v0i)
+brasileira](#_1vc8v0i)
 
 [**2. Seguros** ](#_4fbwdob)
 
-[Cenário 2.1. Contratação de seguro com intermediação de corretora
-130](#_2uh6nw4)
+[Cenário 2.1. Contratação de seguro com intermediação de corretora](#_2uh6nw4)
 
 [Cenário 2.2. Contratação de seguro de estipulante domiciliada ou
-residente no Brasil 131](#_19mgy3x)
+residente no Brasil](#_19mgy3x)
 
 [**3. Remessa Expressa** ](#_4gjguf0)
 
 [Cenário 3.1. Empresa brasileira exportadora (ou importadora) faturada
-por empresa estrangeira prestadora do serviço de remessa expressa
-132](#_2vor4mt)
+por empresa estrangeira prestadora do serviço de remessa expressa](#_2vor4mt)
 
 [Cenário 3.2. Empresa brasileira faturada pela filial residente ou
-domiciliada no Brasil de empresa estrangeira 132](#_1au1eum)
+domiciliada no Brasil de empresa estrangeira](#_1au1eum)
 
 [**4. Expatriados** ](#_3utoxif)
 
-[Cenário 1 134](#_29yz7q8)
+[Cenário 1](#_29yz7q8)
 
-[Cenário 2 134](#_p49hy1)
+[Cenário 2](#_p49hy1)
 
 []{#_30j0zll .anchor}\
 ![](./myMediaFolder/media/image22.png){width="8.235416666666667in"
