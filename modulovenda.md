@@ -185,6 +185,7 @@ O Siscoserv guarda conformidade com as diretrizes do Acordo Geral sobre Comérci
 aprovado pelo Decreto Legislativo n^[o]{.underline}^ 30, de 15 de dezembro de 1994, e promulgado pelo Decreto n^[o]{.underline}^ 1.355, de
 30 de dezembro de 1994.
 
+<a id="_488uthg"></a>
 **2. Base Legal do Siscoserv**
 
 [[Lei nº]{.underline} [12.546, de 14 de dezembro de 2011, artigos 24 a
@@ -207,7 +208,8 @@ aprovado pelo Decreto Legislativo n^[o]{.underline}^ 30, de 15 de dezembro de 19
 
 A prestação de informação no Siscoserv observa as normas complementares estabelecidas neste Manual.
 
- **3. Módulos Venda e Aquisição do Siscoserv**
+<a id="_2ne53p9"></a>
+**3. Módulos Venda e Aquisição do Siscoserv**
 
 O Siscoserv conta com dois Módulos: **Venda e Aquisição**.
 
@@ -223,7 +225,8 @@ Para maiores informações sobre o Modulo Aquisição acesse:
 
 [[http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-2]{.underline}](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-2)
 
- **4. Registros no Módulo Venda**
+<a id="_12jfdx2"></a> 
+**4. Registros no Módulo Venda**
 
 No Módulo Venda do Siscoserv estão previstos os seguintes registros:
 
@@ -234,6 +237,7 @@ por [[residente]{.underline}](#1tuee74) ou domiciliado no País, de serviços, [
 
 \- Registro de Presença Comercial (RPC): contém dados referentes às operações realizadas por meio de [[Presença Comercial no Exterior](#28reqzj) relacionada à pessoa jurídica domiciliada no Brasil.]{.underline}
 
+<a id="_3mj2wkv"></a>
 **4.1. Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS)**
 
 O Registro de Venda de Serviços, [[Intangíveis]{.underline}](#haapch) e
@@ -253,6 +257,7 @@ Caso o contrato envolva mais de um adquirente deve ser registrado um RVS por adq
 
 As operações de prestação de serviços previstas em contratos de garantia decorrentes da venda de bens ou serviços[^2] realizadas a residentes e domiciliados no exterior devem ser registradas quando ensejarem faturamento.
 
+<a id="_21od6so"></a>
 **4.1.1. Prazo para o RVS**
 
 O prazo para incluir o RVS é até o último dia útil do 3^[o]{.underline}^
@@ -267,6 +272,7 @@ data de início da prestação de serviço, da comercialização de intangível 
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image148.png)
 
+<a id="_gtnh0h"></a>
 **4.2. Registro de Faturamento (RF)**
 
 O RF do Siscoserv complementa o RVS com informações relativas ao faturamento a residentes ou domiciliados no exterior, pela venda de serviços[^4], bem como os demais custos e despesas incorridos para a efetiva prestação desses serviços. Neste registro são solicitados os seguintes dados: a data de emissão e o número da nota fiscal ou documento equivalente (inclusive nota de despesa), o [[valor faturado]{.underline}](#2szc72q) (valor parcial ou total do contrato,
@@ -275,8 +281,7 @@ expresso na moeda informada no RVS), o [[valor mantido no exterior]{.underline}]
 Para cada RVS deve ser registrado um RF, ainda que a nota fiscal tenha sido emitida em relação a mais de um negócio, ou seja, a mais de um RVS.
 Neste caso, o número da nota fiscal será repetido em cada RF.
 
-<a id="_49x2ik5"></a>
-
+<a id="_30tazoa"></a>
 **4.2.1. Prazos para o RF**
 
 Para o registro de faturamento, há dois prazos possíveis, dependendo da data de emissão da nota fiscal ou documento equivalente:
@@ -295,6 +300,7 @@ Para o registro de faturamento, há dois prazos possíveis, dependendo da data d
 
 [Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#_nwp17c).]{.underline}
 
+<a id="_1fyl9w3"></a>
 **4.3. Situações especiais de registro**
 
 <a id="_147n2zr"></a>
@@ -3502,7 +3508,7 @@ residente ou domiciliada no Brasil, Est~BR~ é considerado o contratante e, cons
 >
 > []{#_4gjguf0 .anchor}
 
- **3. Remessa Expressa**
+**3. Remessa Expressa**
 
 O serviço de remessa expressa (courier) apresenta, de forma genérica,
 dois possíveis cenários.
@@ -3626,8 +3632,7 @@ Importante ressaltar que esse cenário trata exclusivamente de situação em que
     operações que produzam variações no
     patrimônio]{.underline}](#1jvko6v)".
 
-[^17]: Maiores informações no [[item 9 do Capítulo
-    1]{.underline}](#_206ipza) deste Manual.
+[^17]: Maiores informações no [[item 9 do Capítulo 1]{.underline}](#_206ipza) deste Manual.
 
 [^18]: Neste caso, leia-se "serviços" como "serviços, intangíveis e
     [[outras operações que produzam variações no
