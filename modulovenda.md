@@ -507,7 +507,7 @@ Exemplos:
     > empresa domiciliada no Brasil a residentes no exterior.
 
 > ![Imagens
-> Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image154.jpg){
+> Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image154.jpg)
 
 
 **Modo 2 - Consumo no Brasil:** serviço prestado por residente ou domiciliado no Brasil e consumido no território brasileiro por residente ou domiciliado no exterior.
@@ -740,12 +740,12 @@ expandindo os níveis "Capítulo", "Posição", "Subposição", "Item" e
 "Subitem", conforme o caso. Uma vez identificado o código NBS,
 acionar**.**
 
-> ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image159.png){
+> ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image159.png)
 
 
 **Utilizar Pesquisa por Descrição:** no campo **Descrição**, informe termo que identifique o serviço, acione **Pesquisar**, selecione com um clique um dos códigos NBS localizados, acione **Confirmar.**
 
-> ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image161.png){
+> ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image161.png)
     
 
 Em caso de dúvidas sobre classificação da NBS, consulte as Regras de Interpretação da NBS, bem como suas [[Notas Explicativas]{.underline}](http://www.mdic.gov.br/arquivos/dwnl_1387454702.pdf)
@@ -1508,7 +1508,7 @@ Para usar essa opção, selecione **Aproveitar Dados de RVS Incluído**. O Siste
 a)  **Informar o Número do RVS:** selecionada esta opção, preencha o
     > campo com número de RVS do qual se deseja aproveitar os dados e
     > acione o botão ![Descrição: Descrição:
-    > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png){
+    > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png)
     
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image23.png)
@@ -1516,11 +1516,11 @@ a)  **Informar o Número do RVS:** selecionada esta opção, preencha o
 
 b)  **Exibir Lista dos RVS Incluídos:** selecionada esta opção, acione o
     > botão ![Descrição: Descrição:
-    > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png){
+    > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png)
     > O Sistema exibe lista de RVS
     > incluídos, do mais recente para o mais antigo. Acione o botão
     > ![Descrição: Descrição:
-    > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png){
+    > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png)
     > à direita do RVS desejado.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image26.png)
@@ -1740,7 +1740,7 @@ graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image
 
 Caso deseje excluir um enquadramento selecionado, o usuário deve acionar o botão ![Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png)
-height="0.21875in".
+.
 
 Para maiores informações acerca da lista de enquadramentos disponíveis para seleção no Módulo Venda, veja o [[item 10.1 do capítulo
 1]{.underline}](#_1rvwp1q).
@@ -1750,7 +1750,7 @@ Para maiores informações acerca da lista de enquadramentos disponíveis para s
 Deve ser indicado se a operação está vinculada à [[movimentação temporária de bens]{.underline}](#1gf8i83).
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image44.png)
-height="5.348611111111111in"
+
 
 Se a operação estiver vinculada à movimentação temporária de bens,
 selecionar a opção **Sim**. Nesse caso, preencher os campos com o número da [[Declaração de Importação (DI)]{.underline}](#2zlqixl) e/ou com o número da Declaração Única de Exportação (DU-E) ou do [[Registro de Exportação (RE)](#3ep43zb) averbado, se o registro ainda tiver sido realizado no Siscomex.]{.underline}
@@ -1758,12 +1758,12 @@ selecionar a opção **Sim**. Nesse caso, preencher os campos com o número da [
 Para incluir mais de um número de DI ou de DU-E (ou RE), clique no ícone
 ![Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png)
-height="0.20833333333333334in".
+.
 
 Para excluir número de DI ou de DU-E (ou RE), clique no ícone
 ![Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png)
-height="0.21875in" à direita do número registrado.
+ à direita do número registrado.
 
 [Inclusão de Operação no RVS]{.underline}
 
@@ -1772,19 +1772,19 @@ Após preenchimento dos campos **Código NBS / Descrição da NBS, Código do Pa
 **Valor** e, se for o caso, de **Mecanismo de apoio/fomento**, deve-se acionar o botão **Adicionar [[Operação]{.underline}](#upglbi)** para inclusão da operação no RVS.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image45.png)
-height="3.3381944444444445in"
+
 
 Caso deseje incluir outra operação no mesmo RVS, clique em **Adicionar Operação.**
 
 Caso deseje alterar uma operação adicionada ao RVS, acione o botão
 ![Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image14.png)
-height="0.23958333333333334in".
+.
 
 Caso deseje excluir uma operação adicionada ao RVS, acione o botão
 ![Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png)
-height="0.21875in". A exclusão de uma operação só é possível antes da confirmação da inclusão do RVS.
+. A exclusão de uma operação só é possível antes da confirmação da inclusão do RVS.
 
 Após a confirmação da inclusão do RVS, os dados de uma operação somente poderão ser alterados por meio da função **[[Retificar RVS]{.underline}](#_4cmhg48).**
 
@@ -1813,17 +1813,17 @@ Os casos de obrigatoriedade de preenchimento deste campo estão indicados nos se
 Acione **Avançar** para seguir para o próximo passo.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image36.png)
-height="2.26875in"
+
 
 **Resumo do RVS**
 
 A tela **Resumo do RVS** traz as informações preenchidas pelo usuário para incluir o RVS.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image37.png)
-height="4.040972222222222in"
+
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image40.jpg)
-height="5.209027777777778in"
+
 
 Os dados devem ser conferidos antes da inclusão do RVS.
 
@@ -1866,14 +1866,14 @@ Após a inclusão do aditivo ao RVS, os dados de uma operação somente poderão
 Para incluir um Aditivo ao RVS, é preciso acessar o *menu* **Aditivo** e em seguida a opção **Incluir**.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image48.png)
-height="2.66875in"
+
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda do Certificado Digital do usuário.
 
 No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica, deve informar o CPF ou CNPJ do Vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [[procuração eletrônica]{.underline}](#1s66p4f) do representado.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image29.png)
-height="3.1638888888888888in"
+
 
 Para incluir um aditivo a um registro, o usuário tem como opções:
 **Informar o Número do RVS** ou **Exibir Lista de RVS Incluídos**.
@@ -2156,7 +2156,7 @@ Descrição:
 
 Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CNPJ do Vendedor, ainda que seja o mesmo CPF do usuário, acione o botão ![Descrição: Descrição:
 À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png)
-height="0.23958333333333334in" para ser disponibilizada a relação de todos os RVS previamente incluídos. Na lista de RVS exibida, acione o botão ![Descrição: Descrição:
+ para ser disponibilizada a relação de todos os RVS previamente incluídos. Na lista de RVS exibida, acione o botão ![Descrição: Descrição:
 À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png). O Sistema abrirá a tela
 **[[Operações]{.underline}](#upglbi) a Faturar**, sendo possível visualizar o **Valor da Operação** e **Saldo a Faturar** para cada operação, referente ao RVS selecionado**.**
 
@@ -3258,8 +3258,7 @@ O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados par
 
 []{#_1rf9gpq .anchor}\
 **Capítulo
-3**![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png){
-in"}
+3**![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png)
 
 **Cenários Exemplificativos de Registro no Siscoserv**
 
