@@ -166,7 +166,7 @@
 
 [Cenário 2](#_p49hy1)
 
-[]{#_30j0zll .anchor}\
+<a id="#_30j0zll"></a>\
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png)
 
 # **Capítulo 1**
