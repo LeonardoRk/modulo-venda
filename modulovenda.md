@@ -128,9 +128,9 @@
 
 [**Capítulo 3** ](#_1rf9gpq)
 
-[**Cenários Exemplificativos de Registro no Siscoserv**(#_1rf9gpq)
+[**Cenários Exemplificativos de Registro no Siscoserv**](#_1rf9gpq)
 
-[**1. Registro de Transporte Internacional de Cargas (Frete)**(#_23muvy2)
+[**1. Registro de Transporte Internacional de Cargas (Frete)**](#_23muvy2)
 
 [Cenário 1.1. Transporte internacional de cargas intermediado por agente de cargas.](#_is565v)
 
