@@ -261,7 +261,7 @@ As operações de prestação de serviços previstas em contratos de garantia de
 **4.1.1. Prazo para o RVS**
 
 O prazo para incluir o RVS é até o último dia útil do 3^[o]{.underline}^
-(terceiro) mês subsequente à [[data de início da prestação de serviço]{.underline}](#48pi1tg)[^3]
+(terceiro) mês subsequente à [data de início da prestação de serviço](#48pi1tg)[^3]
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image155.png)
 
@@ -275,8 +275,8 @@ data de início da prestação de serviço, da comercialização de intangível 
 <a id="_gtnh0h"></a>
 **4.2. Registro de Faturamento (RF)**
 
-O RF do Siscoserv complementa o RVS com informações relativas ao faturamento a residentes ou domiciliados no exterior, pela venda de serviços[^4], bem como os demais custos e despesas incorridos para a efetiva prestação desses serviços. Neste registro são solicitados os seguintes dados: a data de emissão e o número da nota fiscal ou documento equivalente (inclusive nota de despesa), o [[valor faturado]{.underline}](#2szc72q) (valor parcial ou total do contrato,
-expresso na moeda informada no RVS), o [[valor mantido no exterior]{.underline}](#3s49zyc), bem como outros elementos pertinentes.
+O RF do Siscoserv complementa o RVS com informações relativas ao faturamento a residentes ou domiciliados no exterior, pela venda de serviços[^4], bem como os demais custos e despesas incorridos para a efetiva prestação desses serviços. Neste registro são solicitados os seguintes dados: a data de emissão e o número da nota fiscal ou documento equivalente (inclusive nota de despesa), o [valor faturado](#2szc72q) (valor parcial ou total do contrato,
+expresso na moeda informada no RVS), o [valor mantido no exterior](#3s49zyc), bem como outros elementos pertinentes.
 
 Para cada RVS deve ser registrado um RF, ainda que a nota fiscal tenha sido emitida em relação a mais de um negócio, ou seja, a mais de um RVS.
 Neste caso, o número da nota fiscal será repetido em cada RF.
@@ -322,7 +322,7 @@ A operação cujo valor não seja conhecido por ocasião do seu registro em fun�
 **4.3.3. Operação com pessoas físicas residentes no exterior mediante consumo no Brasil:**
 
 As vendas de serviços, [intangíveis](#haapch) e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq),
-em [[modo de prestação 2]{.underline}](#1mrcu09) (consumo no Brasil),
+em [modo de prestação 2](#1mrcu09) (consumo no Brasil),
 realizadas com pessoas físicas residentes no exterior, poderão ser registradas pelos seus montantes acumulados mensalmente, por NBS e por País do Adquirente. Nesse caso, a data de início será o primeiro dia do mês e a data de conclusão será o último dia do mês para as operações ocorridas nesse período. Exemplo: venda no Brasil de serviços de hospedagem para funcionário de empresa domiciliada no exterior.
 
 A inclusão do RVS será feita observadas as seguintes instruções específicas para preenchimento:
@@ -441,7 +441,7 @@ Em qualquer dos casos, a **Data** constante dos **Dados do RF** deve ser aquela 
 As [operações](#upglbi) iniciadas e concluídas antes das datas constantes do Anexo Único não devem ser registradas,
 independentemente de terem sido ou não faturadas.
 
-Não podem ser registradas operações previamente ao [[início da prestação do serviço]{.underline}](#48pi1tg), da transferência do
+Não podem ser registradas operações previamente ao [início da prestação do serviço](#48pi1tg), da transferência do
 [intangível](#haapch) ou da realização de [[outra operação que produza variação no patrimônio]{.underline}](#3tm4grq).
 
 A responsabilidade pelos registros RVS/RF do Módulo Venda do Siscoserv é
@@ -556,11 +556,11 @@ Exemplos:
 
 ![Imagens Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image172.jpg)
 
-**Modo 4 -- Movimento temporário de pessoas físicas:** [[residentes no Brasil]{.underline}](#1tuee74) deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no exterior.
+**Modo 4 -- Movimento temporário de pessoas físicas:** [residentes no Brasil](#1tuee74) deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no exterior.
 
 Exemplos:
 
--   arquiteto [[residente no Brasil]{.underline}](#1tuee74) desloca-se
+-   arquiteto [residente no Brasil](#1tuee74) desloca-se
     > para desenvolver projeto de arquitetura no exterior;
 
 -   empreiteiras domiciliadas no Brasil enviam trabalhadores que mantêm
@@ -574,7 +574,7 @@ Exemplos:
 
 Devem registrar [operações](#upglbi) em Modo 4 no Módulo Venda do Siscoserv:
 
-a)  as pessoas físicas [[residentes no Brasil]{.underline}](#1tuee74),
+a)  as pessoas físicas [residentes no Brasil](#1tuee74),
     > sem vínculo empregatício com pessoa física ou jurídica residente
     > ou domiciliada no Brasil, quando se desloquem temporariamente a um
     > país estrangeiro com vistas a prestar um serviço a um residente ou
@@ -621,7 +621,7 @@ Esse registro deverá observar as seguintes regras gerais para interpretação d
 desde que não sejam contrárias aos textos das referidas posições e Notas, pelas Regras seguintes.
 
 **Regra 2.** Quando aparentar que o serviço,
-[intangível](#haapch) ou [[outra operação que produza variações]{.underline}](#3tm4grq) no patrimônio pode ser classificado em duas ou mais posições, a classificação efetuar-se-á da seguinte forma:
+[intangível](#haapch) ou [outra operação que produza variações](#3tm4grq) no patrimônio pode ser classificado em duas ou mais posições, a classificação efetuar-se-á da seguinte forma:
 
 2a) A posição mais específica prevalece sobre a mais genérica. Todavia,
 quando duas ou mais posições se referirem, cada uma delas, a apenas um dos serviços, [intangíveis](#haapch) ou [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq) que constituam o objeto a ser classificado, tais posições devem ser consideradas como igualmente específicas, ainda que uma dessas posições apresente uma descrição mais precisa ou completa desse objeto.
@@ -1145,7 +1145,7 @@ financeira, cambial e fiscal que caracterizam a operação de exportação de um
 intangível ou [[outra operação que produza variação no patrimônio]{.underline}](#3tm4grq) ou em dólar dos Estados Unidos da América no caso de presença comercial relacionada à pessoa jurídica domiciliada no Brasil (RPC).
 
 **Valor Mantido no Exterior:** refere-se aos recursos em moeda estrangeira, relativos aos recebimentos de serviços, intangíveis ou
-[[outras operações que produzam variaçõe]{.underline}](#3tm4grq)s no patrimônio, mantidos no exterior, nos termos da [[Lei nº]{.underline}
+[outras operações que produzam variações](#3tm4grq) no patrimônio, mantidos no exterior, nos termos da [[Lei nº]{.underline}
 [11.371/2006]{.underline}](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11371.htm)
 e [[Instrução Normativa no 726]{.underline}, de 28 de fevereiro de
 2007](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=15670).
@@ -1341,7 +1341,7 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco,
 >
 > \- E-mail do Usuário/Responsável pelo Registro;
 >
-> \- Endereço da [[Pessoa Física Vendedora]{.underline}](#3x8tuzt);
+> \- Endereço da [Pessoa Física Vendedora](#3x8tuzt);
 >
 > \- Telefone da Pessoa Física Vendedora;
 >
@@ -1562,7 +1562,7 @@ legislação** no *menu* lateral esquerdo na tela de **Resumo**.
 **[Dados do Adquirente]{.underline}**
 
 Em **Dados do Adquirente**, devem ser incluídos os dados do residente ou domiciliado no exterior adquirente da [operação](#upglbi)
-realizada com pessoa física, pessoa jurídica ou [[ente despersonalizado]{.underline}](#2250f4o)
+realizada com pessoa física, pessoa jurídica ou [ente despersonalizado](#2250f4o)
 [residente](#1tuee74) ou domiciliado no Brasil.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image15.png)
@@ -1611,7 +1611,7 @@ comercial envolva mais de uma NBS, mais de uma etapa, mais de um país de destin
 operação(ões) esteja(m) relacionada(s) ao mesmo adquirente.
 
 O Sistema não admite registro de [operações](#upglbi) com
-[[início de prestação]{.underline}](#48pi1tg) em data futura, ou seja,
+[início de prestação](#48pi1tg) em data futura, ou seja,
 registram-se apenas as operações já realizadas ou cuja realização já
 tenha sido iniciada.
 
@@ -1695,7 +1695,7 @@ O registro de [operação](#upglbi) no Modo 3 - Presença Comercial no Exterior 
 
 **Data de Início:**
 
-Data em que se [[iniciou a prestação do serviço]{.underline}](#48pi1tg)
+Data em que se [iniciou a prestação do serviço](#48pi1tg)
 vendido, a transferência do [[intangível](#haapch),]{.underline} ou a realização de [[outra operação que produza variações no patrimônio]{.underline}](#3tm4grq). A data informada não pode ser posterior à data em que a operação estiver sendo registrada no Sistema.
 
 **Data de Conclusão:**
@@ -1756,7 +1756,7 @@ Para maiores informações acerca da lista de enquadramentos disponíveis para s
 
 **Vinculação à Movimentação Temporária de Bens:**
 
-Deve ser indicado se a operação está vinculada à [[movimentação temporária de bens]{.underline}](#1gf8i83).
+Deve ser indicado se a operação está vinculada à [movimentação temporária de bens](#1gf8i83).
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image44.png)
 
@@ -1857,7 +1857,7 @@ Convém manter controle dos números dos RVS incluídos no Siscoserv, para facil
 
 O aditivo ao RVS deve ser usado para a inclusão de nova
 [operação](#upglbi) em um RVS previamente incluído quando houver complementação ou aditamento nos termos do contrato
-([negócio](#40ew0vw)), que envolva execução de outra operação classificada em [[NBS diferente]{.underline}](#t18w8t), outra etapa do negócio, ou ainda executada em outro modo de prestação, período ou mesmo em outro país.
+([negócio](#40ew0vw)), que envolva execução de outra operação classificada em [NBS diferente](#t18w8t), outra etapa do negócio, ou ainda executada em outro modo de prestação, período ou mesmo em outro país.
 
 Na inclusão de Aditivo, não é possível realizar alterações nos **Dados do Adquirente**, tendo em vista tratar-se de dados do registro como um todo e que só podem ser alterados pela função [**[Retificar RVS]{.underline}**](#_4cmhg48).
 
@@ -2044,7 +2044,7 @@ graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image64.png)
 
-Após selecionar o RVS cujo aditivo se deseja retificar, o Sistema mostra a tela **[[Dados do Negócio]{.underline}](#2981zbj)** do RVS selecionado, indicando as [operações](#upglbi) cadastradas no registro original e todos os termos aditivos. Há dois tipos de
+Após selecionar o RVS cujo aditivo se deseja retificar, o Sistema mostra a tela **[Dados do Negócio](#2981zbj)** do RVS selecionado, indicando as [operações](#upglbi) cadastradas no registro original e todos os termos aditivos. Há dois tipos de
 ícones: Visualizar -
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image50.png) e Alterar -
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image58.png). O ícone para alterar aparece apenas ao lado do aditivo que se deseja retificar, informado na tela anterior.
@@ -2188,7 +2188,7 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 > c\) preencher a data da nota fiscal ou do documento equivalente ou
 > selecioná-la, clicando no ícone **Calendário**;
 >
-> d\) inserir o [[valor faturado]{.underline}](#2szc72q), o [[valor mantido
+> d\) inserir o [valor faturado](#2szc72q), o [[valor mantido
 > no exterior]{.underline}](#3s49zyc), se for o caso, e clicar no botão
 > **Adicionar Dado**. Caso haja outra operação a faturar no mesmo RVS, com
 > a mesma data e referente à mesma nota fiscal de serviço ou documento
@@ -3233,7 +3233,7 @@ Podem ser selecionadas as seguintes opções:
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial6.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image117.jpg)
 
-O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [[Relatórios Gerenciais RVS]{.underline}](#1e03kqp) (atentar que no 2º caso as informações do CPF do vendedor serão disponibilizadas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e [[Relatórios Gerenciais RF]{.underline}](#3xzr3ei).
+O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais RVS](#1e03kqp) (atentar que no 2º caso as informações do CPF do vendedor serão disponibilizadas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e [Relatórios Gerenciais RF](#3xzr3ei).
 
 []{#_3c9z6hx .anchor}
 
@@ -3262,8 +3262,8 @@ Podem ser selecionadas as seguintes opções:
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial7.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image80.jpg)
 
-O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [[Relatórios Gerenciais RVS]{.underline}](#1e03kqp) (observar que no 3º caso as informações do CPF do usuário e do CPF do vendedor são as mesmas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e
-[[Relatórios Gerenciais RF]{.underline}](#3xzr3ei).
+O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [Relatórios Gerenciais RVS](#1e03kqp) (observar que no 3º caso as informações do CPF do usuário e do CPF do vendedor são as mesmas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e
+[Relatórios Gerenciais RF](#3xzr3ei).
 
 []{#_1rf9gpq .anchor}\
 **Capítulo
