@@ -274,7 +274,7 @@ expresso na moeda informada no RVS), o [[valor mantido no exterior]{.underline}]
 Para cada RVS deve ser registrado um RF, ainda que a nota fiscal tenha sido emitida em relação a mais de um negócio, ou seja, a mais de um RVS.
 Neste caso, o número da nota fiscal será repetido em cada RF.
 
-[]{#_49x2ik5 .anchor}
+<a id="_49x2ik5"></a>
 
 **4.2.1. Prazos para o RF**
 
@@ -296,7 +296,7 @@ Para o registro de faturamento, há dois prazos possíveis, dependendo da data d
 
 **4.3. Situações especiais de registro**
 
-[]{#_147n2zr .anchor}
+<a id="_147n2zr"></a>
 
 **4.3.1. Operação com data de conclusão indeterminada:**
 
@@ -304,13 +304,13 @@ A operação cuja data de conclusão não seja conhecida por ocasião do seu reg
 2.1.1 (Inclusão de Aditivo ao RVS) do capítulo 2 deste Manual. Nesse caso, a data de início e a data de conclusão devem ser indicadas dentro do mesmo ano-calendário. Posteriormente, a data de conclusão poderá ser ajustada, mediante retificação, conforme descrito nos itens 2.1.2
 (Retificação do RVS) ou 2.1.3 (Retificação do Aditivo ao RVS) do capítulo 2 deste Manual.
 
-[]{#_3o7alnk .anchor}
+<a id="_3o7alnk"></a>
 
 **4.3.2. Operação iniciada sem que o valor esteja definido:**
 
 A operação cujo valor não seja conhecido por ocasião do seu registro em função de sua apuração só poder ocorrer após a efetiva prestação do serviço pode ser registrada pelo seu valor estimado. Posteriormente, o valor poderá ser ajustado, mediante retificação, conforme descrito nos itens 2.1.2 (Retificação do RVS) ou 2.1.3 (Retificação do Aditivo ao RVS) do capítulo 2 deste manual.
 
-[]{#_23ckvvd .anchor}
+<a id="_23ckvvd"></a>
 
 **4.3.3. Operação com pessoas físicas residentes no exterior mediante consumo no Brasil:**
 
@@ -336,7 +336,7 @@ II -- Valor da Fatura: informar o somatório do valor faturado no mês;
 
 III -- Número da NF de Serviço ou documento equivalente: inserir a expressão: "DIVERSOS".
 
-[]{#_32hioqz .anchor}
+<a id="_32hioqz"></a>
 
 **4.3.4. Serviços de transporte de passageiros a pessoas físicas residentes no exterior **
 
@@ -365,7 +365,7 @@ II -- Valor da Fatura: informar o somatório do valor faturado no mês;
 
 III -- Número da NF de Serviço ou documento equivalente: inserir a expressão: "DIVERSOS".
 
-[]{#_1hmsyys .anchor}
+<a id="_1hmsyys"></a>
 
 **4.4. Registro de Presença Comercial no Exterior (RPC)**
 
@@ -385,7 +385,7 @@ transferência de intangível e realização de outra operação que produza var
 
 Caso a pessoa jurídica domiciliada no Brasil mantenha, no exterior, mais de uma filial, sucursal ou [[controlada]{.underline}](#2nusc19) no mesmo país, a receita anual total com venda de serviços, transferência de intangível e realização de outra operação que produza variação no patrimônio, será discriminada mediante um RPC para cada filial, sucursal e controlada.
 
-[]{#_2grqrue .anchor}
+<a id="_2grqrue"></a>
 
 **4.4.1. Prazo para o RPC**
 
@@ -394,7 +394,7 @@ A prestação das informações no RPC deve ser realizada anualmente, a partir d
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image149.png)
 
-[]{#_vx1227 .anchor}
+<a id="_vx1227"></a>
 
 **5. Quem deve efetuar registro no Siscoserv -- Módulo Venda**
 
@@ -583,7 +583,7 @@ b)  as pessoas jurídicas domiciliadas no Brasil que desloquem
 
 Não deverão registrar operações em Modo 4 no Siscoserv as Pessoas Jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física para exercer vínculo empregatício com Pessoa Jurídica no exterior a ela relacionada (por exemplo, transferido intracorporação).
 
-[]{#_206ipza .anchor}
+<a id="_206ipza"></a>
 
 **9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras
 [Operações que Produzam Variações no Patrimônio](#37wcjv5) (NBS)**
@@ -768,7 +768,7 @@ A concessão ou o reconhecimento de cada mecanismo condiciona-se ao registro das
 
 No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de serviços, os definidos na seguinte **lista exaustiva**:
 
-[]{#_1rvwp1q .anchor}
+<a id="_1rvwp1q"></a>
 
 **10.1 - Mecanismos de Apoio / Fomento (Enquadramento) no RVS do Módulo Venda:**
 
@@ -880,7 +880,7 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 |                                   | ]{.underline}                     |
 +-----------------------------------+-----------------------------------+
 
-[]{#_2w5ecyt .anchor}
+<a id="_2w5ecyt"></a>
 
 **10.2 - Mecanismos de Apoio / Fomento (Enquadramento) no RPC do Módulo Venda:**
 
@@ -939,7 +939,7 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 |                                   | _1307111964.pdf)                  |
 +-----------------------------------+-----------------------------------+
 
-[]{#_39kk8xu .anchor}
+<a id="_39kk8xu"></a>
 
 **11. Informações e canais de atendimento**
 
@@ -1018,7 +1018,7 @@ A legislação relativa ao Siscoserv encontra-se disponível nos endereços:
 Além dos canais disponíveis, o usuário pode tirar dúvidas em eventos relacionados ao Siscoserv. A divulgação dos eventos é realizada na seção
 "Notícias" do sistema.
 
-[]{#_1opuj5n .anchor}
+<a id="_1opuj5n"></a>
 
 **12. Glossário**
 
