@@ -1384,7 +1384,7 @@ possível efetuar novo registro antes de preencher os dados solicitados.]{.under
 Passo 2: Seleciona a Opção "O usuário é o próprio Vendedor" e clica em Avançar;
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image165.jpg)
-height="1.8965277777777778in"
+
 
 Passo 3: O Sistema apresenta uma tela para a inserção dos Dados cadastrais.
 
@@ -1425,12 +1425,12 @@ Neste caso, o Sistema disponibilizará uma tela tanto com as informações captu
 Anualmente, será solicitada a atualização imediata dos Campos Obrigatórios assim que um novo Registro for iniciado.
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas7.2.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image163.jpg)
-height="3.411111111111111in"
+
 
 Passo 4: Após a atualização das informações, o Usuário/Responsável clica em Salvar.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image150.jpg)
-height="1.270138888888889in"
+
 
 **2. Procedimentos relativos ao registro no Módulo Venda**
 
@@ -1441,7 +1441,7 @@ localizado no sítio www.receita.fazenda.gov.br e, antes de validar o certificad
 **Siscoserv - Módulo Venda** no campo **Escolha um dos serviços disponíveis: Sistema.**
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image19.png)
-height="2.83125in"
+
 
 Nota: As telas podem apresentar configurações diferentes, dependendo do navegador de internet utilizado pelo usuário.
 
@@ -1480,12 +1480,12 @@ Para incluir um Registro de Venda de Serviços (RVS) é preciso acessar o
 *menu* **RVS** e em seguida a opção **Incluir**.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image25.png)
-height="3.529166666666667in"
+
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda de seu Certificado Digital.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image20.png)
-height="2.4472222222222224in"
+
 
 No campo **CPF/CNPJ do Vendedor,** o usuário representante legal de outra pessoa, física ou jurídica deve informar o CPF ou CNPJ do vendedor representado. Caso o usuário seja o próprio vendedor, então deve marcar a opção que indica essa situação. Para atuar como representante legal de outra pessoa, física ou jurídica, o usuário deve possuir [[procuração eletrônica]{.underline}](#_1yyy98l) do representado.
 
@@ -1494,7 +1494,7 @@ ou **Aproveitar Dados de RVS Incluído**.
 
 Na opção **Criar Novo RVS**, os campos a serem preenchidos estarão em branco. Para usar essa opção, selecione **Criar Novo RVS** e acione o botão ![Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png)
-height="0.2604166666666667in"
+
 
 Cada RVS destina-se a apenas um contrato de prestação de serviços[^12].
 Cada contrato pode conter uma ou mais
@@ -1512,7 +1512,7 @@ a)  **Informar o Número do RVS:** selecionada esta opção, preencha o
     
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image23.png)
-height="2.425in"
+
 
 b)  **Exibir Lista dos RVS Incluídos:** selecionada esta opção, acione o
     > botão ![Descrição: Descrição:
@@ -1524,17 +1524,17 @@ b)  **Exibir Lista dos RVS Incluídos:** selecionada esta opção, acione o
     > à direita do RVS desejado.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image26.png)
-height="2.863888888888889in"
+
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image28.png)
-height="4.372916666666667in"
+
 
 **Opção de Atendimento à Legislação**
 
 Em seguida, o Siscoserv apresenta a seguinte tela:
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image13.png)
-height="2.1145833333333335in"
+
 
 O usuário deve indicar que as informações objeto de registro serão prestadas em atendimento aos arts. 25 e 26 da Lei n^[o]{.underline}^
 12.546, de 14 de dezembro de 2011, à Portaria MDIC n^[o]{.underline}^
@@ -1557,7 +1557,7 @@ realizada com pessoa física, pessoa jurídica ou [[ente despersonalizado]{.unde
 [[residente]{.underline}](#1tuee74) ou domiciliado no Brasil.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image15.png)
-height="2.9652777777777777in"
+
 
 **Nome do Adquirente** -- Preencha o nome da pessoa física ou o nome comercial da pessoa jurídica adquirente do
 [[negócio]{.underline}](#40ew0vw).
@@ -1577,7 +1577,7 @@ Caso não seja informado o **NIF**, deve-se selecionar uma das opções de
 **Motivo do não preenchimento**: **Dispensado do NIF** ou **País não exige NIF**.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image16.png)
-height="3.486111111111111in"
+
 
 Deve-se indicar se o adquirente é pessoa vinculada ao vendedor nos termos do [[art. 23 da Lei 9.430 de dezembro de
 1996]{.underline}](http://www.planalto.gov.br/ccivil_03/LEIS/L9430.htm#art23).
@@ -1587,7 +1587,7 @@ Deve-se indicar se o adquirente é pessoa vinculada ao vendedor nos termos do [[
 Caso o adquirente seja pessoa vinculada ao vendedor, selecione o tipo de vinculação.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image17.png)
-height="3.7055555555555557in"
+
 
 Acione **Avançar** para validar os dados e seguir para a próxima tela
 (**Dados do [[Negócio]{.underline}](#40ew0vw)**).
@@ -1659,16 +1659,16 @@ Durante o preenchimento do registro, caso haja mais de uma
 [[operação]{.underline}](#upglbi) inserida no RVS e o usuário deseje alterar a moeda, deve-se concluir a inclusão da operação e na próxima tela alterar a moeda na primeira operação registrada naquele RVS,
 acionando o botão ![Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image14.png)
-height="0.23958333333333334in".
+
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image4.png)
-height="2.954861111111111in"
+
 
 A alteração da **Moeda** na primeira operação do registro altera a moeda das demais operações, inclusive das operações de aditivos. Entretanto,
 essa alteração não promove a conversão automática do valor em função da moeda alterada. Se for o caso, o usuário deve converter o valor de cada operação em função da nova moeda do registro.
 
 ![manual8ed\_enq01\_venda](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image30.png)
-height="4.179166666666666in"
+
 
 [**Modo de Prestação:**](#_11bux6d)
 
@@ -1726,14 +1726,14 @@ Selecione o [[Mecanismo](#4kgg8ps) de apoio/fomento]{.underline}
 desejado, no campo Enquadramento, e acione o botão ![Descrição:
 Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image3.png)
-height="0.20833333333333334in" para adicioná-lo ao RVS.
+para adicioná-lo ao RVS.
 
 No caso de mecanismo vinculado a Registro de Operação de Crédito, tais como BNDES-EXIM e PROEX, preencher campo **Número do RC** com o respectivo número e acionar o botão ![Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png)
-height="0.20833333333333334in" para adicioná-lo ao RVS. Caso contrário,
+para adicioná-lo ao RVS. Caso contrário,
 clique diretamente em ![Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png)
-height="0.20833333333333334in".
+.
 
 > ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image46.jpg)
 > 
