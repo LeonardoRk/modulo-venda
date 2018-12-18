@@ -167,7 +167,7 @@
 [Cenário 2](#_p49hy1)
 
 []{#_30j0zll .anchor}\
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png){width="8.235416666666667in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png){
 height="11.677083333333334in"}
 
 # **Capítulo 1**
@@ -264,7 +264,7 @@ Até 31 de dezembro de 2013, o prazo para o RVS foi, excepcionalmente,
 até o último dia útil do 6^[º]{.underline}^ (sexto) mês subsequente à
 data de início da prestação de serviço, da comercialização de intangível ou da realização de operação que produza variação no patrimônio.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image148.png){width="3.186111111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image148.png){
 height="3.532638888888889in"}
 
 **4.2. Registro de Faturamento (RF)**
@@ -393,7 +393,7 @@ Caso a pessoa jurídica domiciliada no Brasil mantenha, no exterior, mais de uma
 A prestação das informações no RPC deve ser realizada anualmente, a partir de 2014, em relação ao ano-calendário anterior, até o último dia
 útil do mês de junho do ano subsequente à realização de operações por meio de presença comercial no exterior relacionada à pessoa jurídica domiciliada no Brasil.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image149.png){width="4.240972222222222in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image149.png){
 height="2.790277777777778in"}
 
 []{#_vx1227 .anchor}
@@ -510,7 +510,7 @@ Exemplos:
     > empresa domiciliada no Brasil a residentes no exterior.
 
 > ![Imagens
-> Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image154.jpg){width="4.629861111111111in"
+> Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image154.jpg){
 > height="3.2555555555555555in"}
 
 **Modo 2 - Consumo no Brasil:** serviço prestado por residente ou domiciliado no Brasil e consumido no território brasileiro por residente ou domiciliado no exterior.
@@ -534,7 +534,7 @@ Exemplos:
 -   serviços de hospedagem prestados no Brasil a residente no exterior.
 
 > ![Imagens
-> Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image160.jpg){width="4.960416666666666in"
+> Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image160.jpg){
 > height="3.5034722222222223in"}
 
 **Modo 3 - Presença comercial no exterior:** consiste na prestação de serviço por pessoa jurídica domiciliada no exterior relacionada a uma pessoa jurídica domiciliada no Brasil. Para fins do Siscoserv,
@@ -550,7 +550,7 @@ Exemplos:
 -   controlada de empresa brasileira de tecnologia da informação no
     > exterior.
 
-![Imagens Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image172.jpg){width="5.0993055555555555in"
+![Imagens Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image172.jpg){
 height="3.615972222222222in"}
 
 **Modo 4 -- Movimento temporário de pessoas físicas:** [[residentes no Brasil]{.underline}](#1tuee74) deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no exterior.
@@ -567,7 +567,7 @@ Exemplos:
 -   advogado residente no Brasil desloca-se para o exterior a fim de
     > prestar consultoria jurídica.
 
-![Imagens Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image156.jpg){width="5.354861111111111in"
+![Imagens Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image156.jpg){
 height="3.8319444444444444in"}
 
 Devem registrar [[operações]{.underline}](#upglbi) em Modo 4 no Módulo Venda do Siscoserv:
@@ -665,7 +665,7 @@ f\) o nono dígito é o subitem.
 A sistemática de classificação dos códigos da NBS obedece à seguinte estrutura:
 
 > ![Descrição: Descrição:
-> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image162.png){width="4.166666666666667in"
+> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image162.png){
 > height="1.3645833333333333in"}
 
 Exemplo:
@@ -697,7 +697,7 @@ Dessa maneira, fica claro que nem sempre o código NBS se apresenta totalmente d
   1.2206.19.10   Serviços de palestras e conferências
 
 O usuário pode informar diretamente o código, ou localizá-lo acionando a ferramenta de busca: ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png){width="0.3645833333333333in"
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png){
 height="0.23958333333333334in"}, situada ao lado do campo **Código NBS**.
 
 Na informação do código NBS, a posição mais específica prevalece sobre a mais genérica, sendo que o código só pode ser informado em seu maior nível de detalhamento (nove dígitos).
@@ -735,7 +735,7 @@ Na informação do código NBS, a posição mais específica prevalece sobre a m
 Para utilizar a ferramenta de busca:
 
 > 1-   no campo **Código NBS**, acionar botão ![Descrição: Descrição:
-> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png){width="0.3645833333333333in"
+> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png){
 > height="0.23958333333333334in"};
 >
 > 2-   é aberta a janela **Seleção de Código NBS** para realização da
@@ -749,12 +749,12 @@ expandindo os níveis "Capítulo", "Posição", "Subposição", "Item" e
 "Subitem", conforme o caso. Uma vez identificado o código NBS,
 acionar**.**
 
-> ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image159.png){width="5.958333333333333in"
+> ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image159.png){
 > height="3.3194444444444446in"}
 
 **Utilizar Pesquisa por Descrição:** no campo **Descrição**, informe termo que identifique o serviço, acione **Pesquisar**, selecione com um clique um dos códigos NBS localizados, acione **Confirmar.**
 
-> ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image161.png){width="6.055555555555555in"
+> ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image161.png){
 > height="2.7916666666666665in"}
 
 Em caso de dúvidas sobre classificação da NBS, consulte as Regras de Interpretação da NBS, bem como suas [[Notas Explicativas]{.underline}](http://www.mdic.gov.br/arquivos/dwnl_1387454702.pdf)
@@ -1152,7 +1152,7 @@ e [[Instrução Normativa no 726]{.underline}, de 28 de fevereiro de
 
 []{#_meukdy .anchor}\
 **Capítulo
-2**![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png){width="8.352777777777778in"
+2**![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png){
 height="11.84375in"}
 
 **Operacionalização do Sistema**
@@ -1172,7 +1172,7 @@ O acesso ao Siscoserv é sempre feito por [[certificado digital]{.underline}](#_
 
 **Figura:** Fluxo de acesso ao Siscoserv
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image120.png){width="3.520138888888889in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image120.png){
 height="2.6381944444444443in"}
 
 []{#_zu0gcz .anchor}
@@ -1249,12 +1249,12 @@ Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Infor
 direcionado diretamente para a ficha de Informações Cadastrais. Não será
 possível efetuar novo registro antes de preencher os dados solicitados.]{.underline}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image138.jpg){width="6.554166666666666in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image138.jpg){
 height="2.571527777777778in"}
 
 Passo 2: Preenche o CNPJ da empresa e clica em avançar;
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image170.jpg){width="6.621527777777778in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image170.jpg){
 height="1.8645833333333333in"}
 
 Passo 3: O Sistema apresenta uma tela para a inserção dos dados cadastrais.
@@ -1287,7 +1287,7 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco,
 > \- E-mail do Diretor de Relações Governamentais ou Equivalente da
 > Empresa Vendedora;
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas3.1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image169.jpg){width="6.770833333333333in"
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas3.1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image169.jpg){
 height="5.3277777777777775in"}
 
 Existem outros Campos de preenchimento opcional:
@@ -1310,12 +1310,12 @@ Neste caso, o Sistema disponibilizará uma tela tanto com as informações captu
 
 Anualmente, será solicitada a atualização imediata dos Campos Obrigatórios assim que um novo Registro for iniciado.
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas3.2.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image171.jpg){width="7.272916666666666in"
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas3.2.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image171.jpg){
 height="5.722916666666666in"}
 
 Passo 4: Após o preenchimento das informações, o Usuário/Responsável clica em Salvar.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image166.jpg){width="7.2652777777777775in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image166.jpg){
 height="1.2291666666666667in"}
 
 []{#_1qoc8b1 .anchor}
@@ -1601,8 +1601,7 @@ height="3.486111111111111in"}
 Deve-se indicar se o adquirente é pessoa vinculada ao vendedor nos termos do [[art. 23 da Lei 9.430 de dezembro de
 1996]{.underline}](http://www.planalto.gov.br/ccivil_03/LEIS/L9430.htm#art23).
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image5.png){width="6.881944444444445in"
-height="3.486111111111111in"}
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image5.png)
 
 Caso o adquirente seja pessoa vinculada ao vendedor, selecione o tipo de vinculação.
 
@@ -1855,7 +1854,7 @@ Para que o RVS seja gerado, é preciso acionar o botão **Incluir**.
 
 O Sistema retornará mensagem de confirmação da inclusão dos dados no Siscoserv e apresentará o número de identificação do RVS.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image32.png){width="6.86875in" height="1.2in"}
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image32.png)
 
 Após a disponibilização do Número de Confirmação da inclusão do RVS, o registro está efetuado.
 
@@ -2569,7 +2568,7 @@ legislação** no *menu* lateral esquerdo na tela de **Resumo**.
 
  **1. Dados da Presença Comercial no Exterior**
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image41.png){width="6.875in" height="3.5in"}
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image41.png)
 
 **Dados da Presença Comercial no Exterior**
 
