@@ -2429,31 +2429,25 @@ sucursal e controlada no exterior. Para atuar como representante legal de pessoa
 Para iniciar a inclusão do registro, há duas opções: **Criar Novo RPC**
 ou **Aproveitar Dados de RPC Incluído**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image47.png)width="6.847222222222222in"
-height="2.6805555555555554in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image47.png)
 
 Na opção **Criar Novo RPC**, os campos a serem preenchidos estarão em branco. Para usar essa opção, selecione **Criar Novo RPC** e acione o botão ![Descrição: Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png)width="0.3541666666666667in"
-height="0.2604166666666667in".
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png).
 
 Na opção **Aproveitar Dados de RPC Incluído** o Sistema permite a seleção de um RPC existente, cujos dados serão recuperados para a inclusão de um novo RPC.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image49.png)width="6.861111111111111in"
-height="4.708333333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image49.png)
 
 Para usar essa opção, selecione Aproveitar Dados de RPC Incluído. O Sistema apresenta as seguintes opções:
 
 a\) **Informar o Número do RPC:** selecionada esta opção, preencha o campo com número de RPC do qual se deseja aproveitar os dados e acione o botão ![Descrição: Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png)width="0.3541666666666667in"
-height="0.2604166666666667in".
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png).
 
 **b) Exibir Lista dos RPC Incluídos:** selecionada esta opção, acione o botão ![Descrição: Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png)width="0.3645833333333333in"
-height="0.23958333333333334in".O Sistema exibe lista de RPC incluídos,
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png).O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png)width="0.3541666666666667in"
-height="0.2604166666666667in", à direita do RPC desejado.
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC desejado.
 
 **Opção de Atendimento à Legislação**
 
@@ -2527,8 +2521,7 @@ Em dados do negócio, são incluídas informações relativas à venda de servi�
 pessoa jurídica domiciliada no Brasil.
 
 ![Tela RPC
-11](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image39.png)width="6.933333333333334in"
-height="4.009027777777778in"
+11](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image39.png)
 
 **[Ano da apuração]{.underline}**
 
@@ -2573,8 +2566,7 @@ O órgão ou a entidade da administração pública que tenha atribuição legal
 
 A concessão ou o reconhecimento de cada mecanismo condiciona-se ao registro das operações no Siscoserv.
 
-![ENQUADRAMENTO02](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image9.png)width="6.084722222222222in"
-height="2.6243055555555554in"
+![ENQUADRAMENTO02](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image9.png)
 
 O Sistema abrirá uma nova tela para inclusão dos dados da(s)
 operação(ões) amparada(s) em mecanismo(s) de apoio.
@@ -2596,22 +2588,17 @@ O Sistema exibirá lista de mecanismos de apoio/fomento disponíveis para seleç
 
 Selecione o mecanismo de apoio/fomento utilizado e clique em
 ![Descrição: Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png)width="0.31319444444444444in"
-height="0.20833333333333334in" para adicioná-lo ao RPC. Para adicionar outro mecanismo de apoio/fomento referente à mesma operação, selecione o mecanismo e clique em ![Descrição: Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png)width="0.31319444444444444in"
-height="0.20833333333333334in". Esse procedimento deve ser repetido para cada mecanismo a ser adicionado em uma mesma operação.
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png) para adicioná-lo ao RPC. Para adicionar outro mecanismo de apoio/fomento referente à mesma operação, selecione o mecanismo e clique em ![Descrição: Descrição: Descrição:
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png). Esse procedimento deve ser repetido para cada mecanismo a ser adicionado em uma mesma operação.
 
 No caso de mecanismo vinculado a Registro de Operação de Crédito, tais como BNDES-EXIM e PROEX, preencha campo **Número do RC** com o respectivo número e acione o botão ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png)width="0.31319444444444444in"
-height="0.20833333333333334in" para adicioná-lo ao RPC. Caso contrário,
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png) para adicioná-lo ao RPC. Caso contrário,
 deve-se clicar diretamente em ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png)width="0.31319444444444444in"
-height="0.20833333333333334in".
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png).
 
 Para excluir um enquadramento selecionado, acione o botão ![Descrição:
 Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png)width="0.3333333333333333in"
-height="0.21875in".
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png).
 
 Após incluir o(s) mecanismo(s) de apoio, clique em **Adicionar Operação**.
 
@@ -2643,32 +2630,27 @@ Convém manter controle dos números de RPC incluídos no Siscoserv, para facili
 Para retificar um RPC é preciso acessar o *menu* **RPC** e em seguida
 **Retificar**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image11.png)width="6.913888888888889in"
-height="3.151388888888889in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image11.png)
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda de seu Certificado Digital.
 
 No campo **CNPJ da Domiciliada no Brasil**, o usuário representante legal deve informar o CNPJ da domiciliada no Brasil que possui filial,
 sucursal e controlada no exterior. Para atuar como representante legal de pessoa jurídica, o usuário deve possuir [[procuração eletrônica]{.underline}](#1s66p4f) da pessoa jurídica representada.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image7.png)width="6.861111111111111in"
-height="2.7222222222222223in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image7.png)
 
 Para retificar um RPC, o usuário tem como opções: **Informar o Número do RPC** ou **Exibir Lista de RPC Incluídos**.
 
 Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser retificado e acionado o botão ![Descrição: Descrição:
 Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png)width="0.3541666666666667in"
-height="0.2604166666666667in".
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
 Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png)width="0.3645833333333333in"
-height="0.23958333333333334in". O Sistema exibe lista de RPC incluídos,
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png)width="0.3541666666666667in"
-height="0.2604166666666667in", à direita do RPC a ser retificado.
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser retificado.
 
 Selecionado o RPC a ser retificado, siga os passos descritos no tópico
 [**[2.3.1 -]{.underline}** [ **Inclusão do RPC.
@@ -2689,8 +2671,7 @@ b\) caso a presença comercial tenha sido informada em duplicidade.
 Para cancelar um RPC é preciso acessar o *menu* **RPC** e em seguida
 **Cancelar**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image11.png)width="6.903472222222222in"
-height="2.7375in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image11.png)
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda de seu Certificado Digital.
 
@@ -2701,17 +2682,14 @@ Para cancelar um RPC, o usuário tem como opções: **Informar o Número do RPC*
 
 Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser cancelado e acionado o botão ![Descrição: Descrição:
 Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png)width="0.3541666666666667in"
-height="0.2604166666666667in".
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
 Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png)width="0.3645833333333333in"
-height="0.23958333333333334in". O Sistema exibe lista de RPC incluídos,
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png)width="0.3541666666666667in"
-height="0.2604166666666667in", à direita do RPC a ser cancelado.
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser cancelado.
 
 Após selecionar o RPC que deseja cancelar, o Sistema apresenta a tela
 **Resumo do RPC**, que inclui todos os dados do RPC.
@@ -2726,8 +2704,7 @@ Esta função permite efetuar consulta a dados dos RPC no Sistema.
 Para consultar um RPC é preciso acessar o *menu* **RPC** e em seguida
 **Consultar**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image11.png)width="6.903472222222222in"
-height="2.720833333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image11.png)
 
 O campo **CPF do Usuário** é preenchido automaticamente pelo Sistema com informação advinda de seu Certificado Digital.
 
@@ -2738,17 +2715,14 @@ Para consultar um RPC, o usuário tem como opções: **Informar o Número do RPC
 
 Na opção **Informar o Número do RPC,** deve ser informado o número do RPC a ser consultado e acionado o botão ![Descrição: Descrição:
 Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png)width="0.3541666666666667in"
-height="0.2604166666666667in".
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png).
 
 Na opção **Exibir Lista de RPC Incluídos,** acione o botão ![Descrição:
 Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png)width="0.3645833333333333in"
-height="0.23958333333333334in". O Sistema exibe lista de RPC incluídos,
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png). O Sistema exibe lista de RPC incluídos,
 do mais recente para o mais antigo. Acione o botão ![Descrição:
 Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png)width="0.3541666666666667in"
-height="0.2604166666666667in", à direita do RPC a ser consultado.
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png), à direita do RPC a ser consultado.
 
 Após selecionar o RPC que deseja consultar, o Sistema apresenta a tela
 **Resumo do RPC**, que inclui todos os dados do RPC.
@@ -2845,8 +2819,7 @@ Durante o processamento noturno dos lotes, o Sistema analisará os dados enviado
 
 Um arquivo de lote pode receber seis *status* diferentes:
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image18.png)width="6.889583333333333in"
-height="3.1458333333333335in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image18.png)
 
 1)  **EP** -- **Em Processamento**: o lote foi recebido pelo Sistema e
     > pelo menos um dos arquivos de dados que o compõem passou pela
@@ -2855,8 +2828,7 @@ height="3.1458333333333335in"
     > processados pelo Siscoserv que verificará se as informações estão
     > de acordo com suas regras de negócio.
 
-![tela consulta lote EP](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image164.png)width="6.889583333333333in"
-height="2.375in"
+![tela consulta lote EP](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image164.png)
 
 2)  **PS** -- **Processado com Sucesso**: o lote foi recebido e
     > processado. Todas as operações representadas pelos arquivos de
@@ -2864,8 +2836,7 @@ height="2.375in"
     > *status* EP passam para o *status* PS. O Sistema apresenta o
     > número do RVS incluído, retificado, aditado, etc.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image152.png)width="6.889583333333333in"
-height="2.0722222222222224in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image152.png)
 
 3)  **PR** -- **Processado com Ressalva**: o lote foi recebido e
     > processado, mas há pelo menos um arquivo do lote que apresentou um
@@ -2874,8 +2845,7 @@ height="2.0722222222222224in"
     > *status* NR ou FA, devido a erro de formato ou de regra de
     > negócio, respectivamente.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image139.png)width="6.889583333333333in"
-height="2.282638888888889in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image139.png)
 
 4)  **FA** -- **Falha**: o lote foi recebido e processado, porém todos
     > os arquivos de dados que o compõem apresentaram pelo menos um erro
@@ -2884,14 +2854,12 @@ height="2.282638888888889in"
     > os arquivos de dados deste lote que estavam com *status* EP passam
     > para o *status* FA.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image167.png)width="6.889583333333333in"
-height="2.272222222222222in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image167.png)
 
 5)  **NR** -- **Não Recebido**: todos os arquivos de dados enviados no
     > lote apresentaram erros de formato e *status* NR.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image144.png)width="6.892361111111111in"
-height="2.011111111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image144.png)
 
 6)  **EX** -- **Excluído**: o lote foi recebido pelo Sistema e pelo
     > menos um dos arquivos de dados apresentou *status* EP, porém o
@@ -2899,26 +2867,22 @@ height="2.011111111111111in"
     > de dados que estavam com *status* EP passarão para o *status* EX.
 
 []{#_280hiku
-.anchor}![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image134.png)width="6.889583333333333in"
-height="2.011111111111111in"
+.anchor}![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image134.png)
 
 []{#_n5rssn .anchor}**3.1. Procedimentos para envio do arquivo de lote**
 
 Para efetuar a transmissão em lote o usuário deve [[acessar o Siscoserv]{.underline}](#_25lcl3g) e clicar na aba **Transmissão em Lote**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image135.png)width="6.889583333333333in"
-height="3.0416666666666665in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image135.png)
 
 Em seguida, selecionar o tipo de informação que será prestada: **Incluir RVS, Retificar RVS, Incluir Aditivo, Retificar Aditivo, Incluir RF,
 Retificar RF ou Cancelar RF**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image142.png)width="6.889583333333333in"
-height="3.0416666666666665in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image142.png)
 
 Após selecionar uma das opções do *menu* **Transmissão em Lote**, o Sistema apresentará a tela para que se informe o CPF/CNPJ do Vendedor ou se o usuário é o próprio vendedor. Na parte superior o sistema informa a opção selecionada.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image143.png)width="6.889583333333333in"
-height="1.948611111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image143.png)
 
 **Opção de Atendimento à Legislação**
 
@@ -2927,34 +2891,28 @@ O usuário deve informar a opção de atendimento à legislação apenas quando 
 "Desejo manter essa decisão". Após marcar essa opção, a tela não será
 exibida novamente em futuros preenchimentos, que assumirão a última opção selecionada.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image140.png)width="6.889583333333333in"
-height="2.1868055555555554in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image140.png)
 
 A decisão pode ser revista pelo usuário clicando em **Atendimento à
 Legislação** no *menu* lateral esquerdo quando for **Incluir RVS** ou
 **Retificar RVS**.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image132.png)width="6.889583333333333in"
-height="1.6145833333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image132.png)
 
 Após clicar em **Avançar** o sistema apresentará a seguinte tela:
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image128.png)width="6.889583333333333in"
-height="1.6145833333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image128.png)
 
 O usuário, então, deve clicar em **Escolher arquivo**, localizar o arquivo de lote que deseja transmitir e clicar no botão ![Descrição:
 Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image101.png)width="0.3541666666666667in"
-height="0.2604166666666667in".
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image101.png).
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image141.png)width="6.886111111111111in"
-height="1.875in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image141.png)
 
 O sistema informará o número do protocolo de envio do lote e apresentará
 o detalhamento do lote ao enumerar todos os arquivos de dados que o compõem com seus respectivos *status*.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image122.png)width="6.889583333333333in"
-height="2.560416666666667in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image122.png)
 
 O campo **Nº do Protocolo** é composto por duas letras e um número sequencial composto por 10 dígitos. As siglas indicativas do protocolo são:
 
@@ -2977,17 +2935,14 @@ O campo **Nº do Protocolo** é composto por duas letras e um número sequencial
 As [[Orientações Técnicas]{.underline}](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf)
 apresentam as regras a serem obedecidos na geração dos arquivos de lote e de dados. A primeira regra a ser validada pelo Sistema refere-se ao nome dos arquivos. Caso sejam enviados arquivos cujos nomes não obedeçam a estas regras, o Sistema emitirá uma das seguintes mensagens.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image131.png)width="6.889583333333333in"
-height="2.0395833333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image131.png)
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image130.png)width="6.889583333333333in"
-height="2.0395833333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image130.png)
 
 Em seguida, o formato do arquivo de lote é validado. Caso o arquivo enviado não tenha o formato esperado, a seguinte mensagem será
 apresentada.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image126.png)width="7.127777777777778in"
-height="1.9479166666666667in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image126.png)
 
 Após a transmissão bem sucedida do arquivo de lote, o Siscoserv valida o formato dos arquivos de dados e atribui ao lote e aos arquivos de dados que o compõem um *status* de acordo com o resultado da validação (veja
 [[*Status* dos Arquivos de Lote]{.underline}](#3sv78d1))
@@ -2995,19 +2950,15 @@ Após a transmissão bem sucedida do arquivo de lote, o Siscoserv valida o forma
 Para maior detalhamento sobre o *status* ou o tipo de erro associados aos arquivos de dados, ao deixar o cursor do *mouse* sobre a coluna
 **Status** e **Código Erro**, o Sistema exibirá o significado dos códigos apresentados:
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image129.png)width="6.620138888888889in"
-height="2.1034722222222224in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image129.png)
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image168.png)width="6.674305555555556in"
-height="2.236111111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image168.png)
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image111.png)width="6.91875in"
-height="2.214583333333333in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image111.png)
 
 Um arquivo de retorno contendo mais detalhes sobre os erros encontrados pode ser gerado ao clicar o botão **Gerar Arquivo de Retorno**. O formato do arquivo de retorno está descrito nas [[Orientações Técnicas]{.underline}](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf).
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image109.png)width="6.889583333333333in"
-height="2.261111111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image109.png)
 
 []{#_2lfnejv .anchor}
 
@@ -3015,49 +2966,38 @@ height="2.261111111111111in"
 
 Para consultar o lote, o usuário deve clicar na aba **Transmissão em Lote** e em seguida selecionar o item de *menu* **Consultar Lote.**
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image105.png)width="6.889583333333333in"
-height="1.636111111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image105.png)
 
 O Sistema apresentará a tela para que se informe o CPF/CNPJ do vendedor ou se o usuário é o próprio vendedor.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image108.png)width="6.889583333333333in"
-height="1.9069444444444446in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image108.png)
 
 Após identificar o vendedor, o usuário poderá consultar o lote pelo número de protocolo ou pela lista dos lotes enviados.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image103.png)width="6.889583333333333in"
-height="1.5506944444444444in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image103.png)
 
 Caso o usuário utilize a opção **Informar Nº do Protocolo**, após clicar o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image106.png)width="0.3645833333333333in"
-height="0.23958333333333334in", o Sistema apresentará a tela com os dados do lote informado.
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image106.png), o Sistema apresentará a tela com os dados do lote informado.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image107.png)width="6.889583333333333in"
-height="2.2618055555555556in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image107.png)
 
 Se o usuário selecionar a opção **Listar arquivos em lote enviados**, ao clicar o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image106.png)width="0.3645833333333333in"
-height="0.23958333333333334in", o Sistema listará todos os lotes enviados em nome do CPF/CNPJ do vendedor. O usuário pode consultar um lote específico ao clicar o botão ![Descrição: Descrição:
-À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image101.png)width="0.3541666666666667in"
-height="0.2604166666666667in". Neste caso, a tela com os dados do lote será apresentada como se o usuário consultasse o lote pelo seu número de protocolo.
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image106.png), o Sistema listará todos os lotes enviados em nome do CPF/CNPJ do vendedor. O usuário pode consultar um lote específico ao clicar o botão ![Descrição: Descrição:
+À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image101.png). Neste caso, a tela com os dados do lote será apresentada como se o usuário consultasse o lote pelo seu número de protocolo.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image157.png)width="6.889583333333333in"
-height="3.1458333333333335in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image157.png)
 
 Os registros inseridos, retificados ou aditivados a partir de um arquivo de lote podem ser consultados diretamente da tela de dados, ou o usuário pode solicitar ao Sistema que gere o arquivo de retorno do lote encaminhado.
 
 Caso o usuário escolha consultar o lote diretamente na tela, deverá
 selecionar o número de registro apresentado.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image119.png)width="6.889583333333333in"
-height="2.2618055555555556in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image119.png)
 
 Os erros de formatação ou de regra de negócio indicados podem ser inspecionados ao se posicionar o cursor do mouse sobre o símbolo
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image121.png)width="0.4479166666666667in"
-height="0.1875in".
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image121.png).
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image133.png)width="6.889583333333333in"
-height="1.854861111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image133.png)
 
 []{#_10kxoro .anchor}
 
@@ -3070,14 +3010,12 @@ dependendo do tipo de registro incluído.
 
 O formato do arquivo de retorno está descrito nas [[Orientações Técnicas.]{.underline}](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf)
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image123.png)width="6.889583333333333in"
-height="2.2506944444444446in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image123.png)
 
 Cabe ressaltar ainda que os registros inseridos a partir de um arquivo de lote não podem ser editados (retificados, aditados, etc.)
 manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apresentará a seguinte tela:
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)width="6.889583333333333in"
-height="3.0416666666666665in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image86.png)
 
 []{#_3kkl7fh .anchor}
 
@@ -3088,11 +3026,9 @@ necessário que o *status* do lote ainda seja EP -- Em Processamento.
 Logo, a operação estará disponível apenas no mesmo dia do envio do lote.
 
 A partir da tela de listagem dos lotes enviados (veja [[Consultar Lote]{.underline}](#_2lfnejv)), ao clicar o botão
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image116.png)width="0.3548611111111111in"
-height="0.22847222222222222in" ao lado do lote que se deseja excluir, o Sistema removerá definitivamente o lote da fila de processamento.
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image116.png) ao lado do lote que se deseja excluir, o Sistema removerá definitivamente o lote da fila de processamento.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image110.png)width="6.889583333333333in"
-height="3.1458333333333335in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image110.png)
 
 **3.4. Cumprimento de Prazos na Transferência em Lote**
 
@@ -3123,13 +3059,11 @@ O **Usuário/Responsável pelo Registro** é que detém o e-CPF e/ou a procuraç
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Relatório Gerencial;
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image85.jpg)width="5.90625in"
-height="2.6180555555555554in"
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image85.jpg)
 
 Passo 2: Usuário/ Responsável pelo Registro preenche o CNPJ da Pessoa Jurídica Vendedora e clica em "Avançar";
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial2.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image118.jpg)width="5.901388888888889in"
-height="2.595833333333333in"
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial2.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image118.jpg)
 
 Passo 3: Usuário/Responsável pelo Registro seleciona dentre as diversas opções possíveis aquelas que deseja e clica em "Gerar Relatório".
 
@@ -3151,22 +3085,18 @@ Podem ser selecionadas as seguintes opções:
 
 \- Consulta disponível para **matriz**:
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\RElatorio Gerencial5.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image69.jpg)width="7.006944444444445in"
-height="3.082638888888889in"
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\RElatorio Gerencial5.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image69.jpg)
 
 \- Consulta disponível para **filial**:
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\RElatorio Gerencial5.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image69.jpg)width="7.006944444444445in"
-height="3.082638888888889in"![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image69.jpg)width="1.0916666666666666in"
-height="0.2in"
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\RElatorio Gerencial5.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image69.jpg)![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image69.jpg)
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado.
 
 As seguintes informações são disponibilizadas na planilha E[]{#1e03kqp
 .anchor}xcel dos **Relatórios Gerenciais relativos aos RVS**:
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Planilha Excel1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image147.jpg)width="7.747222222222222in"
-height="1.5611111111111111in"
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Planilha Excel1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image147.jpg)
 
 -   Mês/ano
 
@@ -3240,8 +3170,7 @@ operação e fatura. Esses dados não têm nenhuma utilidade para operações tr
 As seguintes informações são disponibilizadas na planilha E[]{#3xzr3ei
 .anchor}xcel dos **Relatórios Gerenciais relativos aos RF**:
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image82.png)width="7.4118055555555555in"
-height="1.6347222222222222in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image82.png)
 
 -   Mês/ ano
 
@@ -3290,13 +3219,11 @@ operação e fatura. Esses dados não têm nenhuma utilidade para operações tr
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Relatório Gerencial;
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image85.jpg)width="5.90625in"
-height="2.6180555555555554in"
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image85.jpg)
 
 Passo 2: Usuário/Responsável pelo Registro preenche o CPF da Pessoa Física Vendedora e clica em "Avançar";
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial3.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image88.jpg)width="5.909027777777778in"
-height="2.6in"
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial3.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image88.jpg)
 
 Passo 3: Usuário/ Responsável pelo Registro seleciona dentre as diversas opções possíveis, aquelas que deseja e clica em "Gerar Relatório".
 
@@ -3310,8 +3237,7 @@ Podem ser selecionadas as seguintes opções:
 
 \- Selecionar o período das informações desejadas, que não deve ser superior a 1 ano.
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial6.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image117.jpg)width="5.902777777777778in"
-height="2.6069444444444443in"
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial6.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image117.jpg)
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [[Relatórios Gerenciais RVS]{.underline}](#1e03kqp) (atentar que no 2º caso as informações do CPF do vendedor serão disponibilizadas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e [[Relatórios Gerenciais RF]{.underline}](#3xzr3ei).
 
@@ -3321,14 +3247,12 @@ O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados par
 
 Passo 1: Usuário/Responsável pelo Registro, que neste caso é o próprio vendedor, acessa o Siscoserv e clica em Relatório Gerencial;
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image85.jpg)width="5.90625in"
-height="2.6180555555555554in"
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image85.jpg)
 
 Passo 2: Usuário/Responsável pelo Registro seleciona a opção "O Usuário
 é o Próprio Vendedor";
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial4.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image89.jpg)width="5.904166666666667in"
-height="2.609722222222222in"
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial4.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image89.jpg)
 
 Passo 3: Usuário/Responsável pelo Registro seleciona dentre as diversas opções possíveis, aquelas que deseja e clica em "Gerar Relatório".
 
@@ -3342,8 +3266,7 @@ Podem ser selecionadas as seguintes opções:
 
 \- Selecionar o período das informações desejadas, que não deve ser superior a 1 ano.
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial7.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image80.jpg)width="5.9006944444444445in"
-height="2.6152777777777776in"
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Relatorio Gerencial7.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image80.jpg)
 
 O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados para o período selecionado. Para verificar as informações disponibilizadas nas planilhas Excel, acessar: [[Relatórios Gerenciais RVS]{.underline}](#1e03kqp) (observar que no 3º caso as informações do CPF do usuário e do CPF do vendedor são as mesmas e as informações de CNPJ do vendedor virão preenchidas com N/A -- não se aplica) e
 [[Relatórios Gerenciais RF]{.underline}](#3xzr3ei).
@@ -3368,8 +3291,7 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 **Exportação brasileira com a obrigação de transportar da empresa brasileira.**
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image113.jpg)width="6.471527777777778in"
-height="4.607638888888889in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image113.jpg)
 
 [Atores]{.underline}:
 
@@ -3417,8 +3339,7 @@ height="4.607638888888889in"
 
 ![C:\\Users\\luple\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Cenário
 1.2 -
-Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image153.png)width="6.598611111111111in"
-height="5.0881944444444445in"
+Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image153.png)
 
 [Atores]{.underline}:
 
@@ -3458,8 +3379,7 @@ height="5.0881944444444445in"
 
 **Importação brasileira com a obrigação de transportar da empresa estrangeira**
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image97.png)width="6.55625in"
-height="4.917361111111111in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image97.png)
 
 [Atores]{.underline}:
 
@@ -3501,8 +3421,7 @@ height="4.917361111111111in"
 
 ![C:\\Users\\luple\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Cenário
 1.4 -
-Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image102.png)width="6.413888888888889in"
-height="4.821527777777778in"
+Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image102.png)
 
 [Atores]{.underline}:
 
@@ -3544,8 +3463,7 @@ height="4.821527777777778in"
 
 Empresa residente ou domiciliada no Brasil -- Emp~BR~, utiliza corretora de seguros, também residente ou domiciliada no Brasil, -- Cor~BR~ que intermedeia a contratação com a seguradora residente ou domiciliada no exterior -- Seg~EX~. Desta forma, mesmo intervindo o intermediário Cor~BR~, as partes do contrato do seguro continuam a ser Emp~BR~ e Seg~EX~ e cabe a Emp~BR~, a contratante no Brasil, o registro no Siscoserv.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image95.jpg)width="6.5569444444444445in"
-height="4.916666666666667in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image95.jpg)
 
 [Atores]{.underline}:
 
@@ -3574,8 +3492,7 @@ height="4.916666666666667in"
 Est~BR~, residente ou domiciliada no Brasil, é uma corretora que contrata e paga apólice coletiva de seguros, ficando investida dos poderes de representação dos segurados perante as seguradoras, fazendo papel de estipulante. Se Seg~EX~, seguradora residente ou domiciliada no exterior, for contratada e paga por Est~BR~ em favor de Emp~BR~,
 residente ou domiciliada no Brasil, Est~BR~ é considerado o contratante e, consequentemente, o responsável pelo registro no Siscoserv
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image96.jpg)width="6.884027777777778in"
-height="5.1625in"
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image96.jpg)
 
 [Atores]{.underline}:
 
