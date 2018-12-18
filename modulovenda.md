@@ -727,7 +727,7 @@ Na informação do código NBS, a posição mais específica prevalece sobre a m
 Para utilizar a ferramenta de busca:
 
 > 1-   no campo **Código NBS**, acionar botão ![Descrição: Descrição:
-> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png){
+> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png)
 >
 > 2-   é aberta a janela **Seleção de Código NBS** para realização da
 > busca do código;
@@ -1402,7 +1402,7 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco,
 > \- Endereço da Pessoa Física Vendedora;
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas7.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image158.jpg)
-height="3.3826388888888888in"
+
 
 Existem outros campos de preenchimento opcional:
 
@@ -1719,8 +1719,8 @@ Só pode ser informado valor acima de 0,00 (zero).
 Para informar **Mecanismo de apoio/fomento** da operação, tal como previsto no [[item 10]{.underline}](about:blank) do capítulo 1 deste Manual, marque "sim" à direita da pergunta: "A operação está amparada em mecanismo de apoio/fomento ao comércio exterior nos termos do art. 26 da Lei 12.546/2011?". O Sistema abrirá uma nova tela para inclusão do(s)
 mecanismo(s) de apoio.
 
-> ![manual8ed\_enq02\_venda](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image12.png){
-> height="1.7284722222222222in"}
+> ![manual8ed\_enq02\_venda](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image12.png)
+> 
 
 Selecione o [[Mecanismo](#4kgg8ps) de apoio/fomento]{.underline}
 desejado, no campo Enquadramento, e acione o botão ![Descrição:
@@ -1735,8 +1735,8 @@ clique diretamente em ![Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image10.png)
 height="0.20833333333333334in".
 
-> ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image46.jpg){
-> height="2.1145833333333335in"}
+> ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image46.jpg)
+> 
 
 Caso deseje excluir um enquadramento selecionado, o usuário deve acionar o botão ![Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png)
@@ -2169,8 +2169,8 @@ height="0.23958333333333334in" para ser disponibilizada a relação de todos os 
 >
 > a\) selecionar a operação a ser faturada, acionando o botão ![Descrição:
 > Descrição:
-> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){
-> height="0.2604166666666667in"}**;**
+> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png)
+> **;**
 >
 > b\) na tela seguinte **Incluir Dados do RF**, verificar o **Valor da
 > Operação** e **Saldo a Faturar** da operação selecionada, bem como
@@ -2194,12 +2194,12 @@ height="0.23958333333333334in" para ser disponibilizada a relação de todos os 
 
 > e\) antes da inclusão do RF, caso seja detectado erro de preenchimento,
 > clicar no ícone ![Descrição: Descrição:
-> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){
-> height="0.2604166666666667in"} à direita para corrigi-lo, procedendo
+> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png)
+> à direita para corrigi-lo, procedendo
 > conforme descrito acima. Para excluí-lo, clicar no ícone ![Descrição:
 > Descrição:
-> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png){
-> height="0.21875in"} à esquerda do campo;
+> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png)
+> à esquerda do campo;
 >
 > f\) inserir o **Número da NF de Serviço ou do Documento Equivalente** e
 > acionar o botão **Avançar.** O usuário deve preencher o campo **Número
