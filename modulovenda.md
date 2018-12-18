@@ -334,15 +334,15 @@ O prazo para incluir o RVS é até o último dia útil do 3^[o]{.underline}^
 serviço]{.underline}](#48pi1tg)[^3]
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image155.png)
-height="2.2805555555555554in"}
+
 
 Até 31 de dezembro de 2013, o prazo para o RVS foi, excepcionalmente,
 até o último dia útil do 6^[º]{.underline}^ (sexto) mês subsequente à
 data de início da prestação de serviço, da comercialização de intangível
 ou da realização de operação que produza variação no patrimônio.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image148.png){width="3.186111111111111in"
-height="3.532638888888889in"}
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image148.png)
+
 
 **4.2. Registro de Faturamento (RF)**
 
