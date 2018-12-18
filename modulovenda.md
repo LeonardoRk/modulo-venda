@@ -14,8 +14,7 @@
 
 [**4. Registros no Módulo Venda**](#_12jfdx2)
 
-[4.1. Registro de Venda de Serviços, Intangíveis e Outras Operações que
-Produzam Variações no Patrimônio (RVS)](#_3mj2wkv)
+[4.1. Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS)](#_3mj2wkv)
 
 [4.1.1. Prazo para o RVS](#_21od6so)
 
@@ -68,7 +67,7 @@ Venda:](#_17nz8yj)
 
 [**Capítulo 2**](#_meukdy)
 
-[**Operacionalização do Sistema **](#_meukdy)
+[**Operacionalização do Sistema**](#_meukdy)
 
 [**1. Acesso ao Siscoserv** ](#_3rnmrmc)
 
