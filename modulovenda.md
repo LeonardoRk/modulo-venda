@@ -178,7 +178,7 @@
 **1. Introdução**
 
 O Sistema Integrado de Comércio Exterior de Serviços,
-[[Intangíveis]{.underline}](#haapch) e [[Outras Operações que Produzam Variações no Patrimônio]{.underline}](#3tm4grq) (Siscoserv) é um sistema informatizado, desenvolvido pelo Governo Federal como ferramenta para o aprimoramento das ações de estímulo, formulação, acompanhamento e aferição das políticas públicas relacionadas a serviços e intangíveis,
+[Intangíveis](#haapch) e [[Outras Operações que Produzam Variações no Patrimônio]{.underline}](#3tm4grq) (Siscoserv) é um sistema informatizado, desenvolvido pelo Governo Federal como ferramenta para o aprimoramento das ações de estímulo, formulação, acompanhamento e aferição das políticas públicas relacionadas a serviços e intangíveis,
 bem como para a orientação de estratégias empresariais de comércio exterior de serviços e intangíveis.
 
 O Siscoserv guarda conformidade com as diretrizes do Acordo Geral sobre Comércio de Serviços (GATS) da Organização Mundial do Comércio (OMC),
@@ -214,12 +214,12 @@ A prestação de informação no Siscoserv observa as normas complementares esta
 O Siscoserv conta com dois Módulos: **Venda e Aquisição**.
 
 No **Módulo Venda** devem ser registrados os serviços,
-[[intangíveis]{.underline}](#haapch) e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq), vendidos por
-[[residentes]{.underline}](#1tuee74) ou domiciliados no País a residentes ou domiciliados no exterior. Este módulo abrange também o registro das operações realizadas por meio de presença comercial no exterior.
+[intangíveis](#haapch) e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq), vendidos por
+[residentes](#1tuee74) ou domiciliados no País a residentes ou domiciliados no exterior. Este módulo abrange também o registro das operações realizadas por meio de presença comercial no exterior.
 
 No **Módulo Aquisição** devem ser registrados os serviços,
-[[intangíveis]{.underline}](#haapch) e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq), adquiridos por
-[[residentes]{.underline}](#1tuee74) ou domiciliados no País, de residentes ou domiciliados no exterior.
+[intangíveis](#haapch) e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq), adquiridos por
+[residentes](#1tuee74) ou domiciliados no País, de residentes ou domiciliados no exterior.
 
 Para maiores informações sobre o Modulo Aquisição acesse:
 
@@ -231,7 +231,7 @@ Para maiores informações sobre o Modulo Aquisição acesse:
 No Módulo Venda do Siscoserv estão previstos os seguintes registros:
 
 \- Registro de Venda de Serviços (RVS): contém dados referentes à venda,
-por [[residente]{.underline}](#1tuee74) ou domiciliado no País, de serviços, [[intangíveis]{.underline}](#haapch) e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq), a residente ou domiciliado no exterior;
+por [residente](#1tuee74) ou domiciliado no País, de serviços, [intangíveis](#haapch) e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq), a residente ou domiciliado no exterior;
 
 \- Registro de Faturamento (RF): contém dados referentes ao faturamento decorrente de venda objeto de prévio RVS; e
 
@@ -240,17 +240,17 @@ por [[residente]{.underline}](#1tuee74) ou domiciliado no País, de serviços, [
 <a id="_3mj2wkv"></a>
 **4.1. Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS)**
 
-O Registro de Venda de Serviços, [[Intangíveis]{.underline}](#haapch) e
-[[Outras Operações que Produzam Variações no Patrimônio]{.underline}](#3tm4grq) (RVS) serve para informar a venda realizada por [[residentes]{.underline}](#1tuee74) ou domiciliados no País a residentes ou domiciliados no exterior.
+O Registro de Venda de Serviços, [Intangíveis](#haapch) e
+[[Outras Operações que Produzam Variações no Patrimônio]{.underline}](#3tm4grq) (RVS) serve para informar a venda realizada por [residentes](#1tuee74) ou domiciliados no País a residentes ou domiciliados no exterior.
 
 Estão obrigados a registrar as informações no Sistema aqueles relacionados no [[item]{.underline}](#_vx1227) 5 e dispensados de registro aqueles relacionados no item 6.
 
-A obrigação de registro não se estende às transações envolvendo serviços e [[intangíveis]{.underline}](#haapch) incorporados aos bens e mercadorias exportados, registrados no Sistema Integrado de Comércio Exterior - Siscomex.
+A obrigação de registro não se estende às transações envolvendo serviços e [intangíveis](#haapch) incorporados aos bens e mercadorias exportados, registrados no Sistema Integrado de Comércio Exterior - Siscomex.
 
 Os serviços de frete, seguro e de agentes externos, bem como demais serviços relacionados às operações de comércio exterior de bens e mercadorias, serão objeto de registro no Siscoserv, por não serem incorporados aos bens e mercadorias.
 
 Cada RVS destina-se a apenas um contrato de prestação de serviços[^1].
-Cada contrato pode conter uma ou mais [[operações]{.underline}](#upglbi)
+Cada contrato pode conter uma ou mais [operações](#upglbi)
 em um mesmo RVS, desde que todas as operações sejam cursadas com o mesmo adquirente.
 
 Caso o contrato envolva mais de um adquirente deve ser registrado um RVS por adquirente. Por exemplo, quando um contrato for assinado com uma empresa matriz e suas filiais em países diferentes (diversos adquirentes), devem ser registrados tantos RVS quantos sejam os adquirentes.
@@ -300,7 +300,7 @@ Para o registro de faturamento, há dois prazos possíveis, dependendo da data d
 
 [Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#_nwp17c).]{.underline}
 
-<a id="_1fyl9w3"></a>
+
 **4.3. Situações especiais de registro**
 
 <a id="_147n2zr"></a>
@@ -321,7 +321,7 @@ A operação cujo valor não seja conhecido por ocasião do seu registro em fun�
 
 **4.3.3. Operação com pessoas físicas residentes no exterior mediante consumo no Brasil:**
 
-As vendas de serviços, [[intangíveis]{.underline}](#haapch) e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq),
+As vendas de serviços, [intangíveis](#haapch) e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq),
 em [[modo de prestação 2]{.underline}](#1mrcu09) (consumo no Brasil),
 realizadas com pessoas físicas residentes no exterior, poderão ser registradas pelos seus montantes acumulados mensalmente, por NBS e por País do Adquirente. Nesse caso, a data de início será o primeiro dia do mês e a data de conclusão será o último dia do mês para as operações ocorridas nesse período. Exemplo: venda no Brasil de serviços de hospedagem para funcionário de empresa domiciliada no exterior.
 
@@ -381,16 +381,16 @@ Devem ser registradas no Siscoserv as operações realizadas por meio de presen�
 1994.
 
 A responsabilidade de efetuar o Registro de Presença Comercial no Exterior (RPC) no Módulo Venda do Siscoserv é da pessoa jurídica domiciliada no Brasil que mantenha filial, sucursal ou
-[[controlada]{.underline}](#2nusc19) domiciliada no exterior para a prestação de serviços, transferência de
-[[intangíveis]{.underline}](#haapch) ou realização de [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq).
+[controlada](#2nusc19) domiciliada no exterior para a prestação de serviços, transferência de
+[intangíveis](#haapch) ou realização de [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq).
 
 No RPC deve ser registrada a receita anual total de venda de serviço, de transferência de intangível e de realização de outra operação que produza variação no patrimônio, obtida por meio do estabelecimento de presença comercial no exterior de filial, sucursal ou
-[[controlada]{.underline}](#2nusc19) relacionada à pessoa jurídica domiciliada no Brasil.
+[controlada](#2nusc19) relacionada à pessoa jurídica domiciliada no Brasil.
 
 Deve(m) ser informada(s) no RPC a(s) posição(ões) da NBS mais representativas da receita anual total com venda de serviço,
 transferência de intangível e realização de outra operação que produza variação no patrimônio.
 
-Caso a pessoa jurídica domiciliada no Brasil mantenha, no exterior, mais de uma filial, sucursal ou [[controlada]{.underline}](#2nusc19) no mesmo país, a receita anual total com venda de serviços, transferência de intangível e realização de outra operação que produza variação no patrimônio, será discriminada mediante um RPC para cada filial, sucursal e controlada.
+Caso a pessoa jurídica domiciliada no Brasil mantenha, no exterior, mais de uma filial, sucursal ou [controlada](#2nusc19) no mesmo país, a receita anual total com venda de serviços, transferência de intangível e realização de outra operação que produza variação no patrimônio, será discriminada mediante um RPC para cada filial, sucursal e controlada.
 
 <a id="_2grqrue"></a>
 
@@ -406,9 +406,9 @@ A prestação das informações no RPC deve ser realizada anualmente, a partir d
 **5. Quem deve efetuar registro no Siscoserv -- Módulo Venda**
 
 Estão obrigados a registrar as informações no Sistema -- Módulo Venda,
-os [[residentes]{.underline}](#1tuee74) ou domiciliados no Brasil que realizem, com residentes ou domiciliados no exterior,
-[[operações]{.underline}](#upglbi) de venda de serviços,
-[[intangíveis]{.underline}](#haapch) e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq) das pessoas físicas, das pessoas jurídicas ou dos entes despersonalizados, inclusive operações de exportação de serviços.
+os [residentes](#1tuee74) ou domiciliados no Brasil que realizem, com residentes ou domiciliados no exterior,
+[operações](#upglbi) de venda de serviços,
+[intangíveis](#haapch) e [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq) das pessoas físicas, das pessoas jurídicas ou dos entes despersonalizados, inclusive operações de exportação de serviços.
 
 Estão obrigados a efetuar registro no Módulo Venda do Siscoserv:
 
@@ -428,8 +428,8 @@ O registro realizado por pessoa jurídica deve ser efetuado por estabelecimento.
 
 O registro no Siscoserv independe da contratação de câmbio, do meio de pagamento ou da existência de um contrato formal.
 
-Também devem ser registradas as [[operações]{.underline}](#upglbi) de venda de serviços[^5] iniciadas e não concluídas antes das datas constantes do Anexo Único da Portaria Conjunta RFB/SCS n^[o]{.underline}^ 1.908, de 19 de julho de 2012. Para essas
-[[operações]{.underline}](#upglbi), deve ser registrada como data de início aquela indicada no retrocitado Anexo Único, por capítulo da NBS.
+Também devem ser registradas as [operações](#upglbi) de venda de serviços[^5] iniciadas e não concluídas antes das datas constantes do Anexo Único da Portaria Conjunta RFB/SCS n^[o]{.underline}^ 1.908, de 19 de julho de 2012. Para essas
+[operações](#upglbi), deve ser registrada como data de início aquela indicada no retrocitado Anexo Único, por capítulo da NBS.
 Caso haja saldo a faturar, deve ser indicado como valor da operação o saldo remanescente a faturar. Nos casos em que o faturamento tenha ocorrido integralmente antes da data indicada no anexo, deve ser registrado o valor proporcional da operação correspondente ao período remanescente da prestação do serviço[^6], justificando o valor registrado no campo **Informações Complementares.**
 
 Caso tenha ocorrido o faturamento integral antes das datas constantes do Anexo Único da Portaria Conjunta RFB/SCS n^[o]{.underline}^ 1.908, de 19
@@ -438,11 +438,11 @@ o registro de faturamento obedecerá ao [[item 2.2 do Capítulo 2 deste Manual]{
 
 Em qualquer dos casos, a **Data** constante dos **Dados do RF** deve ser aquela constante da nota fiscal ou documento equivalente.
 
-As [[operações]{.underline}](#upglbi) iniciadas e concluídas antes das datas constantes do Anexo Único não devem ser registradas,
+As [operações](#upglbi) iniciadas e concluídas antes das datas constantes do Anexo Único não devem ser registradas,
 independentemente de terem sido ou não faturadas.
 
 Não podem ser registradas operações previamente ao [[início da prestação do serviço]{.underline}](#48pi1tg), da transferência do
-[[intangível]{.underline}](#haapch) ou da realização de [[outra operação que produza variação no patrimônio]{.underline}](#3tm4grq).
+[intangível](#haapch) ou da realização de [[outra operação que produza variação no patrimônio]{.underline}](#3tm4grq).
 
 A responsabilidade pelos registros RVS/RF do Módulo Venda do Siscoserv é
 do residente ou domiciliado no País que mantenha relação contratual com residente ou domiciliado no exterior e que contra este fature a prestação de serviço[^8], ainda que ocorra subcontratação de residente ou domiciliado no País ou no exterior.
@@ -542,7 +542,7 @@ Exemplos:
 > Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image160.jpg)
 
 **Modo 3 - Presença comercial no exterior:** consiste na prestação de serviço por pessoa jurídica domiciliada no exterior relacionada a uma pessoa jurídica domiciliada no Brasil. Para fins do Siscoserv,
-considera-se relacionada à pessoa jurídica domiciliada no Brasil a sua filial, sucursal ou [[controlada]{.underline}](#2nusc19), domiciliada no exterior.
+considera-se relacionada à pessoa jurídica domiciliada no Brasil a sua filial, sucursal ou [controlada](#2nusc19), domiciliada no exterior.
 
 Exemplos:
 
@@ -572,7 +572,7 @@ Exemplos:
 
 ![Imagens Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image156.jpg)
 
-Devem registrar [[operações]{.underline}](#upglbi) em Modo 4 no Módulo Venda do Siscoserv:
+Devem registrar [operações](#upglbi) em Modo 4 no Módulo Venda do Siscoserv:
 
 a)  as pessoas físicas [[residentes no Brasil]{.underline}](#1tuee74),
     > sem vínculo empregatício com pessoa física ou jurídica residente
@@ -617,14 +617,14 @@ que produz efeitos a partir de 1º de janeiro de 2019.
 Esse registro deverá observar as seguintes regras gerais para interpretação da NBS:
 
 **Regra 1.** Os títulos das Seções e Capítulos têm apenas valor indicativo. Para os efeitos legais, a classificação do serviço,
-[[intangível]{.underline}](#haapch) ou [[outra operação que produza variação no patrimônio]{.underline}](#3tm4grq) é determinada pelos textos das posições e das Notas de Seção e de Capítulo quando houver e,
+[intangível](#haapch) ou [[outra operação que produza variação no patrimônio]{.underline}](#3tm4grq) é determinada pelos textos das posições e das Notas de Seção e de Capítulo quando houver e,
 desde que não sejam contrárias aos textos das referidas posições e Notas, pelas Regras seguintes.
 
 **Regra 2.** Quando aparentar que o serviço,
-[[intangível]{.underline}](#haapch) ou [[outra operação que produza variações]{.underline}](#3tm4grq) no patrimônio pode ser classificado em duas ou mais posições, a classificação efetuar-se-á da seguinte forma:
+[intangível](#haapch) ou [[outra operação que produza variações]{.underline}](#3tm4grq) no patrimônio pode ser classificado em duas ou mais posições, a classificação efetuar-se-á da seguinte forma:
 
 2a) A posição mais específica prevalece sobre a mais genérica. Todavia,
-quando duas ou mais posições se referirem, cada uma delas, a apenas um dos serviços, [[intangíveis]{.underline}](#haapch) ou [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq) que constituam o objeto a ser classificado, tais posições devem ser consideradas como igualmente específicas, ainda que uma dessas posições apresente uma descrição mais precisa ou completa desse objeto.
+quando duas ou mais posições se referirem, cada uma delas, a apenas um dos serviços, [intangíveis](#haapch) ou [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq) que constituam o objeto a ser classificado, tais posições devem ser consideradas como igualmente específicas, ainda que uma dessas posições apresente uma descrição mais precisa ou completa desse objeto.
 
 2b) Quando a Regra 2a) não permitir efetuar a classificação, o serviço,
 intangível ou [[outra operação que produza variações no patrimônio]{.underline}](#3tm4grq) classificar-se-á na posição situada em último lugar na ordem numérica, dentre as suscetíveis de serem consideradas válidas.
@@ -642,7 +642,7 @@ No contexto do Siscoserv e da Nomenclatura Brasileira de Serviços, são exemplo
 serviços de concessão de crédito; serviços de pesquisa e desenvolvimento; serviços de consultoria; serviços de auditoria;
 serviços de gerenciamento de redes; serviços fotográficos; serviços de arquitetura e serviços de saúde humana.
 
-2\) [[Intangíveis]{.underline}](#haapch): licenciamento de direitos de autor e direitos conexos; licenciamento de direitos sobre a propriedade industrial; cessão de direitos de autor e direitos conexos; cessão de direitos sobre a propriedade industrial.
+2\) [Intangíveis](#haapch): licenciamento de direitos de autor e direitos conexos; licenciamento de direitos sobre a propriedade industrial; cessão de direitos de autor e direitos conexos; cessão de direitos sobre a propriedade industrial.
 
 3\) [[Outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq): fornecimento de refeições;
 fornecimento de bebidas em bares, cervejarias e outros e arrendamento mercantil financeiro de máquinas e equipamentos.
@@ -1052,6 +1052,7 @@ ser representados em juízo, ativa e passivamente. São entes despersonalizados:
 
 **Serviço:** É uma obrigação de fazer do prestador, destinada a atender uma necessidade do tomador.
 
+<a id="haapch"></a>
 **Intangível:** Serão considerados os seguintes intangíveis para fins do registro no SISCOSERV:
 
 I - o licenciamento (autorização para usar ou explorar comercialmente direito patrimonial) e a cessão, temporária ou definitiva, dos direitos de propriedade intelectual objeto das Seções 1 a 7 da Parte II do Acordo sobre os Aspectos dos Direitos de Propriedade Intelectual Relacionados ao Comércio, conforme o Anexo 1C do Acordo Constitutivo da Organização Mundial do Comércio constante da Ata Final que incorpora os Resultados das Negociações Comerciais Multilaterais da Rodada Uruguai, aprovada pelo Decreto n^[o]{.underline}^ 1.355, de 31 de dezembro de 1994;
@@ -1506,10 +1507,10 @@ graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image
 
 Cada RVS destina-se a apenas um contrato de prestação de serviços[^12].
 Cada contrato pode conter uma ou mais
-[[operações]{.underline}](#2m6kmyk) em um mesmo RVS, desde que todas as operações sejam cursadas com o mesmo adquirente.
+[operações](#2m6kmyk) em um mesmo RVS, desde que todas as operações sejam cursadas com o mesmo adquirente.
 
 Na opção **Aproveitar Dados de RVS Incluído,** o Sistema permite a seleção de um RVS existente, cujos dados serão recuperados para a inclusão de um novo RVS. Na tela **Dados do
-[[Negócio]{.underline}](#40ew0vw)**, os campos **Valor**, **Data de Início** e **Data de Conclusão** devem ser preenchidos com os dados do novo registro.
+[Negócio](#40ew0vw)**, os campos **Valor**, **Data de Início** e **Data de Conclusão** devem ser preenchidos com os dados do novo registro.
 
 Para usar essa opção, selecione **Aproveitar Dados de RVS Incluído**. O Sistema apresentará as seguintes opções:
 
@@ -1560,25 +1561,25 @@ legislação** no *menu* lateral esquerdo na tela de **Resumo**.
 
 **[Dados do Adquirente]{.underline}**
 
-Em **Dados do Adquirente**, devem ser incluídos os dados do residente ou domiciliado no exterior adquirente da [[operação]{.underline}](#upglbi)
+Em **Dados do Adquirente**, devem ser incluídos os dados do residente ou domiciliado no exterior adquirente da [operação](#upglbi)
 realizada com pessoa física, pessoa jurídica ou [[ente despersonalizado]{.underline}](#2250f4o)
-[[residente]{.underline}](#1tuee74) ou domiciliado no Brasil.
+[residente](#1tuee74) ou domiciliado no Brasil.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image15.png)
 
 
 **Nome do Adquirente** -- Preencha o nome da pessoa física ou o nome comercial da pessoa jurídica adquirente do
-[[negócio]{.underline}](#40ew0vw).
+[negócio](#40ew0vw).
 
-**Endereço do Adquirente** -- Preencha com o endereço da pessoa física ou da pessoa jurídica adquirente do [[negócio]{.underline}](#40ew0vw).
+**Endereço do Adquirente** -- Preencha com o endereço da pessoa física ou da pessoa jurídica adquirente do [negócio](#40ew0vw).
 
 **País do Adquirente** -- Selecione o país do adquirente do
-[[negócio]{.underline}](#40ew0vw) na lista disponível de países em
+[negócio](#40ew0vw) na lista disponível de países em
 **País do Adquirente**, ou informe manualmente o código do país no campo numérico.
 
 **[[NIF -- Número de Identificação Fiscal](#2fk6b3p)]{.underline}** --
 Preencha com número de Identificação Fiscal do adquirente do
-[[negócio]{.underline}](#40ew0vw). O fornecimento dessa informação é
+[negócio](#40ew0vw). O fornecimento dessa informação é
 obrigatório nos casos de países que adotam códigos de identificação fiscal.
 
 Caso não seja informado o **NIF**, deve-se selecionar uma das opções de
@@ -1598,27 +1599,27 @@ Caso o adquirente seja pessoa vinculada ao vendedor, selecione o tipo de vincula
 
 
 Acione **Avançar** para validar os dados e seguir para a próxima tela
-(**Dados do [[Negócio]{.underline}](#40ew0vw)**).
+(**Dados do [Negócio](#40ew0vw)**).
 
 **[Dados do Negócio]{.underline}**
 
-Em **Dados do [[Negócio]{.underline}](#40ew0vw)** são incluídos os dados das [[operações]{.underline}](#upglbi) de venda de serviços[^13] por
-[[residentes]{.underline}](#1tuee74) ou domiciliados no País a residentes ou domiciliados no exterior.
+Em **Dados do [Negócio](#40ew0vw)** são incluídos os dados das [operações](#upglbi) de venda de serviços[^13] por
+[residentes](#1tuee74) ou domiciliados no País a residentes ou domiciliados no exterior.
 
-Pode ser incluída uma ou mais [[operações]{.underline}](#upglbi) em cada RVS. Por exemplo, nos casos em que o [[negócio]{.underline}](#40ew0vw)
+Pode ser incluída uma ou mais [operações](#upglbi) em cada RVS. Por exemplo, nos casos em que o [negócio](#40ew0vw)
 comercial envolva mais de uma NBS, mais de uma etapa, mais de um país de destino, ou mais de um modo de prestação, desde que tal(is)
 operação(ões) esteja(m) relacionada(s) ao mesmo adquirente.
 
-O Sistema não admite registro de [[operações]{.underline}](#upglbi) com
+O Sistema não admite registro de [operações](#upglbi) com
 [[início de prestação]{.underline}](#48pi1tg) em data futura, ou seja,
 registram-se apenas as operações já realizadas ou cuja realização já
 tenha sido iniciada.
 
-Nos [[negócios]{.underline}](#40ew0vw) com pelo menos uma operação já
+Nos [negócios](#40ew0vw) com pelo menos uma operação já
 iniciada e que tenha sido objeto de RVS, as demais operações a serem realizadas em momento futuro devem ser registradas após seu início, por meio de [[aditivo ao RVS]{.underline}](#_thw4kt).
 
 Campos a serem preenchidos em Dados do
-[[Negócio]{.underline}](#40ew0vw):
+[Negócio](#40ew0vw):
 
 **Código NBS / Descrição da NBS:** Vide [[item 9, do Capítulo 1 deste Manual.]{.underline}](#_206ipza)
 
@@ -1633,14 +1634,14 @@ que produz efeitos a partir de 1º de janeiro de 2019.
 
 **Código do País / País de Destino:**
 
-Identifica o país de destino da prestação do serviço, da transferência de [[intangível]{.underline}](#haapch) ou da realização de [[outra operação que produza variação no patrimônio]{.underline}](#3tm4grq),
+Identifica o país de destino da prestação do serviço, da transferência de [intangível](#haapch) ou da realização de [[outra operação que produza variação no patrimônio]{.underline}](#3tm4grq),
 podendo ser diferente do país do adquirente.
 
 No Módulo Venda, sempre que o usuário registrar que o serviço foi prestado em Modo 2 (Consumo no Brasil), o País de Destino será o Brasil.
 
 Exemplos:
 
-\(1) Prestador de serviço, [[residente]{.underline}](#1tuee74) ou domiciliado no Brasil, é contratado por residente ou domiciliado na Argentina para prestação do serviço no Chile. O país de destino é o Chile.
+\(1) Prestador de serviço, [residente](#1tuee74) ou domiciliado no Brasil, é contratado por residente ou domiciliado na Argentina para prestação do serviço no Chile. O país de destino é o Chile.
 
 \(2) Serviço vendido via Internet por empresa brasileira a empresa domiciliada na Coreia do Sul. O país de destino é a Coreia do Sul.
 
@@ -1659,12 +1660,12 @@ Identifica a moeda da transação comercial. O usuário pode informar diretament
 Nos casos em que não é possível registrar a moeda da transação comercial por ausência do código da moeda na tabela disponível no Sistema ou por ausência da taxa de conversão disponível, o valor comercial deverá ser convertido em dólar dos Estados Unidos da América, com base em taxa de conversão fixada por autoridade monetária do país da moeda em questão na data de início da prestação do serviço[^16]. Neste caso, a moeda a ser indicada será o dólar dos Estados Unidos da América, e obrigatoriamente,
 deve ser informado em **Informações Complementares** o valor na moeda da transação comercial, bem como a taxa de conversão utilizada, e a respectiva fonte e data.
 
-Todas as [[operações]{.underline}](#upglbi) registradas em um RVS devem ser informadas em uma única **Moeda,** na primeira operação daquele registro. Da segunda operação daquele registro em diante, o campo fica bloqueado para edição.
+Todas as [operações](#upglbi) registradas em um RVS devem ser informadas em uma única **Moeda,** na primeira operação daquele registro. Da segunda operação daquele registro em diante, o campo fica bloqueado para edição.
 
-Caso o [[negócio]{.underline}](#40ew0vw) registrado envolva mais de uma moeda de recebimento, o usuário deve efetuar um novo RVS para cada moeda transacionada.
+Caso o [negócio](#40ew0vw) registrado envolva mais de uma moeda de recebimento, o usuário deve efetuar um novo RVS para cada moeda transacionada.
 
 Durante o preenchimento do registro, caso haja mais de uma
-[[operação]{.underline}](#upglbi) inserida no RVS e o usuário deseje alterar a moeda, deve-se concluir a inclusão da operação e na próxima tela alterar a moeda na primeira operação registrada naquele RVS,
+[operação](#upglbi) inserida no RVS e o usuário deseje alterar a moeda, deve-se concluir a inclusão da operação e na próxima tela alterar a moeda na primeira operação registrada naquele RVS,
 acionando o botão ![Descrição: Descrição:
 graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image14.png)
 
@@ -1690,7 +1691,7 @@ Modo 4 -- Movimento Temporário de Pessoas Físicas
 
 O registro no Módulo Venda deve indicar, sempre que possível, o valor da operação correspondente ao Modo de Prestação. Assim, caso uma operação de prestação de um serviço envolva mais de um modo de prestação, estes devem ser informados no RVS. Caso isso não seja possível, deve ser indicado o modo de prestação predominante para a prestação daquele serviço associado ao valor total da operação.
 
-O registro de [[operação]{.underline}](#upglbi) no Modo 3 - Presença Comercial no Exterior -- não é feito por meio de RVS. Nesse caso, o usuário deve fazer o RPC no *menu* [**[RPC]{.underline}**](#_3lbifu6).
+O registro de [operação](#upglbi) no Modo 3 - Presença Comercial no Exterior -- não é feito por meio de RVS. Nesse caso, o usuário deve fazer o RPC no *menu* [**[RPC]{.underline}**](#_3lbifu6).
 
 **Data de Início:**
 
@@ -1704,10 +1705,10 @@ Data em que foi ou será concluída a prestação do serviço, a transferência 
 
 **Valor:**
 
-Deve ser especificado o valor da [[operação]{.underline}](#upglbi), na moeda indicada em **Código da Moeda / Descrição da Moeda.**
+Deve ser especificado o valor da [operação](#upglbi), na moeda indicada em **Código da Moeda / Descrição da Moeda.**
 
 Para o Siscoserv, é considerado como valor comercial das operações o valor bruto pactuado entre as partes adicionado de todos os custos necessários para a efetiva prestação do serviço, transferência do
-[[intangível]{.underline}](#haapch) ou realização de [[outra operação que produza variação no patrimônio]{.underline}](#3tm4grq). Estes valores deverão ser considerados no mesmo código NBS da operação final.
+[intangível](#haapch) ou realização de [[outra operação que produza variação no patrimônio]{.underline}](#3tm4grq). Estes valores deverão ser considerados no mesmo código NBS da operação final.
 
 Exemplo:
 
@@ -1777,7 +1778,7 @@ graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image
 
 Após preenchimento dos campos **Código NBS / Descrição da NBS, Código do País / País de Destino**, **Código da Moeda / Descrição da Moeda**,
 **Modo de Prestação**, **Data de Início**, **Data de Conclusão**,
-**Valor** e, se for o caso, de **Mecanismo de apoio/fomento**, deve-se acionar o botão **Adicionar [[Operação]{.underline}](#upglbi)** para inclusão da operação no RVS.
+**Valor** e, se for o caso, de **Mecanismo de apoio/fomento**, deve-se acionar o botão **Adicionar [Operação](#upglbi)** para inclusão da operação no RVS.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image45.png)
 
@@ -1855,8 +1856,8 @@ Convém manter controle dos números dos RVS incluídos no Siscoserv, para facil
 **2.1.1 Inclusão de Aditivo ao RVS**
 
 O aditivo ao RVS deve ser usado para a inclusão de nova
-[[operação]{.underline}](#upglbi) em um RVS previamente incluído quando houver complementação ou aditamento nos termos do contrato
-([[negócio]{.underline}](#40ew0vw)), que envolva execução de outra operação classificada em [[NBS diferente]{.underline}](#t18w8t), outra etapa do negócio, ou ainda executada em outro modo de prestação, período ou mesmo em outro país.
+[operação](#upglbi) em um RVS previamente incluído quando houver complementação ou aditamento nos termos do contrato
+([negócio](#40ew0vw)), que envolva execução de outra operação classificada em [[NBS diferente]{.underline}](#t18w8t), outra etapa do negócio, ou ainda executada em outro modo de prestação, período ou mesmo em outro país.
 
 Na inclusão de Aditivo, não é possível realizar alterações nos **Dados do Adquirente**, tendo em vista tratar-se de dados do registro como um todo e que só podem ser alterados pela função [**[Retificar RVS]{.underline}**](#_4cmhg48).
 
@@ -1928,7 +1929,7 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 O RVS ou o Aditivo ao RVS não podem ser cancelados, cabendo apenas retificações.
 
-Não pode ser incluída nova [[operação]{.underline}](#upglbi) por meio de retificação. Para incluir uma nova operação em um RVS já incluído,
+Não pode ser incluída nova [operação](#upglbi) por meio de retificação. Para incluir uma nova operação em um RVS já incluído,
 utilize a função [ [Inclusão de Aditivo](#_4c5u7s8) ao RVS.
 ]{.underline}
 
@@ -1967,9 +1968,9 @@ Após conferir os dados retificados na tela **Resumo do RVS**, acione o botão *
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image71.png)
 
 Os RVS podem ter todos os campos retificados antes da inclusão de
-**Faturamento** da [[operação]{.underline}](#upglbi). Após o faturamento da operação não podem ser retificados os campos **Código NBS** e
+**Faturamento** da [operação](#upglbi). Após o faturamento da operação não podem ser retificados os campos **Código NBS** e
 **Moeda**. Em caso de erro de preenchimento nestes campos para as
-[[operações]{.underline}](#upglbi) já faturadas, proceda previamente conforme o [[item 2.2.2 deste capítulo -- Cancelamento do RF.]{.underline}](#_2wwbldi)
+[operações](#upglbi) já faturadas, proceda previamente conforme o [[item 2.2.2 deste capítulo -- Cancelamento do RF.]{.underline}](#_2wwbldi)
 
 Caso, devido à necessidade de cancelamento do RF para retificar o RVS, o usuário perca o prazo de inclusão de RF, devem ser incluídos em
 **Informações Complementares** o número do RF cancelado e o número do RF que o substituiu após a retificação do RVS.
@@ -1977,7 +1978,7 @@ Caso, devido à necessidade de cancelamento do RF para retificar o RVS, o usuár
 A retificação do campo **Moeda** é feita apenas na primeira operação inserida no RVS e altera automaticamente a moeda das demais operações,
 inclusive das operações de aditivos. Os valores previamente cadastrados são mantidos, ou seja, o Sistema não faz conversão de valores para a nova moeda selecionada, devendo o usuário efetuar os ajustes nos valores, caso necessário.
 
-A retificação do **Valor da [[Operação]{.underline}](#upglbi)** só é
+A retificação do **Valor da [Operação](#upglbi)** só é
 possível se esse for maior ou igual aos valores já faturados.
 
 Após o término do [[prazo para inclusão do último RF]{.underline}](#_49x2ik5), o valor total faturado deve coincidir com o
@@ -2043,7 +2044,7 @@ graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image64.png)
 
-Após selecionar o RVS cujo aditivo se deseja retificar, o Sistema mostra a tela **[[Dados do Negócio]{.underline}](#2981zbj)** do RVS selecionado, indicando as [[operações]{.underline}](#upglbi) cadastradas no registro original e todos os termos aditivos. Há dois tipos de
+Após selecionar o RVS cujo aditivo se deseja retificar, o Sistema mostra a tela **[[Dados do Negócio]{.underline}](#2981zbj)** do RVS selecionado, indicando as [operações](#upglbi) cadastradas no registro original e todos os termos aditivos. Há dois tipos de
 ícones: Visualizar -
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image50.png) e Alterar -
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image58.png). O ícone para alterar aparece apenas ao lado do aditivo que se deseja retificar, informado na tela anterior.
@@ -2059,7 +2060,7 @@ mensagem de confirmação de retificação do aditivo.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image90.png)
 
-Os aditivos ao RVS podem ter todos os campos retificados antes da inclusão do **RF** da [[operação]{.underline}](#upglbi). Após o faturamento da operação, não podem ser retificados os campos **Código NBS** e **Moeda**. Em caso de erro de preenchimento nestes campos para as operações já faturadas, proceder previamente ao cancelamento do RF conforme o [[item 2.2.2]{.underline}](#_2wwbldi).
+Os aditivos ao RVS podem ter todos os campos retificados antes da inclusão do **RF** da [operação](#upglbi). Após o faturamento da operação, não podem ser retificados os campos **Código NBS** e **Moeda**. Em caso de erro de preenchimento nestes campos para as operações já faturadas, proceder previamente ao cancelamento do RF conforme o [[item 2.2.2]{.underline}](#_2wwbldi).
 
 A retificação do campo **Moeda** é feita apenas na primeira operação inserida em um RVS e altera automaticamente a moeda das demais operações, inclusive das operações de aditivos. Os valores previamente cadastrados são mantidos, ou seja, o Sistema não faz conversão de valores para a nova moeda selecionada, devendo o usuário efetuar os ajustes nos valores, caso necessário.
 
@@ -2166,11 +2167,11 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image68.png)
  para ser disponibilizada a relação de todos os RVS previamente incluídos. Na lista de RVS exibida, acione o botão ![Descrição: Descrição:
 À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png). O Sistema abrirá a tela
-**[[Operações]{.underline}](#upglbi) a Faturar**, sendo possível visualizar o **Valor da Operação** e **Saldo a Faturar** para cada operação, referente ao RVS selecionado**.**
+**[Operações](#upglbi) a Faturar**, sendo possível visualizar o **Valor da Operação** e **Saldo a Faturar** para cada operação, referente ao RVS selecionado**.**
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image84.png)
 
-> **[[Operações]{.underline}](#upglbi) a Faturar**
+> **[Operações](#upglbi) a Faturar**
 >
 > Para incluir os dados do faturamento de um serviço[^20] no campo
 > **Operações** **a Faturar**, o usuário deve:
@@ -2279,7 +2280,7 @@ Selecionada a opção **Pesquisar pelo CPF/CNPJ do Vendedor**, preencha o CPF/CN
 
 Após selecionar o RF que se deseja retificar, o Sistema mostra a tela
 **Resumo do RF**. Os **Dados do RF** indicam as
-[[operações]{.underline}](#upglbi) cadastradas no registro original e todos os termos aditivos.
+[operações](#upglbi) cadastradas no registro original e todos os termos aditivos.
 
 Nessa tela, o usuário poderá:
 
@@ -2510,7 +2511,7 @@ Acione **Avançar** para validar os dados e seguir para a próxima tela
 
  **2. Dados do Negócio**
 
-Em dados do negócio, são incluídas informações relativas à venda de serviços, transferência de [[intangíveis]{.underline}](#haapch) e realização de [[outras operações que produzam variação no patrimônio]{.underline}](#3tm4grq) pela presença comercial relacionada à
+Em dados do negócio, são incluídas informações relativas à venda de serviços, transferência de [intangíveis](#haapch) e realização de [[outras operações que produzam variação no patrimônio]{.underline}](#3tm4grq) pela presença comercial relacionada à
 pessoa jurídica domiciliada no Brasil.
 
 ![Tela RPC
@@ -2523,7 +2524,7 @@ Indique o ano-calendário a que se refere à **Receita Total.**
 **[Receita Total]{.underline}**
 
 Informe a receita total anual da presença comercial, em dólar dos Estados Unidos da América, com a venda de serviços, a transferência de
-[[intangíveis]{.underline}](#haapch) e a realização de [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq)
+[intangíveis](#haapch) e a realização de [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq)
 no **Ano da apuração**.
 
 A conversão em dólar dos Estados Unidos da América deve ser efetuada tomando-se por base a taxa de câmbio para venda do dia 31 de dezembro do
@@ -2531,7 +2532,7 @@ A conversão em dólar dos Estados Unidos da América deve ser efetuada tomando-
 
 **[Posição NBS / Descrição da posição da NBS]{.underline}**
 
-Informe o(s) código(s) da NBS, em nível de posição, mais representativo(s) em relação à **Receita Total** obtida da venda de serviços, transferência de [[intangíveis]{.underline}](#haapch) e realização de [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq) pela presença comercial.
+Informe o(s) código(s) da NBS, em nível de posição, mais representativo(s) em relação à **Receita Total** obtida da venda de serviços, transferência de [intangíveis](#haapch) e realização de [[outras operações que produzam variações no patrimônio]{.underline}](#3tm4grq) pela presença comercial.
 
 A partir de 2019, caso a empresa indique mais de uma **NBS mais representativa**, o Sistema abrirá um campo para que seja indicado o percentual de cada uma dessas NBS em relação à **Receita Total** aferida pela presença comercial no ano anterior.
 
@@ -3544,9 +3545,9 @@ inclusive operações *intercompany*, de acordo com o previsto na legislação p
 
  **4. Expatriados**
 
-A movimentação temporária de pessoas físicas para prestação de serviços enseja o registro no Siscoserv, sempre que cumpridos os pilares previstos na legislação relativa ao Sistema. Conforme explicitado neste Manual, deve-se registrar [[operações]{.underline}](#kqmvb9) em Modo 4
+A movimentação temporária de pessoas físicas para prestação de serviços enseja o registro no Siscoserv, sempre que cumpridos os pilares previstos na legislação relativa ao Sistema. Conforme explicitado neste Manual, deve-se registrar [operações](#kqmvb9) em Modo 4
 no Módulo Aquisição do Siscoserv as pessoas físicas ou jurídicas
-[[residentes]{.underline}](#34qadz2) ou domiciliadas no Brasil, quando a aquisição de serviço ensejar o deslocamento temporário de pessoa(s)
+[residentes](#34qadz2) ou domiciliadas no Brasil, quando a aquisição de serviço ensejar o deslocamento temporário de pessoa(s)
 física(s) residente(s) no exterior com vistas a prestar um serviço no Brasil, **exceto quando se estabelecer vínculo empregatício no Brasil**.
 
 Além disto, a situação de residência ou não residência no país pode interferir na necessidade ou não de registro.
