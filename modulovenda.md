@@ -257,14 +257,13 @@ O prazo para incluir o RVS é até o último dia útil do 3^[o]{.underline}^
 (terceiro) mês subsequente à [[data de início da prestação de serviço]{.underline}](#48pi1tg)[^3]
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image155.png)
-height="2.2805555555555554in"}
+
 
 Até 31 de dezembro de 2013, o prazo para o RVS foi, excepcionalmente,
 até o último dia útil do 6^[º]{.underline}^ (sexto) mês subsequente à
 data de início da prestação de serviço, da comercialização de intangível ou da realização de operação que produza variação no patrimônio.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image148.png){
-height="3.532638888888889in"}
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image148.png)
 
 **4.2. Registro de Faturamento (RF)**
 
@@ -392,8 +391,7 @@ Caso a pessoa jurídica domiciliada no Brasil mantenha, no exterior, mais de uma
 A prestação das informações no RPC deve ser realizada anualmente, a partir de 2014, em relação ao ano-calendário anterior, até o último dia
 útil do mês de junho do ano subsequente à realização de operações por meio de presença comercial no exterior relacionada à pessoa jurídica domiciliada no Brasil.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image149.png){
-height="2.790277777777778in"}
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image149.png)
 
 []{#_vx1227 .anchor}
 
@@ -510,7 +508,7 @@ Exemplos:
 
 > ![Imagens
 > Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image154.jpg){
-> height="3.2555555555555555in"}
+
 
 **Modo 2 - Consumo no Brasil:** serviço prestado por residente ou domiciliado no Brasil e consumido no território brasileiro por residente ou domiciliado no exterior.
 
@@ -533,8 +531,7 @@ Exemplos:
 -   serviços de hospedagem prestados no Brasil a residente no exterior.
 
 > ![Imagens
-> Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image160.jpg){
-> height="3.5034722222222223in"}
+> Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image160.jpg)
 
 **Modo 3 - Presença comercial no exterior:** consiste na prestação de serviço por pessoa jurídica domiciliada no exterior relacionada a uma pessoa jurídica domiciliada no Brasil. Para fins do Siscoserv,
 considera-se relacionada à pessoa jurídica domiciliada no Brasil a sua filial, sucursal ou [[controlada]{.underline}](#2nusc19), domiciliada no exterior.
@@ -549,8 +546,7 @@ Exemplos:
 -   controlada de empresa brasileira de tecnologia da informação no
     > exterior.
 
-![Imagens Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image172.jpg){
-height="3.615972222222222in"}
+![Imagens Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image172.jpg)
 
 **Modo 4 -- Movimento temporário de pessoas físicas:** [[residentes no Brasil]{.underline}](#1tuee74) deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no exterior.
 
@@ -566,8 +562,7 @@ Exemplos:
 -   advogado residente no Brasil desloca-se para o exterior a fim de
     > prestar consultoria jurídica.
 
-![Imagens Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image156.jpg){
-height="3.8319444444444444in"}
+![Imagens Siscoserv](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image156.jpg)
 
 Devem registrar [[operações]{.underline}](#upglbi) em Modo 4 no Módulo Venda do Siscoserv:
 
@@ -664,8 +659,7 @@ f\) o nono dígito é o subitem.
 A sistemática de classificação dos códigos da NBS obedece à seguinte estrutura:
 
 > ![Descrição: Descrição:
-> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image162.png){
-> height="1.3645833333333333in"}
+> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image162.png)
 
 Exemplo:
 
@@ -696,8 +690,7 @@ Dessa maneira, fica claro que nem sempre o código NBS se apresenta totalmente d
   1.2206.19.10   Serviços de palestras e conferências
 
 O usuário pode informar diretamente o código, ou localizá-lo acionando a ferramenta de busca: ![Descrição: Descrição:
-graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png){
-height="0.23958333333333334in"}, situada ao lado do campo **Código NBS**.
+graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png), situada ao lado do campo **Código NBS**.
 
 Na informação do código NBS, a posição mais específica prevalece sobre a mais genérica, sendo que o código só pode ser informado em seu maior nível de detalhamento (nove dígitos).
 
@@ -735,7 +728,6 @@ Para utilizar a ferramenta de busca:
 
 > 1-   no campo **Código NBS**, acionar botão ![Descrição: Descrição:
 > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png){
-> height="0.23958333333333334in"};
 >
 > 2-   é aberta a janela **Seleção de Código NBS** para realização da
 > busca do código;
@@ -749,12 +741,12 @@ expandindo os níveis "Capítulo", "Posição", "Subposição", "Item" e
 acionar**.**
 
 > ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image159.png){
-> height="3.3194444444444446in"}
+
 
 **Utilizar Pesquisa por Descrição:** no campo **Descrição**, informe termo que identifique o serviço, acione **Pesquisar**, selecione com um clique um dos códigos NBS localizados, acione **Confirmar.**
 
 > ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image161.png){
-> height="2.7916666666666665in"}
+    
 
 Em caso de dúvidas sobre classificação da NBS, consulte as Regras de Interpretação da NBS, bem como suas [[Notas Explicativas]{.underline}](http://www.mdic.gov.br/arquivos/dwnl_1387454702.pdf)
 (NEBS).
@@ -1170,8 +1162,7 @@ O acesso ao Siscoserv é sempre feito por [[certificado digital]{.underline}](#_
 
 **Figura:** Fluxo de acesso ao Siscoserv
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image120.png){
-height="2.6381944444444443in"}
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image120.png)
 
 []{#_zu0gcz .anchor}
 
@@ -1247,13 +1238,11 @@ Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Infor
 direcionado diretamente para a ficha de Informações Cadastrais. Não será
 possível efetuar novo registro antes de preencher os dados solicitados.]{.underline}
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image138.jpg){
-height="2.571527777777778in"}
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image138.jpg)
 
 Passo 2: Preenche o CNPJ da empresa e clica em avançar;
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image170.jpg){
-height="1.8645833333333333in"}
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image170.jpg)
 
 Passo 3: O Sistema apresenta uma tela para a inserção dos dados cadastrais.
 
@@ -1285,8 +1274,7 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco,
 > \- E-mail do Diretor de Relações Governamentais ou Equivalente da
 > Empresa Vendedora;
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas3.1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image169.jpg){
-height="5.3277777777777775in"}
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas3.1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image169.jpg)
 
 Existem outros Campos de preenchimento opcional:
 
@@ -1308,13 +1296,11 @@ Neste caso, o Sistema disponibilizará uma tela tanto com as informações captu
 
 Anualmente, será solicitada a atualização imediata dos Campos Obrigatórios assim que um novo Registro for iniciado.
 
-![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas3.2.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image171.jpg){
-height="5.722916666666666in"}
+![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas3.2.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image171.jpg)
 
 Passo 4: Após o preenchimento das informações, o Usuário/Responsável clica em Salvar.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image166.jpg){
-height="1.2291666666666667in"}
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image166.jpg)
 
 []{#_1qoc8b1 .anchor}
 
@@ -1353,7 +1339,7 @@ No Fluxo de Registro inicial os campos obrigatórios, assinalados com asterisco,
 > \- E-mail de contato da Pessoa Física Vendedora;
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas5.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image151.jpg)
-height="4.56875in"
+
 
 Existem outros Campos de preenchimento opcional. São campos de preenchimento opcional:
 
@@ -1376,12 +1362,11 @@ Neste caso, o Sistema disponibilizará uma tela tanto com as informações captu
 Anualmente, será solicitada a atualização imediata dos Campos Obrigatórios assim que um novo Registro for iniciado.
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas5.1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image145.jpg)
-height="4.530555555555556in"
 
 Passo 4: Após a atualização das informações, o Usuário/Responsável clica em Salvar.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image146.jpg)
-height="1.2854166666666667in"
+
 
 []{#_3oy7u29 .anchor}
 
@@ -1394,7 +1379,7 @@ direcionado diretamente para a ficha de Informações Cadastrais. Não será
 possível efetuar novo registro antes de preencher os dados solicitados.]{.underline}
 
 ![D:\\area de trabalho\\Meus documentos\\Meus documentos\\Secretaria de Serviços\\Manual\\Imagens 11ª Edição\\Informações Cadastrais Vendas1.jpg](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image138.jpg)
-height="2.779861111111111in"
+
 
 Passo 2: Seleciona a Opção "O usuário é o próprio Vendedor" e clica em Avançar;
 
@@ -1447,7 +1432,7 @@ Passo 4: Após a atualização das informações, o Usuário/Responsável clica 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image150.jpg)
 height="1.270138888888889in"
 
- **2. Procedimentos relativos ao registro no Módulo Venda**
+**2. Procedimentos relativos ao registro no Módulo Venda**
 
 Para entrar no Módulo Venda do Siscoserv, o usuário deve acessar o sítio
 [[www.siscoserv.mdic.gov.br]{.underline}](http://www.siscoserv.mdic.gov.br)
@@ -1524,7 +1509,7 @@ a)  **Informar o Número do RVS:** selecionada esta opção, preencha o
     > campo com número de RVS do qual se deseja aproveitar os dados e
     > acione o botão ![Descrição: Descrição:
     > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png){
-    > height="0.2604166666666667in"}.
+    
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image23.png)
 height="2.425in"
@@ -1532,11 +1517,11 @@ height="2.425in"
 b)  **Exibir Lista dos RVS Incluídos:** selecionada esta opção, acione o
     > botão ![Descrição: Descrição:
     > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image21.png){
-    > height="0.23958333333333334in"}. O Sistema exibe lista de RVS
+    > O Sistema exibe lista de RVS
     > incluídos, do mais recente para o mais antigo. Acione o botão
     > ![Descrição: Descrição:
     > graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image24.png){
-    > height="0.2604166666666667in"}, à direita do RVS desejado.
+    > à direita do RVS desejado.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image26.png)
 height="2.863888888888889in"
@@ -2184,7 +2169,7 @@ height="0.23958333333333334in" para ser disponibilizada a relação de todos os 
 >
 > a\) selecionar a operação a ser faturada, acionando o botão ![Descrição:
 > Descrição:
-> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
+> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){
 > height="0.2604166666666667in"}**;**
 >
 > b\) na tela seguinte **Incluir Dados do RF**, verificar o **Valor da
@@ -2199,8 +2184,8 @@ height="0.23958333333333334in" para ser disponibilizada a relação de todos os 
 > **Adicionar Dado**. Caso haja outra operação a faturar no mesmo RVS, com
 > a mesma data e referente à mesma nota fiscal de serviço ou documento
 > equivalente, acionar o botão ![Descrição: Descrição:
-> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
-> height="0.2604166666666667in"} ao lado da operação desejada para incluir
+> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png)
+> ao lado da operação desejada para incluir
 > novos dados;
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image87.png)
@@ -2209,11 +2194,11 @@ height="0.23958333333333334in" para ser disponibilizada a relação de todos os 
 
 > e\) antes da inclusão do RF, caso seja detectado erro de preenchimento,
 > clicar no ícone ![Descrição: Descrição:
-> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){width="0.3541666666666667in"
+> À](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image8.png){
 > height="0.2604166666666667in"} à direita para corrigi-lo, procedendo
 > conforme descrito acima. Para excluí-lo, clicar no ícone ![Descrição:
 > Descrição:
-> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png){width="0.3333333333333333in"
+> graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image6.png){
 > height="0.21875in"} à esquerda do campo;
 >
 > f\) inserir o **Número da NF de Serviço ou do Documento Equivalente** e
@@ -3273,7 +3258,7 @@ O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados par
 
 []{#_1rf9gpq .anchor}\
 **Capítulo
-3**![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png){width="8.235416666666667in"
+3**![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png){
 in"}
 
 **Cenários Exemplificativos de Registro no Siscoserv**
