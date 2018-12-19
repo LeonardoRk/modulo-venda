@@ -1433,9 +1433,7 @@ Passo 4: Após a atualização das informações, o Usuário/Responsável clica 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image150.jpg) 
   
  
-
-
-**2. Procedimentos relativos ao registro no Módulo Venda**
+## 2. Procedimentos relativos ao registro no Módulo Venda
 
 Para entrar no Módulo Venda do Siscoserv, o usuário deve acessar o sítio
 [[www.siscoserv.mdic.gov.br]{.underline}](http://www.siscoserv.mdic.gov.br)
@@ -2136,7 +2134,7 @@ Após selecionar o RVS que deseja consultar, o Sistema apresenta a tela
 
 > []{#_3im3ia3 .anchor}
 
-## **2.2 Inclusão do RF**
+**2.2 Inclusão do RF**
 
 A partir do **Módulo Venda**, no *menu* **RF**, há 3 funções:
 **Incluir**, **Cancelar** e **Consultar**.
@@ -2715,7 +2713,7 @@ graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image
 Após selecionar o RPC que deseja consultar, o Sistema apresenta a tela
 **Resumo do RPC**, que inclui todos os dados do RPC.
 
-**3. Transmissão em Lote**
+## 3. Transmissão em Lote
 
 A transmissão em lote foi implementada para atender os residentes e domiciliados no Brasil que realizam um grande número de transações de venda ou aquisição de serviços com residentes ou domiciliados no exterior e têm a obrigação legal de efetuar os registros correspondentes no Siscoserv.
 
@@ -3025,7 +3023,7 @@ a data em que os arquivos foram enviados para processamento. Vale ressaltar que 
 
 []{#_4jpj0b3 .anchor}
 
-**4. Relatório Gerencial**
+## 4. Relatório Gerencial
 
 A funcionalidade **Relatório Gerencial** visa a atender uma solicitação dos usuários do Siscoserv com vistas a gerar um relatório sobre todas as operações registradas no sistema e, ainda, o *status* dessas informações.
 
@@ -3442,7 +3440,7 @@ Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_i
 > pelo serviço de desconsolidação, tendo D~EX~ como vendedor.
 >
 
-**2. Seguros**
+## 2. Seguros
 
 **Cenário 2.1. Contratação de seguro com intermediação de corretora**
 
@@ -3503,7 +3501,7 @@ residente ou domiciliada no Brasil, Est~BR~ é considerado o contratante e, cons
 >
 > []{#_4gjguf0 .anchor}
 
-**3. Remessa Expressa**
+## 3. Remessa Expressa
 
 O serviço de remessa expressa (courier) apresenta, de forma genérica,
 dois possíveis cenários.
@@ -3537,7 +3535,7 @@ inclusive operações *intercompany*, de acordo com o previsto na legislação p
 
 []{#_3utoxif .anchor}
 
-**4. Expatriados**
+## 4. Expatriados
 
 A movimentação temporária de pessoas físicas para prestação de serviços enseja o registro no Siscoserv, sempre que cumpridos os pilares previstos na legislação relativa ao Sistema. Conforme explicitado neste Manual, deve-se registrar [operações](#kqmvb9) em Modo 4
 no Módulo Aquisição do Siscoserv as pessoas físicas ou jurídicas
