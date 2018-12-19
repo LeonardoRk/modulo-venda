@@ -180,7 +180,7 @@
 ## 1. Introdução
 
 O Sistema Integrado de Comércio Exterior de Serviços,
-[Intangíveis](#haapch) e [[Outras Operações que Produzam Variações no Patrimônio]{.underline}](#3tm4grq) (Siscoserv) é um sistema informatizado, desenvolvido pelo Governo Federal como ferramenta para o aprimoramento das ações de estímulo, formulação, acompanhamento e aferição das políticas públicas relacionadas a serviços e intangíveis,
+[Intangíveis](#haapch) e [Outras Operações que Produzam Variações no Patrimônio](#3tm4grq) (Siscoserv) é um sistema informatizado, desenvolvido pelo Governo Federal como ferramenta para o aprimoramento das ações de estímulo, formulação, acompanhamento e aferição das políticas públicas relacionadas a serviços e intangíveis,
 bem como para a orientação de estratégias empresariais de comércio exterior de serviços e intangíveis.
 
 O Siscoserv guarda conformidade com as diretrizes do Acordo Geral sobre Comércio de Serviços (GATS) da Organização Mundial do Comércio (OMC),
