@@ -759,6 +759,7 @@ Em caso de dúvidas sobre classificação da NBS, consulte as Regras de Interpre
 
 Caso persistam dúvidas, deve ser formalizado processo administrativo de consulta à Secretaria da Receita Federal do Brasil (RFB), nos termos do art. 48 da Lei n^[o]{.underline}^ 9.430, de 27 de dezembro de 1996 e do Decreto n^[o]{.underline}^ 7.708, de 02 de abril de 2012, que instituiu a NBS.
 
+<a id="_4ddeoix"></a>
 ## 10 Mecanismos de apoio / fomento ao Comércio Exterior de Serviços e Intangíveis
 
 A informação sobre Mecanismo de apoio/fomento no Siscoserv tem a finalidade de contribuir para a gestão do fomento pelos órgãos e instituições responsáveis pela sua concessão. Esta informação deve ser registrada em cumprimento ao previsto no art. 26 da Lei n^[o]{.underline}^ 12.546, de 14 de dezembro de 2011.
@@ -774,7 +775,7 @@ A concessão ou o reconhecimento de cada mecanismo condiciona-se ao registro das
 No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de serviços, os definidos na seguinte **lista exaustiva**:
 
 <a id="_1rvwp1q"></a>
-
+<a id="_2sioyqq"></a>
 ### 10.1. Mecanismos de Apoio / Fomento (Enquadramento) no RVS do Módulo Venda:
 
 +-----------------------------------+-----------------------------------+
@@ -886,7 +887,7 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 +-----------------------------------+-----------------------------------+
 
 <a id="_2w5ecyt"></a>
-
+<a id="_17nz8yj"></a>
 ### 10.2. Mecanismos de Apoio / Fomento (Enquadramento) no RPC do Módulo Venda:
 
 +-----------------------------------+-----------------------------------+
