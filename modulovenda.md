@@ -295,11 +295,12 @@ Para o registro de faturamento, há dois prazos possíveis, dependendo da data d
 [Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#_nwp17c).]{.underline}
 
 
+<a id="_1fyl9w3"></a>
 ### 4.3. Situações especiais de registro
 
 <a id="_147n2zr"></a>
-
 **4.3.1. Operação com data de conclusão indeterminada:**
+
 
 A operação cuja data de conclusão não seja conhecida por ocasião do seu registro em razão de não ter sido pactuada entre as partes pode ser objeto de registros periódicos, conforme itens 2.1 (Inclusão do RVS) ou
 2.1.1 (Inclusão de Aditivo ao RVS) do capítulo 2 deste Manual. Nesse caso, a data de início e a data de conclusão devem ser indicadas dentro do mesmo ano-calendário. Posteriormente, a data de conclusão poderá ser ajustada, mediante retificação, conforme descrito nos itens 2.1.2
@@ -395,7 +396,7 @@ A prestação das informações no RPC deve ser realizada anualmente, a partir d
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image149.png)
 
 <a id="_vx1227"></a>
-
+<a id="_3zy8sjw"></a>
 ## 5. Quem deve efetuar registro no Siscoserv -- Módulo Venda
 
 Estão obrigados a registrar as informações no Sistema -- Módulo Venda,
@@ -462,6 +463,7 @@ mediante movimentação temporária de profissionais e contra esta fatura a pres
 
 \(4) Empresa (B), que é filial, sucursal ou controlada domiciliada no exterior de Empresa (A) domiciliada no Brasil, presta serviço a empresa domiciliada no exterior. Empresa (A) deve proceder aos registros no Módulo Venda do Siscoserv em [[Modo 3 -- Presença Comercial]{.underline}](#46r0co2) no Exterior.
 
+<a id="_2f3j2rp"></a>
 ## 6. Quem está dispensado de efetuar registro no Siscoserv -- Módulo Venda
 
 Estão dispensadas do registro no Siscoserv, **nas operações que não tenham utilizado mecanismos de apoio** ao comércio exterior de serviços,
