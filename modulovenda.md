@@ -188,23 +188,17 @@ aprovado pelo Decreto Legislativo n^[o]{.underline}^ 30, de 15 de dezembro de 19
 <a id="_488uthg"></a>
 **2. Base Legal do Siscoserv**
 
-[[Lei nº]{.underline} [12.546, de 14 de dezembro de 2011, artigos 24 a
-27.]{.underline}](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12546.htm)
+[Lei nº 12.546, de 14 de dezembro de 2011, artigos 24 a 27.](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12546.htm)
 
-[[Decreto nº]{.underline} [7.708, de 02 de abril de
-2012.]{.underline}](http://www.planalto.gov.br/CCIVIL_03/_Ato2011-2014/2012/Decreto/D7708.htm)
+[Decreto nº 7.708, de 02 de abril de 2012.](http://www.planalto.gov.br/CCIVIL_03/_Ato2011-2014/2012/Decreto/D7708.htm)
 
-[[Portaria MDIC nº](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4)
-113, de 17 de maio de 2012, com suas alterações posteriores.]{.underline}
+[Portaria MDIC nº 113, de 17 de maio de 2012, com suas alterações posteriores.](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4)
 
-[[Instrução Normativa RFB nº](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=40&data=29/06/2012)
-1.277, de 28 de junho de 2012, com suas alterações posteriores.]{.underline}
+[Instrução Normativa RFB nº 1.277, de 28 de junho de 2012, com suas alterações posteriores.](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=40&data=29/06/2012)
 
-[[Portaria Conjunta RFB/SCS nº](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012)
-1.908, de 19 de julho de 2012, com suas alterações posteriores.]{.underline}
+[Portaria Conjunta RFB/SCS nº 1.908, de 19 de julho de 2012, com suas alterações posteriores.](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012)
 
-[[Portaria Conjunta RFB/SCS nº](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=16/05/2016&jornal=1&pagina=21&totalArquivos=152)
-768, de 13 de maio de 2016.]{.underline}
+[Portaria Conjunta RFB/SCS nº 768, de 13 de maio de 2016.](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=16/05/2016&jornal=1&pagina=21&totalArquivos=152)
 
 A prestação de informação no Siscoserv observa as normas complementares estabelecidas neste Manual.
 
@@ -479,7 +473,7 @@ I -- Empresas cadastradas no SIMPLES NACIONAL e MEI - as pessoas jurídicas opta
 
 II -- Pessoas Físicas - as pessoas físicas residentes no País que, em nome individual, não explorem, habitual e profissionalmente, qualquer atividade econômica de natureza civil ou comercial, com o fim especulativo de lucro, desde que não realizem operações em valor superior a US\$ 30.000,00 (trinta mil dólares dos Estados Unidos da América), ou o equivalente em outra moeda, no mês.
 
- **7. Cronograma de registro das informações **
+**7. Cronograma de registro das informações**
 
 O Registro de Venda de Serviços, [[Intangíveis](#haapch)]{.underline} e
 [[Outras Operações que Produzam Variações no Patrimônio]{.underline}](#3tm4grq) (RVS) e o Registro de Faturamento
