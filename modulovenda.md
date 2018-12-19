@@ -338,8 +338,7 @@ II -- Valor da Fatura: informar o somatório do valor faturado no mês;
 III -- Número da NF de Serviço ou documento equivalente: inserir a expressão: "DIVERSOS".
 
 <a id="_32hioqz"></a>
-
-**4.3.4. Serviços de transporte de passageiros a pessoas físicas residentes no exterior **
+**4.3.4. Serviços de transporte de passageiros a pessoas físicas residentes no exterior**
 
 As prestações de serviços de transporte de passageiros para pessoas físicas residentes no exterior podem ser registradas pelos seus montantes acumulados mensalmente, por NBS e por país de residência do passageiro.
 
