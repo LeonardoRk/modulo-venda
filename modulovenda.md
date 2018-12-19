@@ -2,7 +2,7 @@
 
 ## Sumário
 
-[**Capítulo 1**](#_30j0zll)
+[**Capítulo 1**](#Capítulo-1)
 
 [**Informações gerais e normativas sobre o Siscoserv**](#_1fob9te)
 
@@ -169,7 +169,7 @@
 <a id="_30j0zll"></a>\
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png)
 
-# **Capítulo 1**
+# Capítulo 1
 
 <a id="_1fob9te"></a>
 # Informações gerais e normativas sobre o Siscoserv
