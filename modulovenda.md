@@ -68,6 +68,8 @@
 
 [1.3. O que é e como obter a Procuração Eletrônica](#_35xuupr)
 
+[1.4. Problemas de acesso](#_aads9)
+
 [1.5. Informações Cadastrais](#_4iylrwe)
 
 [1.5.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica](#_2ce457m)
@@ -1186,6 +1188,7 @@ A Procuração Eletrônica, emitida exclusivamente pela RFB, é o instrumento qu
 
 [[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/procuracoes/orientacoes-gerais-procuracoes-rfb]{.underline}](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/procuracoes/orientacoes-gerais-procuracoes-rfb)
 
+<a id="_aads9"></a>
 ### 1.4. Problemas de acesso
 
 Em caso de dificuldades para acessar o sistema, recomenda-se a limpeza de cache do navegador ou mesmo o uso de outro navegador. É possível ainda que o problema esteja relacionado com a procuração eletrônica.
