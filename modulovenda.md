@@ -232,7 +232,7 @@ por [residente](#1tuee74) ou domiciliado no País, de serviços, [intangíveis](
 \- Registro de Presença Comercial (RPC): contém dados referentes às operações realizadas por meio de [[Presença Comercial no Exterior](#28reqzj) relacionada à pessoa jurídica domiciliada no Brasil.]{.underline}
 
 <a id="_3mj2wkv"></a>
-**4.1. Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS)**
+### 4.1. Registro de Venda de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (RVS)
 
 O Registro de Venda de Serviços, [Intangíveis](#haapch) e
 [[Outras Operações que Produzam Variações no Patrimônio]{.underline}](#3tm4grq) (RVS) serve para informar a venda realizada por [residentes](#1tuee74) ou domiciliados no País a residentes ou domiciliados no exterior.
@@ -267,7 +267,7 @@ data de início da prestação de serviço, da comercialização de intangível 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image148.png)
 
 <a id="_gtnh0h"></a>
-**4.2. Registro de Faturamento (RF)**
+### 4.2. Registro de Faturamento (RF)
 
 O RF do Siscoserv complementa o RVS com informações relativas ao faturamento a residentes ou domiciliados no exterior, pela venda de serviços[^4], bem como os demais custos e despesas incorridos para a efetiva prestação desses serviços. Neste registro são solicitados os seguintes dados: a data de emissão e o número da nota fiscal ou documento equivalente (inclusive nota de despesa), o [valor faturado](#2szc72q) (valor parcial ou total do contrato,
 expresso na moeda informada no RVS), o [valor mantido no exterior](#3s49zyc), bem como outros elementos pertinentes.
@@ -295,7 +295,7 @@ Para o registro de faturamento, há dois prazos possíveis, dependendo da data d
 [Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#_nwp17c).]{.underline}
 
 
-**4.3. Situações especiais de registro**
+### 4.3. Situações especiais de registro
 
 <a id="_147n2zr"></a>
 
@@ -367,7 +367,7 @@ III -- Número da NF de Serviço ou documento equivalente: inserir a expressão:
 
 <a id="_1hmsyys"></a>
 
-**4.4. Registro de Presença Comercial no Exterior (RPC)**
+### 4.4. Registro de Presença Comercial no Exterior (RPC)
 
 Devem ser registradas no Siscoserv as operações realizadas por meio de presença comercial no exterior, modo 3, relacionada a pessoa jurídica domiciliada no Brasil, conforme alínea "d" do Artigo XXVIII do GATS
 (Acordo Geral sobre o Comércio de Serviços), aprovado pelo Decreto Legislativo n^[o]{.underline}^ 30, de 15 de dezembro de 1994, e promulgado pelo Decreto n^[o]{.underline}^ 1.355, de 30 de dezembro de
@@ -472,6 +472,7 @@ I -- Empresas cadastradas no SIMPLES NACIONAL e MEI - as pessoas jurídicas opta
 
 II -- Pessoas Físicas - as pessoas físicas residentes no País que, em nome individual, não explorem, habitual e profissionalmente, qualquer atividade econômica de natureza civil ou comercial, com o fim especulativo de lucro, desde que não realizem operações em valor superior a US\$ 30.000,00 (trinta mil dólares dos Estados Unidos da América), ou o equivalente em outra moeda, no mês.
 
+<a id="_u8tczi"></a>
 ## 7. Cronograma de registro das informações
 
 O Registro de Venda de Serviços, [[Intangíveis](#haapch)]{.underline} e
@@ -481,6 +482,7 @@ que tem por base a Nomenclatura Brasileira de Serviços, Intangíveis e Outras O
 [[Portaria Conjunta RFB/SCS nº]{.underline} [1.908, de 19 de julho de
 2012]{.underline}](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012).
 
+<a id="_3e8gvnb"></a>
 ## 8. Modos de Prestação de Serviços -- Módulo Venda
 
 Os modos de prestação identificam, conforme estabelecido no Acordo Geral sobre Comércio de Serviços da OMC (GATS)[^9], a prestação de serviços,
@@ -584,8 +586,8 @@ b)  as pessoas jurídicas domiciliadas no Brasil que desloquem
 Não deverão registrar operações em Modo 4 no Siscoserv as Pessoas Jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física para exercer vínculo empregatício com Pessoa Jurídica no exterior a ela relacionada (por exemplo, transferido intracorporação).
 
 <a id="_206ipza"></a>
-
-## 9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS)](#37wcjv5)
+<a id="_1tdr5v4"></a>
+## 9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS)]
 
 O registro de [[operações]{.underline}](about:blank) no Siscoserv será
 realizado de acordo com a [[Nomenclatura Brasileira de Serviços,
@@ -769,7 +771,7 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 
 <a id="_1rvwp1q"></a>
 
-**10.1 - Mecanismos de Apoio / Fomento (Enquadramento) no RVS do Módulo Venda:**
+### 10.1. Mecanismos de Apoio / Fomento (Enquadramento) no RVS do Módulo Venda:
 
 +-----------------------------------+-----------------------------------+
 | **Mecanismos de Apoio/Fomento**   | **Medida Legal**                  |
@@ -881,7 +883,7 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 
 <a id="_2w5ecyt"></a>
 
-**10.2 - Mecanismos de Apoio / Fomento (Enquadramento) no RPC do Módulo Venda:**
+### 10.2. Mecanismos de Apoio / Fomento (Enquadramento) no RPC do Módulo Venda:
 
 +-----------------------------------+-----------------------------------+
 | **MECANISMO**                     | **Medida Legal**                  |
@@ -1154,7 +1156,7 @@ O acesso ao Siscoserv está disponível no Centro Virtual de Atendimento ao Cont
 [[http://www.siscoserv.mdic.gov.br]{.underline}](http://www.siscoserv.mdic.gov.br);
 exceto no horário de manutenção diária do Sistema (1h às 3h).
 
-**1.1. Como acessar o Siscoserv**
+### 1.1. Como acessar o Siscoserv
 
 O acesso ao Siscoserv é sempre feito por [[certificado digital]{.underline}](#_zu0gcz) **e-CPF**. Quando a informação for prestada por pessoa jurídica ou representante legal de terceiros, além do e-CPF do representante legal, também se exige [[procuração eletrônica]{.underline}](#_1yyy98l). Essa procuração deve ser emitida por estabelecimento.
 
@@ -1166,7 +1168,7 @@ O acesso ao Siscoserv é sempre feito por [[certificado digital]{.underline}](#_
 
 []{#_zu0gcz .anchor}
 
-**1.2. O que é e como obter o Certificado Digital (e-CPF)**
+### 1.2. O que é e como obter o Certificado Digital (e-CPF)
 
 O Certificado Digital permite a identificação de uma pessoa no ambiente digital/eletrônico em transação na internet que necessite de validade legal e identificação inequívoca.
 
@@ -1175,14 +1177,14 @@ A lista de autoridades certificadoras, habilitadas pela Secretaria da Receita Fe
 []{#_1yyy98l
 .anchor}[[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj]{.underline}](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacao-de-certificados-digitais-e-cpf-ou-e-cnpj)
 
-**1.3. O que é e como obter a Procuração Eletrônica**
+### 1.3. O que é e como obter a Procuração Eletrônica
 
 A Procuração Eletrônica, emitida exclusivamente pela RFB, é o instrumento que permite que uma pessoa física represente outra pessoa
 (física ou jurídica) no Siscoserv. As orientações para obtenção da procuração estão disponíveis em:
 
 [[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/procuracoes/orientacoes-gerais-procuracoes-rfb]{.underline}](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/procuracoes/orientacoes-gerais-procuracoes-rfb)
 
-**1.4. Problemas de acesso**
+### 1.4. Problemas de acesso
 
 Em caso de dificuldades para acessar o sistema, recomenda-se a limpeza de cache do navegador ou mesmo o uso de outro navegador. É possível ainda que o problema esteja relacionado com a procuração eletrônica.
 Como informado, a procuração eletrônica é emitida pela RFB, a qual possui o seguinte link para verificação:
@@ -1200,7 +1202,7 @@ o órgão responsável pelos aspectos técnico-operacionais do sistema. Os canai
 
 []{#_4iylrwe .anchor}
 
-**1.5. Informações Cadastrais**
+### 1.5. Informações Cadastrais
 
 A funcionalidade **Informações Cadastrais** permite por um lado a correta identificação do responsável pelo registro do RAS, por exemplo,
 para questões relacionadas à depuração estatística, e por outro a disponibilização de informações sobre a empresa e seu "Diretor de Relações Governamentais ou Equivalente". Assim será facilitado o contato do Ministério da Indústria, Comércio Exterior e Serviços (MDIC) com a empresa com vistas à realização de consultas sobre temas comerciais,
@@ -1474,7 +1476,7 @@ O Registro de Presença Comercial (RPC) não possui mecanismo de transmissão em
 
 []{#_3gnlt4p .anchor}
 
-**2.1. Inclusão do RVS**
+### 2.1. Inclusão do RVS
 
 Para incluir um Registro de Venda de Serviços (RVS) é preciso acessar o
 *menu* **RVS** e em seguida a opção **Incluir**.
@@ -2133,7 +2135,7 @@ Após selecionar o RVS que deseja consultar, o Sistema apresenta a tela
 
 > []{#_3im3ia3 .anchor}
 
-**2.2 Inclusão do RF**
+### 2.2. Inclusão do RF
 
 A partir do **Módulo Venda**, no *menu* **RF**, há 3 funções:
 **Incluir**, **Cancelar** e **Consultar**.
@@ -2397,7 +2399,7 @@ Em seguida, é exibida a tela **Resumo do RF**.
 
 []{#_qbtyoq .anchor}
 
-**2.3. Registro de Presença Comercial no Exterior (RPC)**
+### 2.3. Registro de Presença Comercial no Exterior (RPC)
 
 **2.3.1. Inclusão do RPC**
 
@@ -2854,7 +2856,7 @@ Um arquivo de lote pode receber seis *status* diferentes:
 .anchor}![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image134.png)
 
 []{#_n5rssn .anchor}
-**3.1. Procedimentos para envio do arquivo de lote**
+### 3.1. Procedimentos para envio do arquivo de lote
 
 Para efetuar a transmissão em lote o usuário deve [[acessar o Siscoserv]{.underline}](#_25lcl3g) e clicar na aba **Transmissão em Lote**.
 
@@ -2947,7 +2949,7 @@ Um arquivo de retorno contendo mais detalhes sobre os erros encontrados pode ser
 
 []{#_2lfnejv .anchor}
 
-**3.2. Consultar Lote**
+### 3.2. Consultar Lote
 
 Para consultar o lote, o usuário deve clicar na aba **Transmissão em Lote** e em seguida selecionar o item de *menu* **Consultar Lote.**
 
@@ -3004,7 +3006,7 @@ manualmente. Caso o usuário tente editar o registro manualmente, o Sistema apre
 
 []{#_3kkl7fh .anchor}
 
-**3.3. Excluir Lote**
+### 3.3. Excluir Lote
 
 Caso o usuário detecte, antes do processamento noturno dos lotes, que enviou um lote indevidamente, ele poderá exclui-lo. Para tal, é
 necessário que o *status* do lote ainda seja EP -- Em Processamento.
@@ -3015,7 +3017,7 @@ A partir da tela de listagem dos lotes enviados (veja [[Consultar Lote]{.underli
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image110.png)
 
-**3.4. Cumprimento de Prazos na Transferência em Lote**
+### 3.4. Cumprimento de Prazos na Transferência em Lote
 
 Para fins de cumprimento dos prazos legais, o sistema adota a data e o horário informados na coluna **Data de Geração do Protocolo**, ou seja,
 a data em que os arquivos foram enviados para processamento. Vale ressaltar que a obrigação só é tempestivamente cumprida se os arquivos forem processados com sucesso (*status* PS), dentro dos prazos legais estabelecidos para os registros.
@@ -3040,7 +3042,7 @@ O **Usuário/Responsável pelo Registro** é que detém o e-CPF e/ou a procuraç
 
 []{#_2yutaiw .anchor}
 
-**4.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica**
+### 4.1. Caso 1 -- Usuário/Responsável pelo Registro representa Pessoa Jurídica
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Relatório Gerencial;
 
@@ -3200,7 +3202,7 @@ operação e fatura. Esses dados não têm nenhuma utilidade para operações tr
 
 []{#_2d51dmb .anchor}
 
-**4.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física**
+### 4.2. Caso 2 -- Usuário/Responsável pelo Registro representa Pessoa Física
 
 Passo 1: Usuário/Responsável pelo Registro acessa o Siscoserv e clica em Relatório Gerencial;
 
@@ -3228,7 +3230,7 @@ O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados par
 
 []{#_3c9z6hx .anchor}
 
-**4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor**
+### 4.3. Caso 1 -- Usuário/Responsável pelo Registro é o próprio Vendedor
 
 Passo 1: Usuário/Responsável pelo Registro, que neste caso é o próprio vendedor, acessa o Siscoserv e clica em Relatório Gerencial;
 
@@ -3261,8 +3263,8 @@ O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados par
 
 **Cenários Exemplificativos de Registro no Siscoserv**
 
-\
-**1. Registro de Transporte Internacional de Cargas (Frete)**
+
+## 1. Registro de Transporte Internacional de Cargas (Frete)
 
 A contratação de serviços de transporte de carga envolve vários "atores"
 executando diferentes "papéis". Nos exemplos a seguir, são mostradas, em alguns casos práticos, as relações entre os "atores" participantes desta logística e a obrigação de registro no Siscoserv.
