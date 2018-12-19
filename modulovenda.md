@@ -175,7 +175,7 @@
 # Informações gerais e normativas sobre o Siscoserv
 
 <a id="_1o97atn"></a>
-**1. Introdução**
+## 1. Introdução
 
 O Sistema Integrado de Comércio Exterior de Serviços,
 [Intangíveis](#haapch) e [[Outras Operações que Produzam Variações no Patrimônio]{.underline}](#3tm4grq) (Siscoserv) é um sistema informatizado, desenvolvido pelo Governo Federal como ferramenta para o aprimoramento das ações de estímulo, formulação, acompanhamento e aferição das políticas públicas relacionadas a serviços e intangíveis,
@@ -186,7 +186,7 @@ aprovado pelo Decreto Legislativo n^[o]{.underline}^ 30, de 15 de dezembro de 19
 30 de dezembro de 1994.
 
 <a id="_488uthg"></a>
-**2. Base Legal do Siscoserv**
+## 2. Base Legal do Siscoserv
 
 [Lei nº 12.546, de 14 de dezembro de 2011, artigos 24 a 27.](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12546.htm)
 
@@ -203,7 +203,7 @@ aprovado pelo Decreto Legislativo n^[o]{.underline}^ 30, de 15 de dezembro de 19
 A prestação de informação no Siscoserv observa as normas complementares estabelecidas neste Manual.
 
 <a id="_2ne53p9"></a>
-**3. Módulos Venda e Aquisição do Siscoserv**
+## 3. Módulos Venda e Aquisição do Siscoserv
 
 O Siscoserv conta com dois Módulos: **Venda e Aquisição**.
 
@@ -220,7 +220,7 @@ Para maiores informações sobre o Modulo Aquisição acesse:
 [[http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-2]{.underline}](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-2)
 
 <a id="_12jfdx2"></a> 
-**4. Registros no Módulo Venda**
+## 4. Registros no Módulo Venda
 
 No Módulo Venda do Siscoserv estão previstos os seguintes registros:
 
@@ -397,7 +397,7 @@ A prestação das informações no RPC deve ser realizada anualmente, a partir d
 
 <a id="_vx1227"></a>
 
-**5. Quem deve efetuar registro no Siscoserv -- Módulo Venda**
+## 5. Quem deve efetuar registro no Siscoserv -- Módulo Venda
 
 Estão obrigados a registrar as informações no Sistema -- Módulo Venda,
 os [residentes](#1tuee74) ou domiciliados no Brasil que realizem, com residentes ou domiciliados no exterior,
@@ -463,7 +463,7 @@ mediante movimentação temporária de profissionais e contra esta fatura a pres
 
 \(4) Empresa (B), que é filial, sucursal ou controlada domiciliada no exterior de Empresa (A) domiciliada no Brasil, presta serviço a empresa domiciliada no exterior. Empresa (A) deve proceder aos registros no Módulo Venda do Siscoserv em [[Modo 3 -- Presença Comercial]{.underline}](#46r0co2) no Exterior.
 
-**6. Quem está dispensado de efetuar registro no Siscoserv -- Módulo Venda**
+## 6. Quem está dispensado de efetuar registro no Siscoserv -- Módulo Venda
 
 Estão dispensadas do registro no Siscoserv, **nas operações que não tenham utilizado mecanismos de apoio** ao comércio exterior de serviços,
 de intangíveis e demais operações de que trata o art. 26 da Lei n^[o]{.underline}^ 12.546, de 14 de dezembro de 2011:
@@ -473,7 +473,7 @@ I -- Empresas cadastradas no SIMPLES NACIONAL e MEI - as pessoas jurídicas opta
 
 II -- Pessoas Físicas - as pessoas físicas residentes no País que, em nome individual, não explorem, habitual e profissionalmente, qualquer atividade econômica de natureza civil ou comercial, com o fim especulativo de lucro, desde que não realizem operações em valor superior a US\$ 30.000,00 (trinta mil dólares dos Estados Unidos da América), ou o equivalente em outra moeda, no mês.
 
-**7. Cronograma de registro das informações**
+## 7. Cronograma de registro das informações
 
 O Registro de Venda de Serviços, [[Intangíveis](#haapch)]{.underline} e
 [[Outras Operações que Produzam Variações no Patrimônio]{.underline}](#3tm4grq) (RVS) e o Registro de Faturamento
@@ -482,7 +482,7 @@ que tem por base a Nomenclatura Brasileira de Serviços, Intangíveis e Outras O
 [[Portaria Conjunta RFB/SCS nº]{.underline} [1.908, de 19 de julho de
 2012]{.underline}](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012).
 
-**8. Modos de Prestação de Serviços -- Módulo Venda**
+## 8. Modos de Prestação de Serviços -- Módulo Venda
 
 Os modos de prestação identificam, conforme estabelecido no Acordo Geral sobre Comércio de Serviços da OMC (GATS)[^9], a prestação de serviços,
 segundo a localização do prestador e do tomador. No Módulo Venda, os modos de prestação são os seguintes:
@@ -586,8 +586,7 @@ Não deverão registrar operações em Modo 4 no Siscoserv as Pessoas Jurídicas
 
 <a id="_206ipza"></a>
 
-**9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras
-[Operações que Produzam Variações no Patrimônio](#37wcjv5) (NBS)**
+## 9. Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS)](#37wcjv5)
 
 O registro de [[operações]{.underline}](about:blank) no Siscoserv será
 realizado de acordo com a [[Nomenclatura Brasileira de Serviços,
@@ -755,7 +754,7 @@ Em caso de dúvidas sobre classificação da NBS, consulte as Regras de Interpre
 
 Caso persistam dúvidas, deve ser formalizado processo administrativo de consulta à Secretaria da Receita Federal do Brasil (RFB), nos termos do art. 48 da Lei n^[o]{.underline}^ 9.430, de 27 de dezembro de 1996 e do Decreto n^[o]{.underline}^ 7.708, de 02 de abril de 2012, que instituiu a NBS.
 
-**10Mecanismos de apoio / fomento ao Comércio Exterior de Serviços e Intangíveis**
+## 10 Mecanismos de apoio / fomento ao Comércio Exterior de Serviços e Intangíveis
 
 A informação sobre Mecanismo de apoio/fomento no Siscoserv tem a finalidade de contribuir para a gestão do fomento pelos órgãos e instituições responsáveis pela sua concessão. Esta informação deve ser registrada em cumprimento ao previsto no art. 26 da Lei n^[o]{.underline}^ 12.546, de 14 de dezembro de 2011.
 
@@ -942,7 +941,7 @@ No RAS, são considerados Mecanismos de apoio/fomento ao comércio exterior de s
 
 <a id="_39kk8xu"></a>
 
-**11. Informações e canais de atendimento**
+## 11. Informações e canais de atendimento
 
 Os Manuais são publicados pela Comissão do Siscoserv para contribuir com a orientação em relação aos aspectos normativos e operacionais relacionados ao Sistema.
 
@@ -1021,7 +1020,7 @@ Além dos canais disponíveis, o usuário pode tirar dúvidas em eventos relacio
 
 <a id="_1opuj5n"></a>
 
-**12. Glossário**
+## 12. Glossário
 
 Esse glossário foi desenvolvido para facilitar o entendimento dos conceitos presentes nos registros do SISCOSERV.
 
@@ -1145,12 +1144,11 @@ e [[Instrução Normativa no 726]{.underline}, de 28 de fevereiro de
 2007](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=15670).
 
 []{#_meukdy .anchor}\
-**Capítulo
-2**![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png)
+**Capítulo 2**![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png)
 
 **Operacionalização do Sistema**
 
- **1. Acesso ao Siscoserv**
+## 1. Acesso ao Siscoserv
 
 O acesso ao Siscoserv está disponível no Centro Virtual de Atendimento ao Contribuinte (e-CAC) da RFB na internet no endereço:
 <http://www.receita.fazenda.gov.br>, e no sítio da Secretaria de Comércio e Serviços (SCS) na internet, no endereço:
@@ -1185,7 +1183,7 @@ A Procuração Eletrônica, emitida exclusivamente pela RFB, é o instrumento qu
 
 [[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/procuracoes/orientacoes-gerais-procuracoes-rfb]{.underline}](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-procuracoes/procuracoes/orientacoes-gerais-procuracoes-rfb)
 
-**1.4.** **Problemas de acesso**
+**1.4. Problemas de acesso**
 
 Em caso de dificuldades para acessar o sistema, recomenda-se a limpeza de cache do navegador ou mesmo o uso de outro navegador. É possível ainda que o problema esteja relacionado com a procuração eletrônica.
 Como informado, a procuração eletrônica é emitida pela RFB, a qual possui o seguinte link para verificação:
@@ -1432,7 +1430,9 @@ Anualmente, será solicitada a atualização imediata dos Campos Obrigatórios a
 
 Passo 4: Após a atualização das informações, o Usuário/Responsável clica em Salvar.
 
-![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image150.jpg)
+![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image150.jpg) 
+  
+ 
 
 
 **2. Procedimentos relativos ao registro no Módulo Venda**
@@ -2136,7 +2136,7 @@ Após selecionar o RVS que deseja consultar, o Sistema apresenta a tela
 
 > []{#_3im3ia3 .anchor}
 
-**2.2 Inclusão do RF**
+## **2.2 Inclusão do RF**
 
 A partir do **Módulo Venda**, no *menu* **RF**, há 3 funções:
 **Incluir**, **Cancelar** e **Consultar**.
@@ -2715,7 +2715,7 @@ graphic](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image
 Após selecionar o RPC que deseja consultar, o Sistema apresenta a tela
 **Resumo do RPC**, que inclui todos os dados do RPC.
 
- **3. Transmissão em Lote**
+**3. Transmissão em Lote**
 
 A transmissão em lote foi implementada para atender os residentes e domiciliados no Brasil que realizam um grande número de transações de venda ou aquisição de serviços com residentes ou domiciliados no exterior e têm a obrigação legal de efetuar os registros correspondentes no Siscoserv.
 
@@ -2790,15 +2790,14 @@ Este erro pode ocorrer por dois motivos:
     > caso, basta reenviar o lote após selecionar a operação correta
     > (veja [[Procedimentos para envio do arquivo de
     > lote]{.underline}](#_280hiku)); ou
-
+    >
 2)  O arquivo de dados enviado não está de acordo com as especificações
     > descritas nas [[Orientações
     > Técnicas]{.underline}](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Orienta%C3%A7%C3%B5es_T%C3%A9cnicas.pdf).
     > Neste caso, o sistema responsável pela geração dos arquivos de
     > lote e de dados deve sofrer correções.
 
-Neste momento, o Sistema atribuirá ao lote um *status* de acordo com o
-*status* dos arquivos de dados que o compõem.
+Neste momento, o Sistema atribuirá ao lote um *status* de acordo com o *status* dos arquivos de dados que o compõem.
 
 Durante o processamento noturno dos lotes, o Sistema analisará os dados enviados de forma a garantir a sua coerência e aderência às regras de negócio definidas no corpo deste manual. Como exemplo de uma das regras de negócio verificadas, o Siscoserv não permitirá que o Brasil seja indicado como o país de residência ou domicílio do adquirente. Em seguida, o Sistema efetivará as operações contidas nos arquivos de dados aprovados e atribuirá aos arquivos de lote e de dados os
 *status*[]{#3sv78d1 .anchor} decorrentes deste processamento.
@@ -2857,7 +2856,8 @@ Um arquivo de lote pode receber seis *status* diferentes:
 []{#_280hiku
 .anchor}![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image134.png)
 
-[]{#_n5rssn .anchor}**3.1. Procedimentos para envio do arquivo de lote**
+[]{#_n5rssn .anchor}
+**3.1. Procedimentos para envio do arquivo de lote**
 
 Para efetuar a transmissão em lote o usuário deve [[acessar o Siscoserv]{.underline}](#_25lcl3g) e clicar na aba **Transmissão em Lote**.
 
@@ -3025,7 +3025,7 @@ a data em que os arquivos foram enviados para processamento. Vale ressaltar que 
 
 []{#_4jpj0b3 .anchor}
 
- **4. Relatório Gerencial**
+**4. Relatório Gerencial**
 
 A funcionalidade **Relatório Gerencial** visa a atender uma solicitação dos usuários do Siscoserv com vistas a gerar um relatório sobre todas as operações registradas no sistema e, ainda, o *status* dessas informações.
 
@@ -3260,8 +3260,7 @@ O sistema gera uma Planilha Excel com todos os dados de RVS ou RF vinculados par
 [Relatórios Gerenciais RF](#3xzr3ei).
 
 []{#_1rf9gpq .anchor}\
-**Capítulo
-3**![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png)
+**Capítulo 3**![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image22.png)
 
 **Cenários Exemplificativos de Registro no Siscoserv**
 
@@ -3442,7 +3441,8 @@ Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_i
 > C~BR~: RAS pelo serviço de transporte tendo T~EX~ como vendedor e RAS
 > pelo serviço de desconsolidação, tendo D~EX~ como vendedor.
 >
- **2. Seguros**
+
+**2. Seguros**
 
 **Cenário 2.1. Contratação de seguro com intermediação de corretora**
 
@@ -3537,7 +3537,7 @@ inclusive operações *intercompany*, de acordo com o previsto na legislação p
 
 []{#_3utoxif .anchor}
 
- **4. Expatriados**
+**4. Expatriados**
 
 A movimentação temporária de pessoas físicas para prestação de serviços enseja o registro no Siscoserv, sempre que cumpridos os pilares previstos na legislação relativa ao Sistema. Conforme explicitado neste Manual, deve-se registrar [operações](#kqmvb9) em Modo 4
 no Módulo Aquisição do Siscoserv as pessoas físicas ou jurídicas
