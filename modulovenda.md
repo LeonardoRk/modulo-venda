@@ -1107,6 +1107,7 @@ São exemplos:
 **Registro de Exportação (RE):** no Sistema Integrado de Comércio Exterior - Siscomex é o conjunto de informações de natureza comercial,
 financeira, cambial e fiscal que caracterizam a operação de exportação de uma mercadoria e definem o seu enquadramento.
 
+<a id="1tuee74"></a>
 **Residente no Brasil:** Considera-se residente no Brasil a pessoa física (Lei n^[o]{.underline}^ 9.718, de 27 de novembro de 1998, art.
 12; Instrução Normativa SRF n^[o]{.underline}^ 208, de 27 de setembro de
 2002, art. 2^[o]{.underline}^, com a alteração dada pela Instrução Normativa RFB n^[o]{.underline}^ 1.008, de 9 de fevereiro de 2010) :
