@@ -3288,26 +3288,26 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 [Atores]{.underline}:
 
-> E~BR~: Exportador residente ou domiciliado no Brasil
+> Eᴮᴿ: Exportador residente ou domiciliado no Brasil
 >
-> AgC~BR~: Agente de Cargas residente ou domiciliado no Brasil
+> AgCᴮᴿ: Agente de Cargas residente ou domiciliado no Brasil
 >
-> T~EX~: Transportador residente ou domiciliado no Exterior
+> Tₑₓ: Transportador residente ou domiciliado no Exterior
 >
-> I~EX~: Importador residente ou domiciliado no Exterior
+> Iₑₓ: Importador residente ou domiciliado no Exterior
 
 [Relações entre os Atores:]{.underline}
 
-> E~BR~ -- I~EX~: Exportador Brasileiro se compromete a transportar
+> Eᴮᴿ -- Iₑₓ: Exportador Brasileiro se compromete a transportar
 > mercadorias até o local indicado pelo Importador residente ou
 > domiciliado no exterior.
 >
-> E~BR~ -- AgC~BR~: Exportador brasileira contrata Agente de Cargas
+> Eᴮᴿ -- AgCᴮᴿ: Exportador brasileira contrata Agente de Cargas
 > residente ou domiciliado no Brasil para que, **em nome de Exportador
 > brasileiro**, contrate o transporte marítimo das mercadorias até o
 > local indicado pelo Importador residente ou domiciliado no Exterior~.~
 >
-> AgC~BR~ -- T~EX~: Agente de Cargas residente ou domiciliado no Brasil
+> AgCᴮᴿ -- Tₑₓ: Agente de Cargas residente ou domiciliado no Brasil
 > contrata Transportador residente ou domiciliado no Exterior, **em
 > nome** do Exportador brasileiro, para transportar as mercadorias até o
 > local indicado pelo Importador residente ou domiciliado no Exterior,
@@ -3320,11 +3320,11 @@ Entretanto, a lógica aplicada em cada uma das situações pode se estender aos 
 
 [Registros devidos:]{.underline}
 
-> E~BR~: RAS pelo serviço de transporte tendo T~EX~ como vendedor.
+> Eᴮᴿ: RAS pelo serviço de transporte tendo Tₑₓ como vendedor.
 >
-> Observação: Neste cenário E~BR~ não se sujeita a registrar no Módulo
+> Observação: Neste cenário Eᴮᴿ não se sujeita a registrar no Módulo
 > Venda do Siscoserv os serviços de transporte internacional de carga
-> adquiridos de T~EX~, cujo custo seja por ele repassado a I~EX~.
+> adquiridos de Tₑₓ, cujo custo seja por ele repassado a Iₑₓ.
 >
 **Cenário 1.2. Transporte internacional de cargas intermediado por agente de cargas.**
 
@@ -3336,36 +3336,36 @@ Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_i
 
 [Atores]{.underline}:
 
-> I~BR~: Importador residente ou domiciliado no Brasil
+> Iᴮᴿ: Importador residente ou domiciliado no Brasil
 >
-> E~EX~: Exportador residente ou domiciliado no Exterior
+> Eₑₓ: Exportador residente ou domiciliado no Exterior
 >
-> AgC~BR~: Agente de Cargas residente ou domiciliado no Brasil
+> AgCᴮᴿ: Agente de Cargas residente ou domiciliado no Brasil
 >
-> AgCg~EX~: Agente de carga residente ou domiciliado no Exterior
+> AgCgₑₓ: Agente de carga residente ou domiciliado no Exterior
 >
-> T~EX~: Transportador residente ou domiciliado no Exterior
+> Tₑₓ: Transportador residente ou domiciliado no Exterior
 
 [Relações entre os Atores:]{.underline}
 
-> I~BR~ -- E~EX~: I~BR~ assume o ônus de transportar a mercadoria
+> Iᴮᴿ -- Eₑₓ: Iᴮᴿ assume o ônus de transportar a mercadoria
 > importada
 >
-> I~BR~ -- AgC~BR~: I~BR~ contrata AgC~BR~ para que, em nome de I~BR~,
+> Iᴮᴿ -- AgCᴮᴿ: Iᴮᴿ contrata AgCᴮᴿ para que, em nome de Iᴮᴿ,
 > contrate o transporte marítimo das mercadorias até o local indicado
 > por I~BR.~
 >
-> AgC~BR~ -- T~EX~: AgC~BR~ contrata T~EX~, em nome de I~BR~, para
-> transportar as mercadorias até o local indicado por I~BR~, sendo que
-> T~EX~ de fato fará o transporte.
+> AgCᴮᴿ -- Tₑₓ: AgCᴮᴿ contrata Tₑₓ, em nome de Iᴮᴿ, para
+> transportar as mercadorias até o local indicado por Iᴮᴿ, sendo que
+> Tₑₓ de fato fará o transporte.
 
 [Registros devidos:]{.underline}
 
-> I~BR~: RAS pelo serviço de transporte tendo T~EX~ como vendedor.
+> Iᴮᴿ: RAS pelo serviço de transporte tendo Tₑₓ como vendedor.
 >
 > Observação: Caso o agente de cargas brasileiro intermedeie, em nome do
 > importador brasileiro, a contratação do agente de cargas estrangeiro,
-> deve ser feito um RAS por I~BR~ tendo AgCg~EX~ como vendedor do
+> deve ser feito um RAS por Iᴮᴿ tendo AgCgₑₓ como vendedor do
 > serviço.
 >
 **Cenário 1.3. Transporte internacional de cargas com consolidação e desconsolidação de cargas.**
@@ -3376,37 +3376,37 @@ Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_i
 
 [Atores]{.underline}:
 
-> E~EX~: Exportador residente ou domiciliado no Exterior
+> Eₑₓ: Exportador residente ou domiciliado no Exterior
 >
-> I~BR~: Importador residente ou domiciliado no Brasil
+> Iᴮᴿ: Importador residente ou domiciliado no Brasil
 >
-> C~EX~: Consolidador de cargas residente ou domiciliado no Exterior
+> Cₑₓ: Consolidador de cargas residente ou domiciliado no Exterior
 >
-> D~BR~: Desconsolidador de cargas residente ou domiciliado no Brasil
+> Dᴮᴿ: Desconsolidador de cargas residente ou domiciliado no Brasil
 >
-> T~EX~: Transportador residente ou domiciliado no Exterior
+> Tₑₓ: Transportador residente ou domiciliado no Exterior
 
 [Relações entre os Atores]{.underline}:
 
-> E~EX~ -- I~BR~: E~EX~ compromete-se com o I~BR~ a transportar a
-> mercadoria até local indicado por I~BR~ em solo brasileiro.
+> Eₑₓ -- Iᴮᴿ: Eₑₓ compromete-se com o Iᴮᴿ a transportar a
+> mercadoria até local indicado por Iᴮᴿ em solo brasileiro.
 >
-> E~EX~ -- C~EX~: E~EX~ contrata C~EX~ para providenciar a consolidação
-> e o transporte da mercadoria até o local indicado por I~BR~
+> Eₑₓ -- Cₑₓ: Eₑₓ contrata Cₑₓ para providenciar a consolidação
+> e o transporte da mercadoria até o local indicado por Iᴮᴿ
 >
-> C~EX~ -- D~BR~: C~EX~ contrata D~BR~ para fazer a desconsolidação da
+> Cₑₓ -- Dᴮᴿ: Cₑₓ contrata Dᴮᴿ para fazer a desconsolidação da
 > mercadoria.
 >
-> C~EX~ -- T~EX~: C~EX~ contrata em seu próprio nome T~EX~ para
+> Cₑₓ -- Tₑₓ: Cₑₓ contrata em seu próprio nome Tₑₓ para
 > transportar a mercadoria.
 
 [Registros devidos]{.underline}:
 
-> D~BR~: RVS pelo serviço de desconsolidação tendo C~EX~ como
+> Dᴮᴿ: RVS pelo serviço de desconsolidação tendo Cₑₓ como
 > adquirente.
 >
 > **Não há registro no Siscoserv** pelo serviço de transporte de cargas
-> neste caso, pois ambos, C~EX~ e T~EX,~ são domiciliados no exterior.
+> neste caso, pois ambos, Cₑₓ e T~EX,~ são domiciliados no exterior.
 >
 **Cenário 1.4. Transporte internacional de cargas com consolidação e desconsolidação de cargas.**
 
@@ -3418,35 +3418,35 @@ Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_i
 
 [Atores]{.underline}:
 
-> E~BR~: Exportador residente ou domiciliado no Brasil
+> Eᴮᴿ: Exportador residente ou domiciliado no Brasil
 >
-> I~EX~: Importador residente ou domiciliado no Exterior
+> Iₑₓ: Importador residente ou domiciliado no Exterior
 >
-> C~BR~: Consolidador de cargas residente ou domiciliado no Brasil
+> Cᴮᴿ: Consolidador de cargas residente ou domiciliado no Brasil
 >
-> D~EX~: Desconsolidador de cargas residente ou domiciliado no Exterior
+> Dₑₓ: Desconsolidador de cargas residente ou domiciliado no Exterior
 >
-> T~EX~: Transportador, operador de veículo, residente ou domiciliado no
+> Tₑₓ: Transportador, operador de veículo, residente ou domiciliado no
 > Exterior.
 
 [Relações entre os Atores:]{.underline}
 
-> E~BR~ -- I~EX~: E~BR~ compromete-se com o I~EX~ a transportar a
-> mercadoria até local indicado por I~EX~.
+> Eᴮᴿ -- Iₑₓ: Eᴮᴿ compromete-se com o Iₑₓ a transportar a
+> mercadoria até local indicado por Iₑₓ.
 >
-> E~BR~ -- C~BR~: E~BR~ contrata C~BR~ para providenciar a consolidação
-> e o transporte da mercadoria até o local indicado por I~EX~.
+> Eᴮᴿ -- Cᴮᴿ: Eᴮᴿ contrata Cᴮᴿ para providenciar a consolidação
+> e o transporte da mercadoria até o local indicado por Iₑₓ.
 >
-> C~BR~ -- T~EX~: CBR contrata T~EX~ para transportar as mercadorias até
-> o local indicado por I~EX~, sendo que T~EX~ de fato fará o transporte.
+> Cᴮᴿ -- Tₑₓ: CBR contrata Tₑₓ para transportar as mercadorias até
+> o local indicado por Iₑₓ, sendo que Tₑₓ de fato fará o transporte.
 >
-> C~BR~ -- D~EX~: C~BR~ contrata D~EX~ para fazer a desconsolidação da
+> Cᴮᴿ -- Dₑₓ: Cᴮᴿ contrata Dₑₓ para fazer a desconsolidação da
 > mercadoria.
 
 [Registros devidos:]{.underline}
 
-> C~BR~: RAS pelo serviço de transporte tendo T~EX~ como vendedor e RAS
-> pelo serviço de desconsolidação, tendo D~EX~ como vendedor.
+> Cᴮᴿ: RAS pelo serviço de transporte tendo Tₑₓ como vendedor e RAS
+> pelo serviço de desconsolidação, tendo Dₑₓ como vendedor.
 >
 
 ## 2. Seguros
@@ -3455,58 +3455,58 @@ Correto.png](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_i
 
 [Descrição]{.underline}
 
-Empresa residente ou domiciliada no Brasil -- Emp~BR~, utiliza corretora de seguros, também residente ou domiciliada no Brasil, -- Cor~BR~ que intermedeia a contratação com a seguradora residente ou domiciliada no exterior -- Seg~EX~. Desta forma, mesmo intervindo o intermediário Cor~BR~, as partes do contrato do seguro continuam a ser Emp~BR~ e Seg~EX~ e cabe a Emp~BR~, a contratante no Brasil, o registro no Siscoserv.
+Empresa residente ou domiciliada no Brasil -- Empᴮᴿ, utiliza corretora de seguros, também residente ou domiciliada no Brasil, -- Corᴮᴿ que intermedeia a contratação com a seguradora residente ou domiciliada no exterior -- Segₑₓ. Desta forma, mesmo intervindo o intermediário Corᴮᴿ, as partes do contrato do seguro continuam a ser Empᴮᴿ e Segₑₓ e cabe a Empᴮᴿ, a contratante no Brasil, o registro no Siscoserv.
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image95.jpg)
 
 [Atores]{.underline}:
 
-> Emp~BR~: Empresa residente ou domiciliado no Brasil
+> Empᴮᴿ: Empresa residente ou domiciliado no Brasil
 >
-> Cor~BR~: Corretora de seguros residente ou domiciliado no Brasil
+> Corᴮᴿ: Corretora de seguros residente ou domiciliado no Brasil
 >
-> Seg~EX~: Seguradora residente ou domiciliado no Exterior
+> Segₑₓ: Seguradora residente ou domiciliado no Exterior
 
 [Relações entre os Atores:]{.underline}
 
-> Emp~BR~ -- Cor~BR~: Emp~BR~ contrata Cor~BR~ para que, em nome de
-> Emp~BR~, contrate o seguro.
+> Empᴮᴿ -- Corᴮᴿ: Empᴮᴿ contrata Corᴮᴿ para que, em nome de
+> Empᴮᴿ, contrate o seguro.
 >
-> Cor~BR~ -- Seg~EX~: Cor~BR~ contrata seguro de Seg~EX~, em nome de
-> Emp~BR~.
+> Corᴮᴿ -- Segₑₓ: Corᴮᴿ contrata seguro de Segₑₓ, em nome de
+> Empᴮᴿ.
 
 [Registros devidos]{.underline}:
 
-> Emp~BR~: RAS pelo serviço de seguro tendo Seg~EX~ como vendedora.
+> Empᴮᴿ: RAS pelo serviço de seguro tendo Segₑₓ como vendedora.
 >
 **Cenário 2.2. Contratação de seguro de estipulante domiciliada ou residente no Brasil**
 
 [Descrição]{.underline}
 
-Est~BR~, residente ou domiciliada no Brasil, é uma corretora que contrata e paga apólice coletiva de seguros, ficando investida dos poderes de representação dos segurados perante as seguradoras, fazendo papel de estipulante. Se Seg~EX~, seguradora residente ou domiciliada no exterior, for contratada e paga por Est~BR~ em favor de Emp~BR~,
-residente ou domiciliada no Brasil, Est~BR~ é considerado o contratante e, consequentemente, o responsável pelo registro no Siscoserv
+Estᴮᴿ, residente ou domiciliada no Brasil, é uma corretora que contrata e paga apólice coletiva de seguros, ficando investida dos poderes de representação dos segurados perante as seguradoras, fazendo papel de estipulante. Se Segₑₓ, seguradora residente ou domiciliada no exterior, for contratada e paga por Estᴮᴿ em favor de Empᴮᴿ,
+residente ou domiciliada no Brasil, Estᴮᴿ é considerado o contratante e, consequentemente, o responsável pelo registro no Siscoserv
 
 ![](https://github.com/LeonardoRk/modulo-venda/blob/master/media/novo_image96.jpg)
 
 [Atores]{.underline}:
 
-> Emp~BR~: Empresa residente ou domiciliado no Brasil
+> Empᴮᴿ: Empresa residente ou domiciliado no Brasil
 >
-> Est~BR~: Estipulante residente ou domiciliada no Brasil
+> Estᴮᴿ: Estipulante residente ou domiciliada no Brasil
 >
-> Seg~EX~: Seguradora residente ou domiciliado no Exterior
+> Segₑₓ: Seguradora residente ou domiciliado no Exterior
 
 [Relações entre os Atores:]{.underline}
 
-> Emp~BR~ -- Est~BR~: Emp~BR~ contrata seguro de Est~BR~.
+> Empᴮᴿ -- Estᴮᴿ: Empᴮᴿ contrata seguro de Estᴮᴿ.
 >
-> Est~BR~ -- Seg~EX~: Est~BR~ contrata apólice coletiva de seguros de
-> Seg~EX~ e paga por ela, ficando investida dos poderes de representação
-> dos segurados, inclusive Emp~EX~, perante Seg~EX~
+> Estᴮᴿ -- Segₑₓ: Estᴮᴿ contrata apólice coletiva de seguros de
+> Segₑₓ e paga por ela, ficando investida dos poderes de representação
+> dos segurados, inclusive Empₑₓ, perante Segₑₓ
 
 [Registros devidos]{.underline}:
 
-> Est~BR~: RAS pelo serviço de seguro tendo Seg~EX~ como vendedora.
+> Estᴮᴿ: RAS pelo serviço de seguro tendo Segₑₓ como vendedora.
 >
 > []{#_4gjguf0 .anchor}
 
